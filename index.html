@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Trắc Nghiệm Online</title>
+    <!-- Liên kết với file CSS để tạo kiểu dáng cho trang web -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Bài Thi Trắc Nghiệm</h1>
+
+        <!-- Màn hình chọn đề thi (hiển thị ban đầu) -->
+        <div id="quiz-selection">
+            <label for="quiz-select">Chọn đề thi:</label>
+            <select id="quiz-select">
+                <!-- Các tùy chọn đề thi sẽ được JavaScript thêm vào đây -->
+            </select>
+            <button id="start-quiz-btn">Bắt đầu thi</button>
+        </div>
+
+        <!-- Màn hình làm bài thi (ẩn ban đầu) -->
+        <div id="quiz-container" style="display:none;">
+            <div id="question-number"></div>
+            <div id="question"></div>
+            <div id="options" class="options-grid">
+                <!-- Các lựa chọn đáp án sẽ được JavaScript thêm vào đây -->
+            </div>
+            <div class="explanation-section">
+                <button id="explain-answer-btn">Giải thích đáp án ✨</button>
+                <div id="explanation-loading" style="display:none;">Đang tải giải thích...</div>
+                <div id="answer-explanation"></div>
+            </div>
+            <div class="navigation-buttons">
+                <button id="prev-btn" disabled>Câu trước</button>
+                <button id="next-btn">Câu sau</button>
+                <button id="submit-btn" style="display:none;">Nộp bài</button>
+            </div>
+        </div>
+
+        <!-- Màn hình kết quả (ẩn ban đầu) -->
+        <div id="result-container" style="display:none;">
+            <h2>Kết quả của bạn</h2>
+            <p>Bạn đã trả lời đúng <span id="score"></span> / <span id="total-questions"></span> câu.</p>
+            <button id="retake-quiz-btn">Làm lại</button>
+        </div>
+    </div>
+
+    <!-- Liên kết với file JavaScript để xử lý logic của trang web -->
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+[
+  {
+    "question": "Câu hỏi 1: Thủ đô của Pháp là gì?",
+    "options": [
+      "Berlin",
+      "Madrid",
+      "Paris",
+      "Rome"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu hỏi 2: Ai là người viết 'Truyện Kiều'?",
+    "options": [
+      "Nguyễn Du",
+      "Hồ Chí Minh",
+      "Trần Hưng Đạo",
+      "Lê Lợi"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 3: Công thức hóa học của nước là gì?",
+    "options": [
+      "CO2",
+      "O2",
+      "H2O",
+      "N2"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu hỏi 4: 5 x 7 = ?",
+    "options": [
+      "25",
+      "30",
+      "35",
+      "40",
+      "45",
+      "50"
+    ],
+    "answer": 2
+  }
+]
