@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let currentQuiz = [];
     let currentQuestionIndex = 0;
     let userAnswers = []; // Lưu trữ đáp án của người dùng (chỉ số của đáp án đã chọn)
-    const quizFiles = ['topic1.json', 'de_thi_ly.json', 'de_thi_hoa.json']; // Danh sách các file đề thi trong thư mục 'data/'
+    const quizFiles = ['topic_noinha_nhachu.json']; // Danh sách các file đề thi trong thư mục 'data/'
 
     // --- Khởi tạo Dropdown chọn đề thi ---
     async function populateQuizSelection() {
