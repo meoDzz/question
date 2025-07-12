@@ -27,11 +27,7 @@
             <div id="options" class="options-grid">
                 <!-- Các lựa chọn đáp án sẽ được JavaScript thêm vào đây -->
             </div>
-            <div class="explanation-section">
-                <button id="explain-answer-btn">Giải thích đáp án ✨</button>
-                <div id="explanation-loading" style="display:none;">Đang tải giải thích...</div>
-                <div id="answer-explanation"></div>
-            </div>
+            <!-- Phần giải thích bằng Gemini API đã bị loại bỏ -->
             <div class="navigation-buttons">
                 <button id="prev-btn" disabled>Câu trước</button>
                 <button id="next-btn">Câu sau</button>
@@ -43,7 +39,16 @@
         <div id="result-container" style="display:none;">
             <h2>Kết quả của bạn</h2>
             <p>Bạn đã trả lời đúng <span id="score"></span> / <span id="total-questions"></span> câu.</p>
-            <button id="retake-quiz-btn">Làm lại</button>
+            <div id="incorrect-answers-summary">
+                <h3>Các câu trả lời sai:</h3>
+                <ul id="incorrect-questions-list">
+                    <!-- Danh sách câu sai sẽ được JavaScript thêm vào đây -->
+                </ul>
+            </div>
+            <div class="result-actions">
+                <button id="review-quiz-btn">Xem lại bài</button>
+                <button id="retake-quiz-btn">Làm lại</button>
+            </div>
         </div>
     </div>
 

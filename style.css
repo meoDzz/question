@@ -187,3 +187,82 @@ button:disabled {
     font-weight: bold;
     color: #28a745;
 }
+
+/* Style cho phần hiển thị câu trả lời sai */
+#incorrect-answers-summary {
+    margin-top: 30px;
+    text-align: left;
+    background-color: #ffebee; /* Màu nền nhẹ cho phần câu sai */
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid #ef9a9a; /* Viền đỏ nhạt */
+}
+
+#incorrect-answers-summary h3 {
+    color: #d32f2f; /* Màu đỏ đậm */
+    margin-bottom: 15px;
+}
+
+#incorrect-questions-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#incorrect-questions-list li {
+    margin-bottom: 10px;
+    font-size: 1.1em;
+    color: #424242;
+}
+
+#incorrect-questions-list li a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#incorrect-questions-list li a:hover {
+    text-decoration: underline;
+}
+
+/* Style cho các lựa chọn khi ở chế độ review */
+.option-item.correct-answer {
+    background-color: #e8f5e9; /* Màu xanh lá nhạt */
+    border: 2px solid #4caf50; /* Viền xanh lá */
+}
+
+.option-item.correct-answer .radio-custom {
+    border-color: #4caf50;
+    background-color: #4caf50;
+}
+
+.option-item.correct-answer .radio-custom::after {
+    background: white; /* Chấm trắng bên trong radio đúng */
+}
+
+.option-item.incorrect-selected {
+    background-color: #ffebee; /* Màu đỏ nhạt */
+    border: 2px solid #f44336; /* Viền đỏ */
+}
+
+.option-item.incorrect-selected .radio-custom {
+    border-color: #f44336;
+    background-color: #f44336;
+}
+
+.option-item.incorrect-selected .radio-custom::after {
+    background: white; /* Chấm trắng bên trong radio sai */
+}
+
+/* Nút quay lại kết quả khi đang review */
+#back-to-results-btn {
+    background-color: #6c757d;
+}
+
+#back-to-results-btn:hover {
+    background-color: #5a6268;
+}
+
+.result-actions {
+    margin-top: 30px;
+}
