@@ -28,8 +28,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // Bạn cần chỉnh sửa mảng này mỗi khi thêm hoặc xóa file JSON đề thi trong thư mục 'data/'
     const quizFiles = [
         'topic_noinha_nhachu.json',
-        'history_quiz.json',
-        'science_quiz.json',
+        'de1_noinha_nhachu.json',
+        'de2_noinha_nhachu.json',
         // Thêm các file JSON đề thi khác của bạn vào đây, ví dụ:
         // 'chemistry_quiz.json',
         // 'physics_quiz.json'
