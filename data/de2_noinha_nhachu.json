@@ -1,0 +1,602 @@
+[
+  {
+    "question": "Câu hỏi 51: Nội dung minh hoạ mức độ medium?",
+    "options": [
+      "Đáp án A medium",
+      "Đáp án B medium",
+      "Đáp án C medium",
+      "Đáp án D medium",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu hỏi 52: Nội dung minh hoạ mức độ medium?",
+    "options": [
+      "Đáp án A medium",
+      "Đáp án B medium",
+      "Đáp án C medium",
+      "Đáp án D medium",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 53: Nội dung minh hoạ mức độ medium?",
+    "options": [
+      "Đáp án A medium",
+      "Đáp án B medium",
+      "Đáp án C medium",
+      "Đáp án D medium",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu hỏi 54: Nội dung minh hoạ mức độ medium?",
+    "options": [
+      "Đáp án A medium",
+      "Đáp án B medium",
+      "Đáp án C medium",
+      "Đáp án D medium",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu hỏi 55: Nội dung minh hoạ mức độ medium?",
+    "options": [
+      "Đáp án A medium",
+      "Đáp án B medium",
+      "Đáp án C medium",
+      "Đáp án D medium",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu hỏi 56: Nội dung minh hoạ mức độ medium?",
+    "options": [
+      "Đáp án A medium",
+      "Đáp án B medium",
+      "Đáp án C medium",
+      "Đáp án D medium",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 57: Nội dung minh hoạ mức độ medium?",
+    "options": [
+      "Đáp án A medium",
+      "Đáp án B medium",
+      "Đáp án C medium",
+      "Đáp án D medium",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 58: Nội dung minh hoạ mức độ medium?",
+    "options": [
+      "Đáp án A medium",
+      "Đáp án B medium",
+      "Đáp án C medium",
+      "Đáp án D medium",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 5
+  },
+  {
+    "question": "Câu hỏi 59: Nội dung minh hoạ mức độ medium?",
+    "options": [
+      "Đáp án A medium",
+      "Đáp án B medium",
+      "Đáp án C medium",
+      "Đáp án D medium",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu hỏi 60: Nội dung minh hoạ mức độ medium?",
+    "options": [
+      "Đáp án A medium",
+      "Đáp án B medium",
+      "Đáp án C medium",
+      "Đáp án D medium",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu hỏi 61: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu hỏi 62: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 63: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 64: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu hỏi 65: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 66: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 67: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu hỏi 68: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 69: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu hỏi 70: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu hỏi 71: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu hỏi 72: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu hỏi 73: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 74: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 5
+  },
+  {
+    "question": "Câu hỏi 75: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu hỏi 76: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu hỏi 77: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 78: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu hỏi 79: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 80: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu hỏi 81: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu hỏi 82: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 5
+  },
+  {
+    "question": "Câu hỏi 83: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu hỏi 84: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu hỏi 85: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu hỏi 86: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 87: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 5
+  },
+  {
+    "question": "Câu hỏi 88: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 89: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 90: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 5
+  },
+  {
+    "question": "Câu hỏi 91: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 92: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu hỏi 93: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 94: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 95: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 96: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu hỏi 97: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu hỏi 98: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu hỏi 99: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 5
+  },
+  {
+    "question": "Câu hỏi 100: Nội dung minh hoạ mức độ hard?",
+    "options": [
+      "Đáp án A hard",
+      "Đáp án B hard",
+      "Đáp án C hard",
+      "Đáp án D hard",
+      "Cả a và b đều đúng",
+      "Tất cả đều sai"
+    ],
+    "answer": 2
+  }
+]
