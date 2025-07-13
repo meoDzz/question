@@ -27,9 +27,10 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- CẬP NHẬT: Danh sách các file đề thi được điền bằng tay tại đây ---
     // Bạn cần chỉnh sửa mảng này mỗi khi thêm hoặc xóa file JSON đề thi trong thư mục 'data/'
     const quizFiles = [
-        'topic_noinha_nhachu.json',
         'de1_noinha_nhachu.json',
         'de2_noinha_nhachu.json',
+        'de3_noinha_nhachu.json',
+        'de4_noinha_nhachu.json',
         // Thêm các file JSON đề thi khác của bạn vào đây, ví dụ:
         // 'chemistry_quiz.json',
         // 'physics_quiz.json'

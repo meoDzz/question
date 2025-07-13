@@ -1,601 +1,216 @@
 [
   {
-    "question": "Câu hỏi 51: Nội dung minh hoạ mức độ medium?",
+    "question": "Câu hỏi 1: Đường thông thương giữa tủy và mô nha chu KHÔNG bao gồm?",
     "options": [
-      "Đáp án A medium",
-      "Đáp án B medium",
-      "Đáp án C medium",
-      "Đáp án D medium",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
+      "Lỗ chóp",
+      "Ống ngà",
+      "Ống tủy phụ",
+      "Men răng",
+      "Rãnh khẩu cái-nướu"
     ],
     "answer": 3
   },
   {
-    "question": "Câu hỏi 52: Nội dung minh hoạ mức độ medium?",
+    "question": "Câu hỏi 2: Ống tủy phụ thường thấy ở đâu?",
     "options": [
-      "Đáp án A medium",
-      "Đáp án B medium",
-      "Đáp án C medium",
-      "Đáp án D medium",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
+      "1/3 giữa chân răng cửa",
+      "Vùng chẽ chân răng hàm",
+      "1/3 cổ chân răng tiền cối",
+      "Mặt xa răng nanh",
+      "Cả a và d đều đúng"
     ],
     "answer": 1
   },
   {
-    "question": "Câu hỏi 53: Nội dung minh hoạ mức độ medium?",
+    "question": "Câu hỏi 3: Nguyên nhân nào sau đây KHÔNG gây ra đường thông thương bệnh lý?",
     "options": [
-      "Đáp án A medium",
-      "Đáp án B medium",
-      "Đáp án C medium",
-      "Đáp án D medium",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
+      "Chấn thương gãy chân răng",
+      "Thủng thành tủy do điều trị",
+      "Ống tủy bên",
+      "Tiêu chân răng",
+      "Nứt dọc chân răng"
     ],
-    "answer": 3
+    "answer": 2
   },
   {
-    "question": "Câu hỏi 54: Nội dung minh hoạ mức độ medium?",
+    "question": "Câu hỏi 4: Đặc điểm của vi khuẩn gây bệnh nội nha - nha chu là gì?",
     "options": [
-      "Đáp án A medium",
-      "Đáp án B medium",
-      "Đáp án C medium",
-      "Đáp án D medium",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
+      ">90% là vi khuẩn kỵ khí",
+      "Candida và virus HSV tham gia",
+      "Porphyromonas và Prevotella hoạt hóa đại thực bào",
+      "Chỉ có vi khuẩn hiếu khí gây tổn thương",
+      "a, b và c đều đúng"
     ],
     "answer": 4
   },
   {
-    "question": "Câu hỏi 55: Nội dung minh hoạ mức độ medium?",
+    "question": "Câu hỏi 5: Những thủ thuật nào có thể dẫn đến sang thương nội nha do nha chu?",
     "options": [
-      "Đáp án A medium",
-      "Đáp án B medium",
-      "Đáp án C medium",
-      "Đáp án D medium",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Câu hỏi 56: Nội dung minh hoạ mức độ medium?",
-    "options": [
-      "Đáp án A medium",
-      "Đáp án B medium",
-      "Đáp án C medium",
-      "Đáp án D medium",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Câu hỏi 57: Nội dung minh hoạ mức độ medium?",
-    "options": [
-      "Đáp án A medium",
-      "Đáp án B medium",
-      "Đáp án C medium",
-      "Đáp án D medium",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Câu hỏi 58: Nội dung minh hoạ mức độ medium?",
-    "options": [
-      "Đáp án A medium",
-      "Đáp án B medium",
-      "Đáp án C medium",
-      "Đáp án D medium",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 5
-  },
-  {
-    "question": "Câu hỏi 59: Nội dung minh hoạ mức độ medium?",
-    "options": [
-      "Đáp án A medium",
-      "Đáp án B medium",
-      "Đáp án C medium",
-      "Đáp án D medium",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Câu hỏi 60: Nội dung minh hoạ mức độ medium?",
-    "options": [
-      "Đáp án A medium",
-      "Đáp án B medium",
-      "Đáp án C medium",
-      "Đáp án D medium",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Câu hỏi 61: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Câu hỏi 62: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Câu hỏi 63: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Câu hỏi 64: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Câu hỏi 65: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Câu hỏi 66: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Câu hỏi 67: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Câu hỏi 68: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Câu hỏi 69: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Câu hỏi 70: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Câu hỏi 71: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
+      "Cạo cao",
+      "Phẫu thuật vạt",
+      "Sử dụng acid citric",
+      "Etching chân răng",
+      "Tất cả các ý trên"
     ],
     "answer": 4
   },
   {
-    "question": "Câu hỏi 72: Nội dung minh hoạ mức độ hard?",
+    "question": "Câu hỏi 6: Đặc điểm chẩn đoán sang thương nội nha nguyên phát là?",
     "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
+      "Có mảng bám nhiều",
+      "Thử tủy âm tính",
+      "Đường dò từ chóp ra khe nướu",
+      "Không có hình ảnh X-quang bất thường",
+      "Cả b và c đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu hỏi 7: Trong phân loại sang thương NN-NC của Simon, có bao nhiêu loại?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
     ],
     "answer": 2
   },
   {
-    "question": "Câu hỏi 73: Nội dung minh hoạ mức độ hard?",
+    "question": "Câu hỏi 8: Hình ảnh X-quang của sang thương nha chu nguyên phát là?",
     "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Câu hỏi 74: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 5
-  },
-  {
-    "question": "Câu hỏi 75: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Câu hỏi 76: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 4
-  },
-  {
-    "question": "Câu hỏi 77: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Câu hỏi 78: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Câu hỏi 79: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Câu hỏi 80: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 4
-  },
-  {
-    "question": "Câu hỏi 81: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Câu hỏi 82: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 5
-  },
-  {
-    "question": "Câu hỏi 83: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 4
-  },
-  {
-    "question": "Câu hỏi 84: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Câu hỏi 85: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 4
-  },
-  {
-    "question": "Câu hỏi 86: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
+      "Thấu quang vùng chóp",
+      "Tiêu xương dạng góc lan dài",
+      "Chỉ xuất hiện ở một răng",
+      "Cả hai câu a, b đều sai"
     ],
     "answer": 1
   },
   {
-    "question": "Câu hỏi 87: Nội dung minh hoạ mức độ hard?",
+    "question": "Câu hỏi 9: Đặc điểm nào sau đây KHÔNG phải là yếu tố nguy cơ của sang thương NN-NC?",
     "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 5
-  },
-  {
-    "question": "Câu hỏi 88: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Câu hỏi 89: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Câu hỏi 90: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 5
-  },
-  {
-    "question": "Câu hỏi 91: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
+      "Tiêu chân răng",
+      "Điều trị nội nha tốt",
+      "Hội chứng gãy răng",
+      "Rò rỉ vùng cổ răng",
+      "Thủng thành ống tủy"
     ],
     "answer": 1
   },
   {
-    "question": "Câu hỏi 92: Nội dung minh hoạ mức độ hard?",
+    "question": "Câu hỏi 10: Trong cơ chế viêm từ tủy lan ra mô nha chu, yếu tố nào sau đây xuất hiện?",
     "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
+      "Tăng áp lực trong hệ thống ống tủy",
+      "Thoát sản phẩm viêm qua các đường thông thương",
+      "Thay đổi pH mô nha chu",
+      "Hình thành túi nha chu",
+      "Tất cả các đáp án đều đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu hỏi 11: Cơ chế sinh bệnh học của sang thương nội nha do nha chu bao gồm?",
+    "options": [
+      "Giảm lưu lượng máu đến các ống tủy",
+      "Tăng số lượng tế bào tủy",
+      "Hình thành ngà thứ cấp",
+      "Tiêu chân răng",
+      "a, c và d đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu hỏi 12: Thủ thuật nào sau đây KHÔNG phải là nguyên nhân của sang thương nội nha nguyên phát?",
+    "options": [
+      "Đặt chốt sai vị trí",
+      "Viêm quanh chóp cấp không điều trị",
+      "Phẫu thuật vạt nha chu",
+      "Thủng sàn buồng tủy",
+      "a và d đúng"
     ],
     "answer": 2
   },
   {
-    "question": "Câu hỏi 93: Nội dung minh hoạ mức độ hard?",
+    "question": "Câu hỏi 13: Đặc điểm nào là đặc trưng của sang thương nha chu nguyên phát?",
     "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Câu hỏi 94: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
+      "Tủy chết",
+      "Túi nha chu dạng góc ở nhiều răng",
+      "Đáp ứng điều trị nội nha tốt",
+      "Đường dò ra khe nướu",
+      "Cả a và b đúng"
     ],
     "answer": 1
   },
   {
-    "question": "Câu hỏi 95: Nội dung minh hoạ mức độ hard?",
+    "question": "Câu hỏi 14: Đặc điểm nào sau đây không phải của sang thương kết hợp?",
     "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Câu hỏi 96: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Câu hỏi 97: Nội dung minh hoạ mức độ hard?",
-    "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
+      "Tiêu xương ổ răng từ mặt bên",
+      "Túi nha chu hình nón",
+      "Tủy còn sống",
+      "Tủy chết",
+      "Cả a và b đều đúng"
     ],
     "answer": 2
   },
   {
-    "question": "Câu hỏi 98: Nội dung minh hoạ mức độ hard?",
+    "question": "Câu hỏi 15: Vị trí đường dò giúp phân biệt tổn thương nội nha và nha chu như thế nào?",
     "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
+      "Từ niêm mạc → nội nha",
+      "Từ túi nha chu → nha chu",
+      "Từ khe nướu → nội nha",
+      "Tất cả đáp án trên"
     ],
     "answer": 3
   },
   {
-    "question": "Câu hỏi 99: Nội dung minh hoạ mức độ hard?",
+    "question": "Câu hỏi 16: Tiên lượng điều trị của sang thương nội nha – nha chu kết hợp thường là?",
     "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
+      "Rất tốt",
+      "Khá tốt",
+      "Trung bình",
+      "Kém"
     ],
-    "answer": 5
+    "answer": 3
   },
   {
-    "question": "Câu hỏi 100: Nội dung minh hoạ mức độ hard?",
+    "question": "Câu hỏi 17: Khi nào nên điều trị nội nha trước điều trị nha chu?",
     "options": [
-      "Đáp án A hard",
-      "Đáp án B hard",
-      "Đáp án C hard",
-      "Đáp án D hard",
-      "Cả a và b đều đúng",
-      "Tất cả đều sai"
+      "Tổn thương nguyên phát là nội nha",
+      "Tổn thương nguyên phát là nha chu",
+      "Tổn thương nguyên phát không xác định",
+      "Không bao giờ"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 18: Đặc điểm nào của thử tủy gợi ý sang thương nha chu nguyên phát?",
+    "options": [
+      "Âm tính hoàn toàn",
+      "Tủy chết",
+      "Dương tính",
+      "Không có phản ứng",
+      "Cả b và d đúng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu hỏi 19: Yếu tố nào dưới đây không liên quan cơ chế miễn dịch trong sang thương NN-NC?",
+    "options": [
+      "Amalgam",
+      "Cône giấy tiêu",
+      "Sợi cellulose",
+      "Porphyromonas",
+      "Cả a và d đều sai"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu hỏi 20: Trong cơ chế viêm nha chu do tủy chết, pH mô thay đổi ảnh hưởng đến?",
+    "options": [
+      "Tăng hấp thu canxi",
+      "Lành thương nhanh hơn",
+      "Tổn thương mô nha chu",
+      "Tăng sinh mô mềm",
+      "Không ảnh hưởng"
     ],
     "answer": 2
   }

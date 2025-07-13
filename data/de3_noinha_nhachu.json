@@ -1,0 +1,222 @@
+[
+  {
+    "question": "Câu hỏi 1: Sự có mặt của các cấu trúc nào trong thành phần viêm có thể góp phần vào cơ chế bệnh sinh NN-NC?",
+    "options": [
+      "Rushton hyaline bodies",
+      "Sợi collagen typ I",
+      "Tế bào mỡ",
+      "Tế bào Kupffer",
+      "Cả a và b đều đúng"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 2: Trong cơ chế viêm tủy dẫn đến tổn thương nha chu, sự tăng áp lực trong hệ thống ống tủy gây ra hậu quả gì?",
+    "options": [
+      "Tăng sinh cement",
+      "Tiêu xương ổ răng",
+      "Tăng pH mô quanh chóp",
+      "Đóng kín ống ngà",
+      "Cả b và c đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 3: Yếu tố vi sinh vật nào có thể kích hoạt đại thực bào sản xuất IL-1 gây tiêu xương?",
+    "options": [
+      "Actinomyces viscosus",
+      "Porphyromonas gingivalis",
+      "Treponema denticola",
+      "Fusobacterium nucleatum",
+      "Cả b và d đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 4: Thành phần nào KHÔNG phải là yếu tố nội sinh/ngoại sinh tham gia đáp ứng viêm NN-NC?",
+    "options": [
+      "Tinh thể Charcot-Leyden",
+      "Cholesterol crystal",
+      "Cytokine IL-10",
+      "Russell bodies",
+      "Amalgam dư"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu hỏi 5: Trong viêm nha chu nguyên phát, lý do khiến tủy bị tổn thương là?",
+    "options": [
+      "Viêm lan theo chiều ngang",
+      "Lộ ống ngà sau xử lý bề mặt chân răng",
+      "Nhiễm trùng men răng lan vào tủy",
+      "Tăng lưu lượng máu đến tủy",
+      "Cả a và b đúng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 6: Vai trò của etching trong điều trị nha chu có thể gây hậu quả gì?",
+    "options": [
+      "Giúp bám dính biểu mô tốt hơn",
+      "Làm mất lớp mùn ngà và lộ ống ngà",
+      "Diệt vi khuẩn trong túi nha chu",
+      "Làm tăng pH mô",
+      "Cả b và c đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 7: Trong phân biệt chẩn đoán, yếu tố nào sau đây KHÔNG phải dấu hiệu của sang thương nha chu nguyên phát?",
+    "options": [
+      "Tiêu xương dạng góc nhiều răng",
+      "Thử tủy âm tính",
+      "Mảng bám và cao răng nhiều",
+      "Răng lung lay",
+      "Cả b và c đều đúng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 8: Đặc điểm X-quang nào sau đây KHÔNG gợi ý tổn thương nội nha nguyên phát?",
+    "options": [
+      "Thấu quang vùng chóp",
+      "Thấu quang hình tam giác vùng cổ chân răng",
+      "Thấu quang lan đến vùng chẽ",
+      "Thấu quang vùng chóp có đáy rộng",
+      "Đường dò hẹp và sâu"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 9: Tổn thương kết hợp NN-NC thực sự thường khó chẩn đoán do lý do nào?",
+    "options": [
+      "Đặc điểm lâm sàng giống các sang thương riêng lẻ",
+      "Đáp ứng thử tủy không rõ ràng",
+      "Không thể xác định tổn thương nguyên phát",
+      "Tổn thương có thể lành hoàn toàn sau điều trị tủy",
+      "Cả a, b và c đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu hỏi 10: Thành phần nào dưới đây có thể hiện diện trong mô viêm mạn tính NN-NC?",
+    "options": [
+      "Plasma cell",
+      "Mast cell",
+      "Lymphocyte",
+      "Neutrophil",
+      "Tất cả các đáp án trên"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu hỏi 11: Khi sử dụng cone GP để dò đường dò, nếu thấy kháng trở tại vùng chóp răng thì có thể chẩn đoán là?",
+    "options": [
+      "Sang thương nha chu nguyên phát",
+      "Tủy hoại tử kèm viêm quanh chóp",
+      "Sang thương kết hợp",
+      "Sâu răng lan xuống buồng tủy",
+      "Đường dò từ túi nha chu"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 12: Sự khác nhau quan trọng giữa sang thương NN nguyên phát và NC nguyên phát trên lâm sàng là?",
+    "options": [
+      "Tình trạng sống của tủy",
+      "Số lượng răng tổn thương",
+      "Loại mô viêm",
+      "Mức độ tiêu xương",
+      "Cả a và b đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu hỏi 13: Thăm dò túi nha chu sụp đột ngột đến tận chóp răng thường gặp trong?",
+    "options": [
+      "Sâu răng lan rộng",
+      "Viêm nha chu toàn thể",
+      "Tổn thương phối hợp NN-NC",
+      "Viêm tuỷ hồi phục",
+      "Cả a và b đều sai"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu hỏi 14: Trong tổn thương nội nha - nha chu thứ phát, phản ứng viêm mô nha chu KHÔNG bao gồm?",
+    "options": [
+      "Phóng thích cytokine",
+      "Tăng pH mô",
+      "Tăng sinh xê măng",
+      "Tiêu xương",
+      "Cản trở lành thương"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu hỏi 15: Phản ứng miễn dịch do vi khuẩn nội nha kích thích qua ống ngà diễn ra theo hướng nào?",
+    "options": [
+      "Tủy → nha chu",
+      "Nha chu → tủy",
+      "2 chiều",
+      "Không có thông thương",
+      "a và c đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu hỏi 16: Dấu hiệu nào giúp chẩn đoán sang thương nội nha nguyên phát, nha chu thứ phát?",
+    "options": [
+      "Có đường dò hẹp, sâu từ vùng chóp",
+      "Khoảng dây chằng dãn rộng từ chóp đến cổ răng",
+      "Tủy sống",
+      "Tiêu xương dạng góc",
+      "Cả b và d đúng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 17: Phim X-quang có giá trị gì trong chẩn đoán sang thương NN-NC?",
+    "options": [
+      "Xác định vị trí tổn thương",
+      "Phân biệt nguồn gốc tủy hay nha chu",
+      "Theo dõi diễn tiến điều trị",
+      "Phát hiện bất thường giải phẫu",
+      "Tất cả các đáp án trên"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu hỏi 18: Sang thương NN-NC KHÔNG được điều trị đúng có thể dẫn đến hậu quả gì?",
+    "options": [
+      "Tăng tiêu xương",
+      "Tổn thương mô mềm lan rộng",
+      "Tụ mủ mãn tính",
+      "Mất răng",
+      "Tất cả các đáp án trên"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu hỏi 19: Tổn thương NN nguyên phát thường có đường dò ra?",
+    "options": [
+      "Niêm mạc",
+      "Túi nha chu",
+      "Mặt bên răng",
+      "Trần buồng tủy",
+      "Không có đường dò"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 20: Điều trị đầu tiên cho sang thương kết hợp thường là?",
+    "options": [
+      "Nẹp răng",
+      "Điều trị nội nha",
+      "Điều trị nha chu",
+      "Nhổ răng",
+      "Tái khám định kỳ trước"
+    ],
+    "answer": 1
+  }
+]
