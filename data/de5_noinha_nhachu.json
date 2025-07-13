@@ -1,0 +1,222 @@
+[
+  {
+    "question": "Câu hỏi 1: Đường thông thương sinh lý giữa tủy răng và mô nha chu bao gồm cấu trúc nào?",
+    "options": [
+      "Lỗ chóp và dây chằng nha chu",
+      "Ống tủy phụ và ống ngà",
+      "Lỗ chóp và xương ổ răng",
+      "Dây chằng nha chu và men răng",
+      "Cả hai câu a, c đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 2: Ranh khấu cui - nua là gì?",
+    "options": [
+      "Bất thường trong hình thành men răng",
+      "Bất thường trong hình thành chân răng",
+      "Bất thường trong hình thành dây chằng nha chu",
+      "Bất thường trong hình thành xương ổ răng",
+      "Cả hai câu a, c đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 3: Đường thông thương bệnh lý có thể được gây ra bởi yếu tố nào?",
+    "options": [
+      "Chấn thương răng như nứt dọc chân răng",
+      "Viêm nha chu không liên quan đến tủy",
+      "Cao răng tích tụ ở thân răng",
+      "Hình thành men răng bất thường",
+      "Cả hai câu b, d đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 4: Vi khuẩn nào thường liên quan đến sang thương nội nha - nha chu?",
+    "options": [
+      "Vi khuẩn hiếu khí",
+      "Vi khuẩn kỵ khí",
+      "Nấm Candida",
+      "Virus HSV",
+      "Cả hai câu c, d đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 5: Theo phân loại của Simon (1972), sang thương nội nha - nha chu được chia thành bao nhiêu loại?",
+    "options": [
+      "2 loại",
+      "3 loại",
+      "4 loại",
+      "5 loại",
+      "Cả hai câu a, c đều sai"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu hỏi 6: Theo AAP (1999), sang thương nội nha - nha chu thuộc nhóm nào?",
+    "options": [
+      "Bệnh viêm nha chu",
+      "Bệnh viêm tủy răng",
+      "Bệnh viêm quanh chóp",
+      "Bệnh viêm xương ổ răng",
+      "Cả hai câu b, d đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 7: Sang thương nội nha nguyên phát có đặc điểm nào?",
+    "options": [
+      "Tủy hoại tử lan qua lỗ chóp",
+      "Tủy hoại tử lan qua dây chằng nha chu",
+      "Tủy không hoại tử",
+      "Viêm nha chu lan qua lỗ chóp",
+      "Cả hai câu b, c đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 8: Triệu chứng lâm sàng của sang thương nội nha nguyên phát là gì?",
+    "options": [
+      "Sưng nướu, đau răng, túi nha chu sâu",
+      "Đau răng, túi mủ quanh chóp",
+      "Sưng nướu, không đau răng",
+      "Túi nha chu sâu, không đau răng",
+      "Cả ba câu a, c, d đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 9: X-quang của sang thương nội nha nguyên phát thường cho thấy gì?",
+    "options": [
+      "Thấu quang quanh chóp",
+      "Thấu quang quanh thân răng",
+      "Tổn thương xương ổ răng lan rộng",
+      "Không có thấu quang",
+      "Cả hai câu b, c đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 10: Điều trị sang thương nội nha nguyên phát tập trung vào đâu?",
+    "options": [
+      "Điều trị nha chu trước",
+      "Điều trị nội nha trước",
+      "Phẫu thuật nha chu",
+      "Loại bỏ túi nha chu",
+      "Cả hai câu a, c đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 11: Sang thương nội nha nguyên phát, nha chu thứ phát có đặc điểm gì?",
+    "options": [
+      "Tủy hoại tử gây viêm nha chu",
+      "Viêm nha chu gây tủy hoại tử",
+      "Tủy không hoại tử",
+      "Viêm nha chu không liên quan đến tủy",
+      "Cả hai câu b, c đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 12: Sang thương nha chu nguyên phát, nội nha thứ phát bắt nguồn từ đâu?",
+    "options": [
+      "Viêm nha chu lan qua lỗ chóp",
+      "Viêm nha chu lan qua xương ổ răng",
+      "Tủy hoại tử lan qua lỗ chóp",
+      "Tủy hoại tử lan qua dây chằng nha chu",
+      "Cả hai câu c, d đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 13: Điều trị sang thương nha chu nguyên phát, nội nha thứ phát cần làm gì trước?",
+    "options": [
+      "Điều trị nội nha",
+      "Điều trị nha chu sơ khởi",
+      "Phẫu thuật nha chu",
+      "Loại bỏ túi nha chu",
+      "Cả hai câu a, c đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 14: Sang thương kết hợp (combined lesions) là gì?",
+    "options": [
+      "Bệnh nội nha và nha chu phát triển độc lập",
+      "Bệnh nội nha và nha chu phát triển đồng thời",
+      "Bệnh nội nha không liên quan đến nha chu",
+      "Bệnh nha chu không liên quan đến nội nha",
+      "Cả hai câu c, d đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 15: Yếu tố vi sinh vật nào thường gặp trong sang thương nội nha - nha chu?",
+    "options": [
+      "Vi khuẩn hiếu khí",
+      "Vi khuẩn kỵ khí",
+      "Virus Cytomegalo",
+      "Nấm Aspergillus",
+      "Cả hai câu c, d đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 16: Thủ thuật nha chu như cạo cao răng có thể gây ra vấn đề gì?",
+    "options": [
+      "Mất lớp men răng",
+      "Mất lớp xi măng chân răng",
+      "Mất lớp dây chằng nha chu",
+      "Mất lớp ngà chân răng",
+      "Cả hai câu a, c đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 17: Triệu chứng của sang thương nha chu nguyên phát, nội nha thứ phát là gì?",
+    "options": [
+      "Sưng nướu, túi nha chu nông",
+      "Sưng nướu, túi nha chu sâu, tủy hoại tử",
+      "Đau răng, túi mủ quanh chóp",
+      "Không sưng nướu, tủy không hoại tử",
+      "Cả hai câu a, d đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 18: Điều trị sang thương kết hợp cần tập trung vào yếu tố nào?",
+    "options": [
+      "Chỉ điều trị nội nha",
+      "Chỉ điều trị nha chu",
+      "Điều trị nội nha và nha chu đồng thời",
+      "Phẫu thuật nha chu trước",
+      "Cả hai câu a, b đều sai"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu hỏi 19: Yếu tố nguy cơ nào làm tăng khả năng mắc sang thương nội nha - nha chu?",
+    "options": [
+      "Chấn thương răng",
+      "Điều trị nội nha kém",
+      "Viêm nha chu mạn tính",
+      "Tất cả các yếu tố trên",
+      "Cả hai câu a, b đều đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu hỏi 20: Ống tủy phụ thường thấy ở đâu?",
+    "options": [
+      "1/3 giữa chân răng cửa",
+      "Vùng chẽ chân răng hàm",
+      "1/3 cổ chân răng tiền cối",
+      "Mặt xa răng nanh",
+      "Cả a và d đều đúng"
+    ],
+    "answer": 1
+  }
+]

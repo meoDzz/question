@@ -1,0 +1,242 @@
+[
+  {
+    "question": "Câu hỏi 1: Đường thông thương sinh lý giữa tủy răng và mô nha chu có thể bị ảnh hưởng bởi yếu tố nào sau đây?",
+    "options": [
+      "Lỗ chóp và ống tủy phụ bị tắc do cao răng tích tụ",
+      "Lỗ chóp và ống ngà bị tắc do viêm nha chu mạn tính",
+      "Ống tủy phụ và dây chằng nha chu bị phá hủy bởi chấn thương",
+      "Lỗ chóp và ống ngà bị viêm do vi khuẩn kỵ khí xâm nhập",
+      "Cả ba câu a, b, c đều sai",
+      "Cả ba câu b, c, d đều đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu hỏi 2: Ranh khấu cui - nua hình thành do bất thường nào trong quá trình phát triển răng?",
+    "options": [
+      "Sự bất thường trong hình thành ngà tạo ranh trên bề mặt thân - chân răng",
+      "Sự bất thường trong hình thành xi măng tạo ranh trên bề mặt thân - chân răng",
+      "Sự bất thường trong hình thành men răng tạo ranh trên bề mặt chân răng",
+      "Sự bất thường trong hình thành mô nha chu tạo ranh trên bề mặt thân răng",
+      "Cả ba câu a, b, c đều sai",
+      "Cả ba câu b, c, d đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 3: Đường thông thương bệnh lý có thể xuất hiện do tác nhân nào sau đây?",
+    "options": [
+      "Thủng sàn ống tủy trong quá trình điều trị nội nha",
+      "Nứt dọc chân răng do chấn thương cơ học",
+      "Gãy ngang thân răng do lực nhai quá mức",
+      "Viêm nha chu mạn tính không liên quan đến tủy răng",
+      "Cả ba câu a, b, c đều đúng",
+      "Cả ba câu b, c, d đều sai"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu hỏi 4: Vi khuẩn nào sau đây có vai trò chính trong sang thương nội nha - nha chu?",
+    "options": [
+      "Vi khuẩn kỵ khí chiếm ưu thế, sản sinh độc tố gây tiêu xương",
+      "Vi khuẩn hiếu khí chiếm ưu thế, sản sinh độc tố gây tiêu xương",
+      "Vi khuẩn kỵ khí không sản sinh độc tố gây tiêu xương",
+      "Vi khuẩn hiếu khí không sản sinh độc tố gây tiêu xương",
+      "Cả ba câu a, b, c đều đúng",
+      "Cả ba câu b, c, d đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 5: Theo phân loại của Simon (1972), sang thương nội nha - nha chu loại nào khó chẩn đoán nhất?",
+    "options": [
+      "Sang thương nội nha nguyên phát",
+      "Sang thương nha chu nguyên phát",
+      "Sang thương nội nha - nha chu kết hợp",
+      "Sang thương nội nha thứ phát",
+      "Cả ba câu a, b, d đều sai",
+      "Cả ba câu a, c, d đều đúng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu hỏi 6: Theo AAP (1999), sang thương nội nha - nha chu được phân loại dựa trên yếu tố nào?",
+    "options": [
+      "Mức độ tổn thương tủy răng và mô nha chu",
+      "Mức độ tổn thương tủy răng và dây chằng nha chu",
+      "Mức độ tổn thương mô nha chu và xương ổ răng",
+      "Mức độ tổn thương dây chằng nha chu và xương ổ răng",
+      "Cả ba câu a, b, c đều sai",
+      "Cả ba câu a, c, d đều đúng"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 7: Sang thương nội nha nguyên phát có đặc điểm lâm sàng nào sau đây?",
+    "options": [
+      "Đau răng, sưng nướu, túi mủ quanh chóp, không túi nha chu",
+      "Đau răng, sưng nướu, túi mủ quanh chóp, túi nha chu nông",
+      "Đau răng, không sưng nướu, túi mủ quanh chóp, túi nha chu sâu",
+      "Không đau răng, sưng nướu, túi mủ quanh chóp, túi nha chu nông",
+      "Cả ba câu a, b, c đều đúng",
+      "Cả ba câu b, c, d đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 8: X-quang của sang thương nội nha nguyên phát thường cho thấy đặc điểm nào?",
+    "options": [
+      "Thấu quang quanh chóp, tổn thương xương ổ răng hạn chế",
+      "Thấu quang quanh chóp, tổn thương xương ổ răng lan rộng",
+      "Không thấu quang quanh chóp, tổn thương xương ổ răng lan rộng",
+      "Thấu quang quanh thân răng, tổn thương xương ổ răng hạn chế",
+      "Cả ba câu a, b, c đều sai",
+      "Cả ba câu b, c, d đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 9: Điều trị sang thương nội nha nguyên phát cần ưu tiên bước nào?",
+    "options": [
+      "Điều trị nội nha trước, không cần điều trị nha chu",
+      "Điều trị nha chu trước, nội nha sau",
+      "Phẫu thuật nha chu trước, nội nha sau",
+      "Loại bỏ túi nha chu trước, nội nha sau",
+      "Cả ba câu b, c, d đều sai",
+      "Cả ba câu a, c, d đều đúng"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 10: Sang thương nội nha nguyên phát, nha chu thứ phát có đặc điểm nào?",
+    "options": [
+      "Tủy hoại tử lan rộng, gây viêm nha chu thứ phát",
+      "Tủy hoại tử lan rộng, không gây viêm nha chu",
+      "Viêm nha chu lan rộng, gây tủy hoại tử thứ phát",
+      "Viêm nha chu lan rộng, không ảnh hưởng đến tủy",
+      "Cả ba câu a, b, c đều sai",
+      "Cả ba câu a, c, d đều đúng"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 11: Sang thương nha chu nguyên phát, nội nha thứ phát có cơ chế bệnh sinh nào?",
+    "options": [
+      "Viêm nha chu lan qua lỗ chóp, gây hoại tử tủy",
+      "Viêm nha chu lan qua dây chằng, gây hoại tử tủy",
+      "Viêm nha chu lan qua xương ổ răng, không ảnh hưởng tủy",
+      "Viêm nha chu lan qua ống ngà, gây hoại tử tủy",
+      "Cả ba câu a, b, d đều đúng",
+      "Cả ba câu b, c, d đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 12: Điều trị sang thương nha chu nguyên phát, nội nha thứ phát cần thực hiện theo trình tự nào?",
+    "options": [
+      "Điều trị nội nha trước, nha chu sơ khởi sau",
+      "Điều trị nha chu sơ khởi trước, nội nha sau",
+      "Phẫu thuật nha chu trước, nội nha sau",
+      "Loại bỏ túi nha chu trước, nội nha sau",
+      "Cả ba câu a, c, d đều sai",
+      "Cả ba câu b, c, d đều đúng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 13: Sang thương nội nha - nha chu kết hợp có đặc điểm nào trên lâm sàng?",
+    "options": [
+      "Túi nha chu sâu, tủy hoại tử, tổn thương xương ổ răng lan rộng",
+      "Túi nha chu nông, tủy hoại tử, tổn thương xương ổ răng hạn chế",
+      "Túi nha chu sâu, tủy không hoại tử, tổn thương xương ổ răng lan rộng",
+      "Túi nha chu nông, tủy không hoại tử, tổn thương xương ổ răng hạn chế",
+      "Cả ba câu a, b, c đều đúng",
+      "Cả ba câu b, c, d đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 14: Yếu tố vi sinh vật nào sau đây góp phần lớn vào sang thương nội nha - nha chu?",
+    "options": [
+      "Vi khuẩn kỵ khí, nấm Candida, virus EBV type 1",
+      "Vi khuẩn hiếu khí, nấm Candida, virus HSV",
+      "Vi khuẩn kỵ khí, virus Cytomegalo, nấm Aspergillus",
+      "Vi khuẩn yếm khí, virus EBV, nấm Candida",
+      "Cả ba câu a, b, c đều sai",
+      "Cả ba câu a, c, d đều đúng"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 15: Theo APPPEEP (2018), sang thương nội nha - nha chu được phân loại như thế nào?",
+    "options": [
+      "Dựa trên mức độ tổn thương tủy và mô nha chu",
+      "Dựa trên mức độ tổn thương tủy và dây chằng nha chu",
+      "Dựa trên mức độ tổn thương mô nha chu và men răng",
+      "Dựa trên mức độ tổn thương dây chằng nha chu và men răng",
+      "Cả ba câu a, b, c đều sai",
+      "Cả ba câu b, c, d đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 16: Thủ thuật nha chu như cạo cao răng có thể dẫn đến hậu quả nào sau đây?",
+    "options": [
+      "Mất lớp xi măng chân răng, tạo đường thông thương bệnh lý",
+      "Mất lớp ngà chân răng, tạo đường thông thương bệnh lý",
+      "Mất lớp men răng, tạo đường thông thương bệnh lý",
+      "Mất lớp dây chằng nha chu, tạo đường thông thương bệnh lý",
+      "Cả ba câu a, b, c đều sai",
+      "Cả ba câu b, c, d đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 17: Sang thương nội nha - nha chu kết hợp thường có kết quả điều trị ra sao?",
+    "options": [
+      "Kết quả tốt nếu điều trị nội nha và nha chu đồng thời",
+      "Kết quả kém nếu điều trị nội nha trước nha chu",
+      "Kết quả tốt nếu chỉ điều trị nội nha",
+      "Kết quả kém nếu chỉ điều trị nha chu",
+      "Cả ba câu a, b, c đều sai",
+      "Cả ba câu a, c, d đều đúng"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 18: Triệu chứng lâm sàng của sang thương nha chu nguyên phát, nội nha thứ phát là gì?",
+    "options": [
+      "Sưng nướu, túi nha chu sâu, tủy hoại tử, đau nhẹ",
+      "Sưng nướu, túi nha chu nông, tủy hoại tử, đau nặng",
+      "Không sưng nướu, túi nha chu sâu, tủy hoại tử, đau nhẹ",
+      "Sưng nướu, túi nha chu sâu, tủy không hoại tử, đau nặng",
+      "Cả ba câu a, b, c đều đúng",
+      "Cả ba câu b, c, d đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 19: Yếu tố nguy cơ nào sau đây làm tăng khả năng xuất hiện sang thương nội nha - nha chu?",
+    "options": [
+      "Chấn thương răng, điều trị nội nha kém, viêm nha chu mạn",
+      "Chấn thương răng, điều trị nội nha tốt, viêm nha chu cấp",
+      "Chấn thương răng, điều trị nha chu kém, tủy hoại tử",
+      "Chấn thương răng, điều trị nha chu tốt, tủy không hoại tử",
+      "Cả ba câu a, b, c đều đúng",
+      "Cả ba câu b, c, d đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 20: Điều trị sang thương nội nha - nha chu kết hợp cần trình tự nào để đạt hiệu quả cao nhất? (Mức độ hủy diệt)",
+    "options": [
+      "Điều trị nội nha trước, nha chu sơ khởi sau, phẫu thuật nha chu nếu cần",
+      "Điều trị nha chu sơ khởi trước, nội nha sau, phẫu thuật nha chu nếu cần",
+      "Điều trị nội nha và nha chu sơ khởi đồng thời, phẫu thuật nha chu nếu cần",
+      "Phẫu thuật nha chu trước, nội nha và nha chu sơ khởi sau",
+      "Điều trị nội nha trước, bỏ qua nha chu sơ khởi, phẫu thuật nha chu nếu cần",
+      "Điều trị nha chu sơ khởi trước, bỏ qua nội nha, phẫu thuật nha chu nếu cần"
+    ],
+    "answer": 2
+  }
+]
