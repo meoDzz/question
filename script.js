@@ -31,6 +31,8 @@ document.addEventListener('DOMContentLoaded', () => {
         'de2_noinha_nhachu.json',
         'de3_noinha_nhachu.json',
         'de4_noinha_nhachu.json',
+        'de5_noinha_nhachu.json',
+        'de6_noinha_nhachu.json',
         // Thêm các file JSON đề thi khác của bạn vào đây, ví dụ:
         // 'chemistry_quiz.json',
         // 'physics_quiz.json'
