@@ -1,0 +1,222 @@
+[
+  {
+    "question": "1. Trong điều kiện lâm sàng, dấu hiệu nào dưới đây KHÔNG phải là tiêu chuẩn để chọn điều trị lấy tủy buồng?",
+    "options": [
+      "Không có triệu chứng tự phát",
+      "Tủy chảy máu có thể kiểm soát",
+      "Buồng tủy không bị hoại tử hoàn toàn",
+      "Răng đã đóng chóp hoàn toàn",
+      "Chụp phim không thấy tổn thương quanh chóp"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "2. Tác dụng của formocresol trong lấy tủy buồng dựa vào cơ chế nào sau đây?",
+    "options": [
+      "Kích thích phản ứng viêm cấp",
+      "Gây cố định protein và diệt khuẩn tại chỗ",
+      "Tăng cường đáp ứng miễn dịch vùng chóp",
+      "Kích thích hình thành men răng",
+      "Làm mềm mô tủy còn lại để dễ lấy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "3. Khi lấy tủy buồng, máu có màu tím sẫm và không cầm được sau 2 lần ép gòn, khả năng cao nhất là:",
+    "options": [
+      "Viêm tủy có hồi phục",
+      "Buồng tủy còn khỏe mạnh",
+      "Viêm lan đến tủy chân",
+      "Đã đóng chóp",
+      "Sai kỹ thuật mở buồng tủy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "4. Khi dùng MTA, tại sao nên đặt một lớp composite lót mỏng ngay phía trên?",
+    "options": [
+      "MTA cần ánh sáng để đông cứng",
+      "Để bảo vệ MTA khỏi nước bọt",
+      "Tăng tính thẩm mỹ tức thì",
+      "Giúp MTA cứng nhanh hơn",
+      "Tăng khả năng cầm máu"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "5. Sự hình thành cầu ngà sau lấy tủy buồng được xem là:",
+    "options": [
+      "Biến chứng của điều trị",
+      "Biểu hiện tủy chết",
+      "Phản ứng lành thương sinh lý",
+      "Do sai kỹ thuật trám",
+      "Do dư thừa vật liệu"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "6. Trong công thức formocresol Buckley, Formaldehyde chiếm khoảng:",
+    "options": [
+      "5%",
+      "10%",
+      "15%",
+      "19%",
+      "25%"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "7. Điều nào sau đây SAI về tác dụng của calcium hydroxide trong điều trị tủy?",
+    "options": [
+      "Kích thích tạo cầu ngà",
+      "Kháng khuẩn",
+      "Dễ bị hòa tan theo thời gian",
+      "Tạo mô xơ thay thế",
+      "Có pH kiềm cao"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "8. Trong các vật liệu sau, vật liệu nào KHÔNG phải là lựa chọn phổ biến trong lấy tủy buồng?",
+    "options": [
+      "IRM",
+      "MTA",
+      "Biodentin",
+      "Zinc phosphate",
+      "Ca(OH)₂"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "9. Lý do IRM thường được dùng hơn Eugenate thông thường là:",
+    "options": [
+      "IRM có màu trắng thẩm mỹ hơn",
+      "IRM có độ cứng và chịu lực tốt hơn",
+      "IRM dễ trộn hơn",
+      "IRM không có Eugenol",
+      "IRM có tính sát khuẩn mạnh hơn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "10. Trong các yếu tố sau, yếu tố nào là then chốt nhất quyết định thành công của lấy tủy buồng?",
+    "options": [
+      "Loại vật liệu sử dụng",
+      "Độ sâu khoan mở buồng tủy",
+      "Khả năng cầm máu đầu ống tủy",
+      "Số lượng chân răng",
+      "Tình trạng viêm quanh chóp"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "11. Chỉ định 'delay technique' (kỹ thuật hai thì) khi nào?",
+    "options": [
+      "Không đủ thời gian lâm sàng",
+      "Không thể xác định rõ tủy chân",
+      "Cầm máu không hoàn toàn trong lần đầu",
+      "Cần chờ kết quả phim X-quang",
+      "Tất cả đều đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "12. Sự khác biệt lớn nhất giữa Biodentin và MTA là gì?",
+    "options": [
+      "Khả năng kháng khuẩn",
+      "Thời gian đông cứng",
+      "Tính tương hợp sinh học",
+      "Khả năng tạo cầu ngà",
+      "Độ pH"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "13. Tại sao việc không gây tê trực tiếp vào tủy được khuyến cáo?",
+    "options": [
+      "Để tránh làm mô tủy co lại",
+      "Vì không cần thiết",
+      "Vì tủy không nhạy cảm",
+      "Để đánh giá phản ứng chảy máu tự nhiên",
+      "Gây tê vào tủy có thể gây tắc ống tủy"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "14. Một bệnh nhân sau lấy tủy buồng 3 tháng vẫn đau âm ỉ khi uống nước nóng. Kết luận đúng là:",
+    "options": [
+      "Tủy hoàn toàn lành",
+      "Bệnh nhân dị ứng với vật liệu",
+      "Cần theo dõi thêm 3 tháng",
+      "Chỉ cần thay lớp trám ngoài",
+      "Chuyển điều trị tủy toàn phần"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "15. Điều nào sau đây là tiêu chuẩn đánh giá thành công SAU lấy tủy buồng?",
+    "options": [
+      "Không có triệu chứng chủ quan",
+      "Cầu ngà hình thành",
+      "Không có nội tiêu trên phim XQ",
+      "Đáp ứng bình thường với thử nghiệm tủy",
+      "Tất cả đều đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "16. Lý do nên tránh xịt hơi trực tiếp vào xoang tủy sau khi rửa là gì?",
+    "options": [
+      "Gây loét mô nướu",
+      "Làm khô vật liệu trám",
+      "Gây kích thích tủy",
+      "Tạo áp lực âm làm tụ dịch",
+      "Không ảnh hưởng gì"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "17. Điều nào sau đây là đúng khi đánh giá phim X-quang sau điều trị?",
+    "options": [
+      "Dây chằng quanh chóp phải rộng hơn trước",
+      "Ống tủy nên mở rộng đều",
+      "Không có dấu hiệu nội tiêu hoặc phản ứng quanh chóp",
+      "Tủy chân không được đóng chóp",
+      "Ngà thứ phát không nên xuất hiện"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "18. Khi kiểm tra lại sau 6 tháng, trường hợp nào nên chỉ định điều trị lại?",
+    "options": [
+      "Không có triệu chứng gì",
+      "Cầu ngà rõ",
+      "Phim XQ cho thấy nội tiêu",
+      "Đáp ứng tủy bình thường",
+      "Tủy chân tiếp tục phát triển"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "19. Vai trò chính của pH kiềm trong MTA là gì?",
+    "options": [
+      "Làm chất tẩy trắng răng",
+      "Kích thích hình thành collagen",
+      "Tăng sinh bạch cầu tại vùng tổn thương",
+      "Ngăn sự phát triển vi khuẩn và hỗ trợ tái khoáng",
+      "Làm mềm men ngà"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "20. Khi sử dụng Biodentin hoặc MTA, biến chứng nào sau đây ít gặp nhất?",
+    "options": [
+      "Phản ứng dị ứng tức thì",
+      "Không tạo cầu ngà",
+      "Vôi hóa ống tủy",
+      "Tăng khoáng hóa mô cứng",
+      "Đau kéo dài sau điều trị"
+    ],
+    "answer": 0
+  }
+]

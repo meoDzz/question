@@ -1,0 +1,222 @@
+[
+  {
+    "question": "1. Khi mở buồng tủy bằng tay khoan chậm, cần lưu ý điều gì?",
+    "options": [
+      "Luôn chạy xuôi chiều kim đồng hồ",
+      "Không chạm vào mô tủy chân",
+      "Phải chạm nhẹ vào sàn tủy",
+      "Chỉ dùng mũi khoan trụ",
+      "Khoan càng sâu càng tốt"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "2. Lý do nên tránh dùng H2O2 khi làm sạch buồng tủy là:",
+    "options": [
+      "Gây hoại tử tủy chân",
+      "Gây sủi bọt quá mức",
+      "Không hiệu quả sát khuẩn",
+      "Tạo bọt khí ảnh hưởng chẩn đoán",
+      "Gây đổi màu mô răng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "3. Sau khi cầm máu không hiệu quả với nước muối sinh lý, bước kế tiếp là?",
+    "options": [
+      "Chuyển điều trị nội nha",
+      "Dùng gòn tẩm adrenaline ép thêm 2-3 phút",
+      "Trám tạm và theo dõi",
+      "Chuyển phẫu thuật",
+      "Tiếp tục rửa với NaCl"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "4. Khi dùng Ca(OH)₂ trong lấy tủy buồng, phản ứng nào sau đây đúng?",
+    "options": [
+      "Tạo mô mềm thay thế tủy",
+      "Tạo lớp hoại tử bề mặt mô tủy",
+      "Không ảnh hưởng đến mô tủy",
+      "Làm tăng mô viêm",
+      "Tạo thành men răng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "5. Ưu điểm của vật liệu MTA so với Formocresol là gì?",
+    "options": [
+      "Ít gây kích ứng mô quanh chóp",
+      "Chi phí thấp hơn",
+      "Dễ thao tác hơn",
+      "Gây đông cứng mô nhanh hơn",
+      "Dễ rửa sạch hơn"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "6. Đối với lấy tủy buồng có dùng Biodentin, cần lưu ý:",
+    "options": [
+      "Không cần đợi đông cứng",
+      "Thường đặt lớp GIC ngay trên",
+      "Đông cứng sau 2 phút",
+      "Có thể trám trực tiếp bằng composite ngay",
+      "Cần bảo vệ bằng vật liệu khác khi đông"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "7. Một chỉ định lấy tủy buồng chính xác là:",
+    "options": [
+      "Viêm quanh chóp không hồi phục",
+      "Tủy hoại tử hoàn toàn",
+      "Viêm tủy có hồi phục",
+      "Răng sâu kèm lung lay độ 3",
+      "Tủy chết tự nhiên"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "8. Thành phần chính trong formocresol của Buckley gồm:",
+    "options": [
+      "Formaldehyde – Tricresol – Glycerine",
+      "EDTA – Formol – Alcohol",
+      "NaOCl – Triclosan – Glycerin",
+      "Calcium – Hydroxide – Formol",
+      "Formocresol – Eugenol – Water"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "9. Sau khi lấy tủy buồng với MTA, thao tác nào là phù hợp nhất?",
+    "options": [
+      "Trám amalgam ngay lập tức",
+      "Đợi đông, sau đó trám bằng composite",
+      "Chỉ đặt MTA là đủ",
+      "Không cần che phủ gì thêm",
+      "Trám cát nha khoa lên trên"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "10. Dấu hiệu cho thấy viêm tủy chân không hồi phục là:",
+    "options": [
+      "Không cầm máu sau ép gòn 5 phút",
+      "Màu máu tươi sáng",
+      "Đóng chóp sớm",
+      "Mô tủy co rút",
+      "Ống tủy nhỏ dần"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "11. Sau bao lâu nên chụp X-quang kiểm tra sau lấy tủy buồng?",
+    "options": [
+      "24 giờ",
+      "1 tuần",
+      "6 tuần",
+      "3 tháng",
+      "1 năm"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "12. Chọn phát biểu đúng về eugenate:",
+    "options": [
+      "Không dùng được với formocresol",
+      "Chỉ dùng để gắn mão",
+      "Dùng để trám tạm sau lấy tủy buồng",
+      "Là chất diệt khuẩn mạnh nhất",
+      "Làm yếu men răng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "13. Tỷ lệ hoại tử sau lấy tủy buồng phụ thuộc vào:",
+    "options": [
+      "Kỹ thuật cắt mô tủy",
+      "Vật liệu phục hồi sau cùng",
+      "Khả năng cầm máu",
+      "Cách đánh bóng cuối cùng",
+      "Số lượng chân răng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "14. Chất thay thế Formocresol có hiệu quả nhưng ít độc hơn là:",
+    "options": [
+      "Eugenol",
+      "Glutaraldehyde",
+      "Chlorhexidine",
+      "NaCl",
+      "Parachlorophenol"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "15. Dấu hiệu X-quang cho thấy điều trị thất bại:",
+    "options": [
+      "Đóng chóp hoàn toàn",
+      "Nội tiêu",
+      "Cầu ngà hình thành",
+      "Ngà thứ phát",
+      "Dày dây chằng nha chu"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "16. Khi lấy tủy buồng thất bại, bước tiếp theo là:",
+    "options": [
+      "Trám lại bằng MTA",
+      "Điều trị tủy toàn phần",
+      "Thay eugenate",
+      "Đánh bóng lại xoang",
+      "Cắm implant"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "17. Câu nào sau đây là đúng về calcium hydroxide?",
+    "options": [
+      "Có pH trung tính",
+      "Tạo lớp hoại tử sâu 5–6 mm",
+      "Có tính kháng khuẩn",
+      "Không phù hợp với mô tủy",
+      "Gây xơ hóa mô tủy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "18. Mục tiêu cuối cùng của lấy tủy buồng là:",
+    "options": [
+      "Giữ lại mô tủy chân còn sống",
+      "Tạo tủy giả thay thế",
+      "Ngăn mọc răng vĩnh viễn",
+      "Tạo lỗ tủy lớn hơn",
+      "Tăng đường kính ống tủy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "19. Câu nào sau đây là SAI?",
+    "options": [
+      "Formocresol có thể gây đột biến",
+      "IRM chứa eugenol",
+      "MTA dễ tan trong nước",
+      "Ca(OH)2 có pH cao",
+      "Biodentin là vật liệu sinh học"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "20. Tại sao phải ép gòn chặt khi cầm máu đầu ống tủy?",
+    "options": [
+      "Để tạo áp lực giúp trám nhanh hơn",
+      "Để xác định phản ứng viêm của tủy chân",
+      "Để diệt vi khuẩn hoàn toàn",
+      "Tất cả đều đúng",
+      "Không có lý do cụ thể"
+    ],
+    "answer": 1
+  }
+]

@@ -33,6 +33,10 @@ document.addEventListener('DOMContentLoaded', () => {
         'de4_noinha_nhachu.json',
         'de5_noinha_nhachu.json',
         'de6_noinha_nhachu.json',
+        'de7_lay_tuy_buong.json',
+        'de8_lay_tuy_buong.json',
+        'de9_lay_tuy_buong.json',
+        
 
     ];
     // --- KẾT THÚC CẬP NHẬT ---

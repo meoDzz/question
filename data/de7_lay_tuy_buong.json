@@ -1,0 +1,221 @@
+[
+  {
+    "question": "1. Mục đích chính của việc lấy tủy buồng là gì?",
+    "options": [
+      "Lấy hết toàn bộ tủy răng",
+      "Loại bỏ phần tủy bị viêm và bảo tồn tủy chân",
+      "Chỉ để tạo lối vào ống tủy",
+      "Ngăn chặn sự hình thành ngà thứ cấp",
+      "Làm sạch toàn bộ hệ thống ống tủy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "2. Trong lấy tủy buồng, vật liệu Formocresol được đặt ở đâu?",
+    "options": [
+      "Trên sàn buồng tủy",
+      "Trên phần men răng",
+      "Trên đầu ống tủy",
+      "Trong thân răng",
+      "Trên trần buồng tủy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "3. Đặc điểm nào sau đây KHÔNG đúng với 'vùng cố định' tạo bởi Formocresol?",
+    "options": [
+      "Là lớp trơ vô trùng",
+      "Có khả năng ngăn vi khuẩn xâm nhập",
+      "Kích thích mọc răng vĩnh viễn",
+      "Đề kháng tổn thương về sau",
+      "Là vùng bị đông vón protein"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "4. Tác dụng của việc dùng MTA trong lấy tủy buồng là:",
+    "options": [
+      "Gây hoại tử mô tủy",
+      "Kích thích tạo cầu ngà",
+      "Làm chết toàn bộ hệ tủy",
+      "Ngăn vi khuẩn xâm nhập men răng",
+      "Tăng khoáng hóa men răng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "5. Thời gian đặt gòn tẩm Formocresol lên đầu ống tủy là bao lâu?",
+    "options": [
+      "1 phút",
+      "3 phút",
+      "5 phút",
+      "10 phút",
+      "15 phút"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "6. Sau khi đặt MTA, thao tác nào là đúng?",
+    "options": [
+      "Trám ngay bằng amalgam",
+      "Đặt gòn ẩm, hẹn tái khám",
+      "Không cần đợi đông cứng",
+      "Làm cầu răng luôn",
+      "Đánh bóng tức thì"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "7. Loại vật liệu nào sau đây KHÔNG được dùng trong lấy tủy buồng?",
+    "options": [
+      "MTA",
+      "Biodentin",
+      "Formocresol",
+      "GIC",
+      "Amalgam"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "8. Một dấu hiệu lâm sàng cần đổi sang điều trị nội nha là:",
+    "options": [
+      "Không chảy máu sau 5 phút cầm máu",
+      "Chảy máu kéo dài không cầm được",
+      "Tủy có màu hồng tươi",
+      "Buồng tủy có mùi thuốc",
+      "Cầu ngà hình thành"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "9. Tỷ lệ thành công của lấy tủy buồng với formocresol theo nghiên cứu là:",
+    "options": [
+      "20–40%",
+      "40–60%",
+      "50–70%",
+      "70–97%",
+      "100%"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "10. Dấu hiệu X-quang cho thấy điều trị thành công là:",
+    "options": [
+      "Nội tiêu",
+      "Phản ứng quanh chóp",
+      "Đóng chóp tiếp diễn",
+      "Tiêu chân răng",
+      "Ống tủy mở rộng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "11. Formocresol có thể gây:",
+    "options": [
+      "Ngủ sâu",
+      "Phản ứng miễn dịch",
+      "Tiêu men răng",
+      "Tăng áp lực trong xoang",
+      "Cứng nướu bất thường"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "12. Vật liệu sinh học nào sau đây KHÔNG chứa calcium silicate?",
+    "options": [
+      "MTA",
+      "Biodentin",
+      "IRM",
+      "TheraCal LC",
+      "CEM cement"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "13. Mục tiêu khi cầm máu trong lấy tủy buồng là:",
+    "options": [
+      "Ngăn vi khuẩn lan rộng",
+      "Chẩn đoán mức độ viêm tủy chân",
+      "Cầm máu hoàn toàn để trám",
+      "Tất cả đều đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "14. Chỉ định lấy tủy buồng khi nào?",
+    "options": [
+      "Tủy hoại tử hoàn toàn",
+      "Viêm tủy có hồi phục",
+      "Viêm tủy không hồi phục",
+      "Viêm quanh chóp cấp",
+      "Răng lung lay độ 3"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "15. Dung dịch nào thường dùng để rửa xoang tủy?",
+    "options": [
+      "NaCl sinh lý",
+      "Hydrogen peroxide",
+      "NaOH",
+      "Clorhexidine + NaCl",
+      "Formalin"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "16. Câu nào sau đây là SAI về MTA?",
+    "options": [
+      "Kích thích tạo ngà thứ cấp",
+      "pH kiềm",
+      "Tác dụng kháng khuẩn",
+      "Tạo mô liên kết thay tủy",
+      "Thời gian đông cứng ~3–4 giờ"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "17. Vật liệu IRM thường dùng để:",
+    "options": [
+      "Đánh bóng",
+      "Lót tạm",
+      "Tạo cầu ngà",
+      "Gây đông máu",
+      "Ngăn cắn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "18. Khi nào cần đổi sang điều trị nội nha ngay?",
+    "options": [
+      "Bệnh nhân khó chịu nhẹ",
+      "Phim XQ thấy calci hóa ống tủy",
+      "Bệnh nhân đau dữ dội liên tục",
+      "Có phản ứng viêm quanh chóp",
+      "Cả B, C và D"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "19. Tên vật liệu có tác dụng tương tự formocresol nhưng ít độc hơn?",
+    "options": [
+      "Hydrogen peroxide",
+      "NaOCl",
+      "Glutaraldehyde",
+      "EDTA",
+      "NaF"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "20. Biến chứng lâu dài nếu không điều trị kịp viêm tủy buồng là gì?",
+    "options": [
+      "Đóng chóp sinh lý",
+      "Xơ hoá mô liên kết",
+      "Hoại tử tủy – lan rộng",
+      "Tiêu ngà thứ phát",
+      "Men răng phì đại"
+    ],
+    "answer": 2
+  }
+]
