@@ -1,24 +1,224 @@
 [
   {
-    "question": "Đâu KHÔNG phải là yếu tố đảm bảo thành công khi phục hình bằng mão thép không gỉ?",
+    "question": "Điều chỉnh SSC khi khớp cắn bị nâng cao sau gắn cần:",
     "options": [
-      "Lựa chọn mão vừa khít đường viền nướu",
-      "Giữ nguyên mô răng không mài",
-      "Điều trị tủy nếu cần",
-      "Khớp cắn hài hòa",
-      "Cement được gắn đúng kỹ thuật"
+      "Mài mặt nhai mão",
+      "Thay mão nhỏ hơn",
+      "Mài mặt nhai răng đối diện",
+      "Không can thiệp, chờ thích nghi",
+      "Cắt bớt bờ mão",
+      "Cả A và B đúng"
+    ],
+    "answer": 5
+  },
+  {
+    "question": "Khi SSC gây kích ứng mô nướu kéo dài sau gắn, nguyên nhân khả dĩ nhất là:",
+    "options": [
+      "Mài không đủ mô răng",
+      "Mão không khít sát",
+      "Cement tràn không làm sạch",
+      "Chọn mão quá rộng",
+      "Không hướng dẫn vệ sinh",
+      "Tất cả đều có thể"
+    ],
+    "answer": 5
+  },
+  {
+    "question": "Để kiểm tra mão có vừa vặn trong lần thử đầu tiên, bước nào sau đây là TỐI ƯU:",
+    "options": [
+      "Quan sát cảm giác bệnh nhân",
+      "Kiểm tra bằng giấy cắn",
+      "Quan sát mức độ cấn nướu",
+      "X-quang kiểm tra khít sát",
+      "Quan sát và ấn thử thủ công"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Thất bại phổ biến nhất trong sử dụng SSC là do:",
+    "options": [
+      "Chọn sai kích thước mão",
+      "Không gắn đủ cement",
+      "Không kiểm tra khớp cắn",
+      "Không tái khám định kỳ",
+      "Không gắn đủ độ sâu qua điểm lồi lớn nhất"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Cement lý tưởng dùng để gắn SSC ở trẻ nhỏ là:",
+    "options": [
+      "GIC (glass ionomer cement)",
+      "Composite resin cement",
+      "Zinc phosphate cement",
+      "IRM cement",
+      "Polycarboxylate cement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Kỹ thuật nào KHÔNG được dùng để đánh giá chính xác độ khít sát SSC?",
+    "options": [
+      "Dùng chỉ nha khoa",
+      "Quan sát trực tiếp",
+      "Dùng khí nén",
+      "X-quang cánh cắn",
+      "Gõ gõ kiểm tra âm thanh"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Chọn đáp án đúng về tương quan giữa SSC và tật nghiến răng ở trẻ:",
+    "options": [
+      "SSC làm giảm hành vi nghiến",
+      "SSC bảo vệ mô răng khỏi mòn",
+      "SSC gây kích thích nghiến nhiều hơn",
+      "SSC không nên dùng ở trẻ nghiến răng",
+      "SSC dễ vỡ trong nghiến răng kéo dài"
     ],
     "answer": 1
   },
   {
-    "question": "Trong kỹ thuật sửa soạn mão, lý do nào sau đây khiến việc mài mặt ngoài và trong răng cần chọn lọc?",
+    "question": "Sự sai khác giữa mão đã sửa soạn và mão cạnh thẳng ảnh hưởng nhiều nhất đến:",
     "options": [
-      "Tạo thẩm mỹ",
-      "Giảm mòn răng",
-      "Hỗ trợ vị trí đặt mão và khít sát",
-      "Giảm kích thước mão",
-      "Hạn chế tủy bị lộ"
+      "Tính thẩm mỹ",
+      "Thời gian mài răng",
+      "Kỹ thuật chỉnh sửa sau thử",
+      "Lực xiết khi gắn",
+      "Khả năng khít sát với nướu"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Thời điểm nào sau đây nên tránh gắn SSC:",
+    "options": [
+      "Khi răng đã điều trị tủy hoàn tất",
+      "Trẻ đang mọc răng vĩnh viễn cạnh bên",
+      "Sau khi kiểm tra khớp cắn",
+      "Răng mất >1/2 thân răng nhưng chân còn tốt",
+      "Trẻ chưa hợp tác lần đầu"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Trong trường hợp thiếu thời gian và bệnh nhân không hợp tác, ưu tiên nào là đúng?",
+    "options": [
+      "Nhổ răng thay vì SSC",
+      "Chọn SSC và bỏ qua thử mão",
+      "Gắn SSC tạm thời rồi tái khám sau",
+      "Chọn composite tạm thời",
+      "Thực hiện gián tiếp hoàn chỉnh trên mẫu"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Mão nào có nguy cơ gây lộ cement dưới nướu cao nhất?",
+    "options": [
+      "Mão có cạnh thẳng",
+      "Mão đã sửa soạn",
+      "Mão quá rộng so với cung răng",
+      "Mão có đáy không đều",
+      "Mão gắn không đủ lực"
     ],
     "answer": 2
+  },
+  {
+    "question": "Nếu mão SSC bị bật ra sau vài ngày, nguyên nhân KHÔNG HỢP LÝ là:",
+    "options": [
+      "Gắn thiếu cement",
+      "Trẻ ăn đồ dẻo liên tục",
+      "Chọn mão quá nhỏ",
+      "Mài mô răng quá nhiều",
+      "Tình trạng sâu tái phát"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Chọn câu đúng về mức độ xâm lấn khi dùng SSC:",
+    "options": [
+      "SSC ít xâm lấn hơn composite",
+      "SSC yêu cầu mài mô nhiều hơn composite",
+      "SSC bảo tồn mô hơn mão sứ",
+      "SSC không cần mài nếu răng sâu lớn",
+      "SSC luôn ít gây tổn thương mô mềm hơn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Khi lấy dấu trong kỹ thuật gián tiếp SSC, yếu tố nào QUAN TRỌNG NHẤT?",
+    "options": [
+      "Thời gian đông vật liệu",
+      "Độ ẩm miệng",
+      "Cung răng đầy đủ",
+      "Vị trí khớp cắn",
+      "Chọn thì cắn phù hợp"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Để điều chỉnh SSC không khít sát mặt trong răng, nên:",
+    "options": [
+      "Chọn lại mão lớn hơn",
+      "Mài mặt trong của răng",
+      "Bẻ cong mão vào trong",
+      "Thay đổi loại cement",
+      "Cắt phần dưới của mão"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu nào sau đây về SSC là SAI:",
+    "options": [
+      "SSC dễ thực hiện hơn mão sứ",
+      "SSC thích hợp trong phục hình tạm thời",
+      "SSC có thể gây viêm nướu nếu thao tác sai",
+      "SSC không cần kiểm tra lại sau 3 tháng",
+      "SSC hiệu quả trong giữ khoảng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Yếu tố nào là then chốt trong việc lựa chọn SSC đúng cỡ?",
+    "options": [
+      "Chiều dài cung hàm",
+      "Đường kính gần xa răng",
+      "Tỷ lệ chiều cao thân răng",
+      "Khớp cắn trước gắn",
+      "Đường viền nướu trước đó"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Thời gian gắn SSC tối ưu là khi:",
+    "options": [
+      "Ngay sau điều trị tủy",
+      "Khi răng sữa lung lay nhẹ",
+      "Khi trẻ có dấu hiệu mọc răng vĩnh viễn",
+      "Khi răng sữa đã gãy ngang thân",
+      "Trước khi xuất hiện viêm quanh răng"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Nếu SSC gây sai khớp cắn nghiêm trọng, xử trí nên là:",
+    "options": [
+      "Chờ thích nghi",
+      "Mài răng đối diện",
+      "Tháo mão và làm lại",
+      "Bẻ cong mão",
+      "Không can thiệp"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Tỷ lệ thành công của SSC trong phục hồi răng sữa cao nhất khi:",
+    "options": [
+      "Bệnh nhân có vệ sinh răng tốt",
+      "Được thực hiện ở trẻ 4 tuổi trở xuống",
+      "Bệnh nhân hợp tác tốt",
+      "Cả A và C đúng",
+      "Tất cả đều đúng"
+    ],
+    "answer": 4
   }
 ]

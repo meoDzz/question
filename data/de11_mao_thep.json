@@ -1,24 +1,222 @@
 [
   {
-    "question": "Khó khăn phổ biến khi sử dụng mão thép không gỉ là gì?",
+    "question": "Khi sửa soạn mặt bên răng cối sữa, cần chú ý điều gì?",
     "options": [
-      "Kỹ thuật phức tạp",
-      "Thẩm mỹ kém",
-      "Giá thành cao",
-      "Phải thực hiện nhiều lần hẹn",
-      "Dễ gây sâu răng tái phát"
+      "Tạo khấc ở đường hoàn tất",
+      "Bờ xuôi và không tạo khấc",
+      "Mài sâu vượt qua đường viền nướu",
+      "Tạo bờ ngược để giữ mão tốt hơn",
+      "Giữ nguyên hình dạng cũ của răng"
     ],
     "answer": 1
   },
   {
-    "question": "Chống chỉ định của mão thép không gỉ bao gồm:",
+    "question": "Điều gì xảy ra nếu không làm sạch cement sau khi gắn mão?",
     "options": [
-      "Răng có nguy cơ sâu răng cao",
-      "Chân răng tiêu trên ½ chiều dài",
-      "Răng bị vỡ lớn",
-      "Răng thiểu sản men",
-      "Tất cả đều đúng"
+      "Không ảnh hưởng gì",
+      "Dễ gây viêm nướu",
+      "Làm mão chắc hơn",
+      "Gây mòn mão nhanh hơn",
+      "Cả ba câu A, C và D đều đúng"
     ],
     "answer": 1
+  },
+  {
+    "question": "Tại sao mão thép không rỉ được ưa chuộng trong điều trị răng sữa?",
+    "options": [
+      "Thẩm mỹ cao",
+      "Chịu lực kém",
+      "Chắc chắn, tiết kiệm chi phí",
+      "Thực hiện nhiều lần hẹn",
+      "Đòi hỏi labo chế tạo"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong kỹ thuật gián tiếp, bước nào KHÔNG cần thiết?",
+    "options": [
+      "Lấy dấu và đổ mẫu",
+      "Điều chỉnh mão trên mẫu",
+      "Thử mão trong miệng",
+      "Hàn mão cố định trước khi gắn",
+      "Gắn mão bằng cement"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Mão thép không rỉ có thể dùng cho trường hợp nào sau đây?",
+    "options": [
+      "Răng bị vỡ lớn",
+      "Răng lung lay cần nhổ",
+      "Răng sắp thay",
+      "Răng có chiều cao thân răng thấp bất thường",
+      "Răng không cần điều trị"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Cắt bớt chiều cao mão nên cách đường đánh dấu bao nhiêu mm?",
+    "options": [
+      "0.5 mm",
+      "1 mm",
+      "2 mm",
+      "3 mm",
+      "1.5 mm"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Nguyên tắc sửa soạn mão KHÔNG bao gồm:",
+    "options": [
+      "Mài mặt nhai 1-1.5 mm",
+      "Giữ các góc nhọn để tăng giữ mão",
+      "Làm tròn các góc",
+      "Mài mặt ngoài và mặt trong chọn lọc",
+      "Tạo đường hoàn tất không có khấc"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Lý do không nên dùng mão thép không rỉ cho răng cửa sắp thay:",
+    "options": [
+      "Vì răng cửa không cần phục hồi",
+      "Do mão làm giảm khả năng mọc răng vĩnh viễn",
+      "Do mão dễ bung ra",
+      "Do không còn đủ chiều cao răng",
+      "Cả ba câu A, B và C đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Yếu tố nào sau đây giúp SSC bám sát vào răng?",
+    "options": [
+      "Uốn cong bờ mão",
+      "Gắn bằng keo dán nha khoa",
+      "Cắt sâu vào ngà răng",
+      "Tăng độ dày mão",
+      "Giữ góc vuông ở mặt nhai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Mài mặt ngoài răng có mục đích gì?",
+    "options": [
+      "Tạo khoảng gắn mão tốt hơn",
+      "Tăng độ thẩm mỹ",
+      "Giảm kích thước mão",
+      "Tránh chạm nướu",
+      "Cả hai câu A và B đều đúng"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Bờ hoàn tất phải có đặc điểm nào?",
+    "options": [
+      "Tạo khấc nhỏ",
+      "Bờ gấp khúc rõ",
+      "Liền mạch và bờ xuôi",
+      "Thẳng góc với trục răng",
+      "Tạo rãnh nhỏ"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Khi lựa chọn mão phù hợp cần dựa vào yếu tố nào?",
+    "options": [
+      "Chiều cao thân răng",
+      "Hình dạng cung hàm",
+      "Kích thước răng kế cận",
+      "Đường kính lớn nhất của cùi răng",
+      "Thói quen ăn uống"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Điều gì đúng khi gắn mão bằng cement?",
+    "options": [
+      "Cement cần tràn nhiều ra nướu",
+      "Không cần làm khô răng trước khi gắn",
+      "Gắn bằng áp lực vừa đủ",
+      "Gắn xong không cần kiểm tra lại",
+      "Cả ba câu A, B và D đều đúng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Mài giảm mô răng có vai trò gì trong phục hình mão?",
+    "options": [
+      "Giúp mão dễ chụp vào",
+      "Tăng độ bền cho mão",
+      "Tăng diện tích tiếp xúc",
+      "Hạn chế tổn thương mô mềm",
+      "Tất cả các câu trên đều đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Yếu tố nào KHÔNG phải là khó khăn khi sử dụng mão thép không rỉ?",
+    "options": [
+      "Thẩm mỹ kém",
+      "Mài răng ít",
+      "Cần sự hợp tác của bệnh nhân",
+      "Cảm giác khó chịu",
+      "Có thể gây viêm nướu nếu không làm sạch"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Tại sao mão thép không rỉ phù hợp với trẻ có tật nghiến răng?",
+    "options": [
+      "Vì mão có độ bền cao",
+      "Vì mão tự mài theo thời gian",
+      "Vì mão tạo ra khớp cắn thấp",
+      "Vì mão không cần gắn cement",
+      "Vì mão chỉ dùng tạm thời"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Điều kiện cần thiết để chọn mão thép đúng cách là:",
+    "options": [
+      "Phù hợp hình dáng cung răng",
+      "Chạm nhẹ đường viền nướu",
+      "Vượt qua điểm lồi lớn nhất",
+      "Gắn lỏng để dễ tháo lắp",
+      "Có khấc ở đáy mão"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sự khác biệt giữa mão cạnh thẳng và mão đã sửa soạn là gì?",
+    "options": [
+      "Cạnh thẳng dùng cho người lớn",
+      "Mão sửa soạn có bờ hoàn tất tròn hơn",
+      "Cạnh thẳng dễ lắp hơn",
+      "Mão sửa soạn dày hơn",
+      "Không có sự khác biệt rõ ràng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Một trong các yếu tố giúp giảm chấn thương nướu khi lắp mão là:",
+    "options": [
+      "Cắt bớt chiều dài mão",
+      "Không thử mão",
+      "Chọn mão lớn hơn bình thường",
+      "Mài mô răng ít",
+      "Không hướng dẫn vệ sinh sau gắn"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Nếu bệnh nhân không hợp tác, nên chọn điều trị nào thay thế mão SSC?",
+    "options": [
+      "Không cần điều trị",
+      "Sử dụng composite",
+      "Nhổ răng",
+      "Giữ nguyên không phục hồi",
+      "Dán veneer tạm thời"
+    ],
+    "answer": 2
   }
 ]

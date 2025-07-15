@@ -1,24 +1,223 @@
 [
   {
-    "question": "Mão thép không gỉ làm sẵn có ưu điểm nào sau đây?",
+    "question": "Lý do chính để mài giảm mặt nhai 1-1.5mm là gì?",
     "options": [
-      "Chi phí cao",
-      "Chắc chắn, dễ thực hiện, không cần labo",
-      "Không cần mài răng",
-      "Thẩm mỹ cao",
-      "Thường gây viêm nướu"
+      "Tạo độ dày cho cement",
+      "Giảm áp lực khớp cắn",
+      "Tạo khoảng cho mão mà không làm thay đổi chiều cao cắn",
+      "Để tránh mão chạm nướu",
+      "Tăng khả năng chống sâu răng",
+      "Cả A và D đúng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Mục đích của việc làm tròn các góc khi sửa soạn mão là gì?",
+    "options": [
+      "Tăng diện tích bám của cement",
+      "Tránh tạo điểm yếu trong mão",
+      "Giúp mão lắp vào dễ hơn và phân bố lực đồng đều",
+      "Tạo khớp cắn chắc hơn",
+      "Giảm ma sát khi gắn mão"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Khi gắn SSC, nếu chiều dài mão vượt quá đường viền nướu quá nhiều, hậu quả là:",
+    "options": [
+      "Tăng tính lưu giữ",
+      "Gây tổn thương mô nha chu",
+      "Giảm độ bền",
+      "Không ảnh hưởng",
+      "Cả A và C đúng"
     ],
     "answer": 1
   },
   {
-    "question": "Một trong các chỉ định chính của mão thép không gỉ làm sẵn là gì?",
+    "question": "Vị trí đường hoàn tất lý tưởng khi sửa soạn mão là:",
     "options": [
-      "Răng mới mọc",
-      "Răng cối sữa bị thiểu sản men",
-      "Răng vĩnh viễn chưa mọc hoàn toàn",
-      "Răng sâu nhỏ",
-      "Răng có miếng trám amalgam nhỏ"
+      "Trên nướu 2mm",
+      "Dưới nướu 2mm",
+      "Trùng đường viền nướu hoặc trên 1 chút",
+      "Trên cement-enamel junction",
+      "Ở cổ răng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Nguyên nhân nào làm giảm khả năng lưu giữ mão thép không rỉ?",
+    "options": [
+      "Mài mặt trong quá nhiều",
+      "Không chọn đúng kích thước mão",
+      "Không làm sạch cement dư",
+      "Mài tạo khấc rõ rệt",
+      "Cả A và B đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Lý do chống chỉ định SSC trong trường hợp tiêu chân răng > ½ là:",
+    "options": [
+      "Không còn mô lưu giữ",
+      "Gây đau sau gắn mão",
+      "Không đủ không gian cho cement",
+      "Tổn thương mô mềm",
+      "Tăng nguy cơ chấn thương khớp cắn"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Thử mão đúng kỹ thuật cần đảm bảo:",
+    "options": [
+      "Khít sát đường viền nướu",
+      "Không ảnh hưởng khớp cắn",
+      "Tiếp xúc đều với răng kế cận",
+      "Không làm tổn thương nướu",
+      "Tất cả các đáp án đều đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Sai lầm thường gặp khi sửa soạn mặt bên là:",
+    "options": [
+      "Không tạo bờ xuôi",
+      "Tạo khấc sâu gây điểm yếu",
+      "Không làm tròn đường chuyển tiếp",
+      "Cả A và B đúng",
+      "Tất cả đều đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "SSC có thể bảo tồn được răng bị thiểu sản men nhờ vào:",
+    "options": [
+      "Độ cứng và bảo vệ toàn diện",
+      "Khả năng gắn keo tốt",
+      "Gắn tạm thời được",
+      "Hình dáng giống răng thật",
+      "Giảm sâu răng nhờ cách ly nước bọt"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Khi SSC bị lỏng sau gắn, nguyên nhân có thể là:",
+    "options": [
+      "Mài quá ít mô răng",
+      "Chọn mão quá nhỏ",
+      "Không kiểm tra khớp cắn",
+      "Cement chưa đủ độ dính",
+      "Cả B và D đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Nếu không uốn cong bờ mão đúng cách thì điều gì xảy ra?",
+    "options": [
+      "Mão dễ tuột",
+      "Không khít với răng",
+      "Gây viêm nướu",
+      "Răng dễ bị sâu tái phát",
+      "Tất cả các đáp án đều đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Để đảm bảo không gây viêm nướu, cần:",
+    "options": [
+      "Chọn mão cao hơn",
+      "Gắn không tràn cement",
+      "Làm sạch cement bờ nướu sau gắn",
+      "Giảm độ dày mão",
+      "Không cần thử mão"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Việc sử dụng SSC ở trẻ nghiến răng giúp:",
+    "options": [
+      "Tăng chức năng nhai",
+      "Bảo vệ răng cối khỏi mòn quá mức",
+      "Giảm cảm giác ê buốt",
+      "Làm răng dài ra",
+      "Không có lợi ích cụ thể"
     ],
     "answer": 1
+  },
+  {
+    "question": "Mài mặt ngoài và mặt trong chọn lọc giúp gì cho việc gắn SSC?",
+    "options": [
+      "Giảm thể tích mão",
+      "Tạo khoảng đủ để mão không cấn",
+      "Giữ tính thẩm mỹ",
+      "Hạn chế ảnh hưởng khớp cắn",
+      "Không có tác dụng đáng kể"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Cement nên được trám đầy lòng mão nhằm mục đích gì?",
+    "options": [
+      "Tăng khả năng giữ",
+      "Tránh tạo khoảng rỗng",
+      "Tạo lực dính đều",
+      "Đảm bảo không bị rơi mão",
+      "Tất cả đều đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Khi thử mão không khớp, cần điều chỉnh thế nào?",
+    "options": [
+      "Mài bớt mô răng",
+      "Chọn mão lớn hơn",
+      "Cắt bớt bờ mão",
+      "Bẻ cong phần mão trong",
+      "Tùy vào tình huống, có thể kết hợp nhiều cách"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "SSC có thể sử dụng ở răng vĩnh viễn không?",
+    "options": [
+      "Không bao giờ",
+      "Có, nếu răng bị thiểu sản nặng",
+      "Chỉ trong trường hợp khẩn cấp",
+      "Chỉ với trẻ em",
+      "Không có câu nào đúng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Một yếu tố đặc biệt quan trọng trong thành công SSC là:",
+    "options": [
+      "Chiều cao thân răng còn lại",
+      "Khả năng chịu lực của cement",
+      "Thói quen ăn uống bệnh nhân",
+      "Màu sắc mão",
+      "Thời gian gắn mão"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Khi mão không sát nướu sẽ gây hậu quả gì?",
+    "options": [
+      "Không ảnh hưởng nhiều",
+      "Dễ giắt thức ăn và viêm nướu",
+      "Làm tăng độ bền của mão",
+      "Tạo khoảng lưu giữ tốt hơn",
+      "Gây ê buốt do lộ ngà"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Đâu là dấu hiệu SSC được gắn đúng?",
+    "options": [
+      "Không di động khi cắn",
+      "Không chèn ép nướu",
+      "Không ảnh hưởng khớp cắn",
+      "Khít sát nướu và không cấn",
+      "Tất cả đều đúng"
+    ],
+    "answer": 4
   }
 ]
