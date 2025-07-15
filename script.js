@@ -40,6 +40,9 @@ document.addEventListener('DOMContentLoaded', () => {
         'de11_mao_thep.json',
         'de12_mao_thep.json',
         'de13_mao_thep.json',
+        'de14_ung_xu_tre_nhakhoa.json',
+        'de15_ung_xu_tre_nhakhoa.json',
+        'de16_ung_xu_tre_nhakhoa.json',
     ];
     // --- KẾT THÚC CẬP NHẬT ---
 

@@ -1,0 +1,223 @@
+[
+  {
+    "question": "Phương pháp 'Dạo chơi nha khoa' có đặc điểm gì nổi bật?",
+    "options": [
+      "Điều trị đơn giản, không gây đau",
+      "Không điều trị, chỉ giới thiệu dụng cụ nha khoa",
+      "Quan sát hành vi trẻ trong quá trình điều trị",
+      "Giải thích sâu về quy trình điều trị"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "'Nói – Trình bày – Làm' (Tell-Show-Do) giúp gì trong điều trị trẻ em?",
+    "options": [
+      "Giúp trẻ chấp nhận điều trị",
+      "Là phương pháp phức tạp, ít hiệu quả",
+      "Làm trẻ sợ và phản ứng tiêu cực",
+      "Dễ khiến trẻ khóc vì chưa được điều trị thật"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Đối tượng phù hợp với phương pháp TSD là?",
+    "options": [
+      "Trẻ < 2 tuổi",
+      "Trẻ 2–3 tuổi có rối loạn hành vi",
+      "Trẻ > 3 tuổi có trạng thái cảm xúc và xã hội bình thường",
+      "Người lớn tuổi",
+      "Trẻ chưa biết nói"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Tác dụng của phương pháp 'Đổi giọng nói' trong điều trị nha khoa cho trẻ là gì?",
+    "options": [
+      "Tạo sự chú ý và kiểm soát hành vi trẻ",
+      "Gây hoảng sợ cho trẻ",
+      "Giúp trẻ thích thú với nha sĩ",
+      "Chỉ hiệu quả với trẻ trên 10 tuổi",
+      "Chỉ dùng được cho trẻ dưới 2 tuổi"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Phương pháp 'tay che miệng' (HOME) KHÔNG áp dụng cho đối tượng nào?",
+    "options": [
+      "Trẻ 4 tuổi có phản ứng dữ dội",
+      "Trẻ trên 6 tuổi",
+      "Trẻ dưới 3 tuổi",
+      "Trẻ bị khuyết tật",
+      "Cả trẻ 2 và 3 tuổi"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Khi sử dụng phương pháp HOME, nha sĩ cần làm gì?",
+    "options": [
+      "Dùng lực mạnh để che miệng trẻ",
+      "Kết hợp với đổi giọng để kiểm soát",
+      "Không được đánh giá trí thông minh trẻ trước",
+      "Chỉ định với mọi trẻ em",
+      "Tuyệt đối không chạm vào trẻ"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Phương pháp kềm giữ có thể sử dụng dụng cụ nào sau đây?",
+    "options": [
+      "Tay",
+      "Papoose-board",
+      "Dây thắt lưng",
+      "Tấm trải giường",
+      "Tất cả các dụng cụ trên",
+      "Không dụng cụ nào trên"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Chỉ định kềm giữ trong điều trị nha khoa gồm:",
+    "options": [
+      "Trẻ > 10 tuổi không hợp tác",
+      "Trẻ khuyết tật",
+      "Cấp cứu răng như áp xe quanh chóp",
+      "Cả trẻ ≤ 3 tuổi và cấp cứu răng",
+      "Chỉ trẻ dưới 2 tuổi",
+      "Cả 2 và 3 đều đúng"
+    ],
+    "answer": 5
+  },
+  {
+    "question": "Khi nào cần sự đồng ý của phụ huynh trong kềm giữ?",
+    "options": [
+      "Luôn luôn",
+      "Không bao giờ",
+      "Chỉ khi trẻ khuyết tật",
+      "Chỉ với trẻ trên 5 tuổi",
+      "Không quan trọng"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Tác dụng của sự khen ngợi trong giao tiếp với trẻ là gì?",
+    "options": [
+      "Thiết lập mối quan hệ tốt",
+      "Khiến trẻ khó chịu",
+      "Làm trẻ phụ thuộc",
+      "Giảm sự tự lập",
+      "Chỉ có tác dụng tức thì"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Khi giao tiếp với trẻ, nha sĩ KHÔNG nên:",
+    "options": [
+      "Đặt câu hỏi để trẻ không trả lời có/không",
+      "Dùng ngôn ngữ, ánh mắt, cử chỉ",
+      "Tỏ ra thân thiện và nhẹ nhàng",
+      "Sử dụng giọng nói thay đổi linh hoạt",
+      "Trình bày chi tiết dụng cụ gây sợ hãi"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Trong buổi hẹn đầu tiên, trẻ cần được:",
+    "options": [
+      "Ép lên ghế",
+      "Tự lên ghế khi sẵn sàng",
+      "Không cho uống nước",
+      "Không cho đi vệ sinh",
+      "Làm thủ thuật ngay"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Mũi tiêm nên được tiến hành như thế nào với trẻ nhỏ?",
+    "options": [
+      "Không giải thích gì để trẻ không biết",
+      "Giải thích ngắn gọn, nhẹ nhàng",
+      "Trình bày dụng cụ tiêm trước",
+      "Nói từ 'kim tiêm' rõ ràng",
+      "Không dùng thuốc tê bôi trước"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Một cách hiệu quả để giảm lo âu ở trẻ là:",
+    "options": [
+      "Tách trẻ khỏi cha mẹ hoàn toàn",
+      "Nói rõ từ 'gây mê'",
+      "Đưa trẻ sợ đi cùng trẻ can đảm",
+      "Dùng kim dài để gây ấn tượng",
+      "Kể về thủ thuật chi tiết"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong các tình huống đặc biệt, trẻ bị tổn thương tình cảm cần được:",
+    "options": [
+      "Bỏ mặc cho tự xử lý",
+      "Tiếp cận nhẹ nhàng, hiểu tâm lý",
+      "Kềm giữ nghiêm ngặt",
+      "Ép buộc hợp tác",
+      "Tránh mọi tiếp xúc"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trẻ sợ hãi quá mức có thể cần được:",
+    "options": [
+      "Thuyết phục bằng lời nói",
+      "Trì hoãn điều trị",
+      "Điều trị dưới tác động khí gây mê",
+      "Chuyển chuyên khoa tâm thần",
+      "Cả 2 và 3 đúng"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Trẻ không thích uy quyền có thể biểu hiện như:",
+    "options": [
+      "Phá rối, đập phá",
+      "Im lặng tuyệt đối",
+      "Chống đối trực tiếp",
+      "Không hợp tác rõ rệt",
+      "Chỉ nghe lời mẹ",
+      "Cả 1 và 3 đều đúng"
+    ],
+    "answer": 5
+  },
+  {
+    "question": "Khi kết thúc điều trị nha khoa, nha sĩ nên:",
+    "options": [
+      "Cho trẻ về ngay",
+      "Gặp cha mẹ và khen ngợi trẻ",
+      "Không giao tiếp thêm",
+      "Nói trẻ không được tái khám",
+      "Không cần dặn dò"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Một nguyên tắc trong điều trị trẻ là:",
+    "options": [
+      "Không được trẻ khóc khi ra về",
+      "Luôn hoàn thành điều trị dù trẻ khóc",
+      "Chỉ điều trị nếu có thuốc tê",
+      "Bỏ qua cảm xúc trẻ",
+      "Tập trung vào kỹ thuật"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ngôn ngữ nên dùng với trẻ là:",
+    "options": [
+      "Ngôn ngữ học thuật",
+      "Từ đơn giản, tránh từ như 'kim', 'máu'",
+      "Từ chuyên môn để trẻ hiểu đúng",
+      "Nói rõ về tiêm, khoan",
+      "Nói chuyện qua đầu trẻ"
+    ],
+    "answer": 1
+  }
+]

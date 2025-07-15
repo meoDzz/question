@@ -1,0 +1,242 @@
+[
+  {
+    "question": "Mục tiêu chính của phương pháp 'dạo chơi nha khoa' là gì?",
+    "options": [
+      "Giúp trẻ làm quen và giảm sợ hãi",
+      "Quan sát phản ứng của trẻ trong điều trị",
+      "Thử gây tê để kiểm tra ngưỡng đau",
+      "Dạy trẻ cách tự chăm sóc răng",
+      "Giới thiệu quy trình điều trị chuyên sâu",
+      "Đánh giá khả năng hợp tác của phụ huynh"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Trong TSD, bước 'Show' có nghĩa là gì?",
+    "options": [
+      "Chỉ cho trẻ xem dụng cụ sẽ dùng",
+      "Cho trẻ xem quá trình điều trị",
+      "Dùng tay chỉ vào miệng trẻ",
+      "Mô phỏng hành vi của trẻ",
+      "Nói trước khi làm",
+      "Hỏi trẻ có sẵn sàng chưa"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Tác dụng của thay đổi giọng nói trong giao tiếp là?",
+    "options": [
+      "Tạo sự chú ý và tăng kiểm soát",
+      "Làm trẻ sợ và tuân thủ",
+      "Truyền đạt thông tin nhanh hơn",
+      "Đồng bộ hóa cảm xúc với phụ huynh",
+      "Tăng tính thuyết phục với người lớn",
+      "Tạo ấn tượng quyền lực với trẻ"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Khi dùng kỹ thuật HOME, thời điểm bỏ tay khỏi miệng trẻ là khi:",
+    "options": [
+      "Trẻ gật đầu và không khóc nữa",
+      "Trẻ bắt đầu hét to hơn",
+      "Trẻ quay đầu tránh nha sĩ",
+      "Trẻ nhắm mắt và im lặng",
+      "Trẻ xin lỗi nha sĩ",
+      "Phụ huynh yêu cầu dừng lại"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Kềm giữ bằng papoose-board phù hợp nhất với tình huống nào?",
+    "options": [
+      "Trẻ khuyết tật cần can thiệp cấp cứu",
+      "Trẻ lớn không chịu hợp tác",
+      "Người lớn lo lắng quá mức",
+      "Trẻ bị tổn thương cảm xúc",
+      "Trẻ cần khám tổng quát",
+      "Trẻ từ chối ngồi ghế"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Một ưu điểm lớn của HOME là:",
+    "options": [
+      "Đơn giản và có hiệu quả tức thì",
+      "Không cần đánh giá trí tuệ trẻ",
+      "Áp dụng được cho trẻ dưới 2 tuổi",
+      "Không gây ảnh hưởng tâm lý",
+      "Không cần kết hợp phương pháp khác",
+      "Áp dụng dễ dàng với mọi đối tượng"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "TSD có thể KHÔNG phù hợp khi:",
+    "options": [
+      "Trẻ quá nhỏ hoặc phát triển chậm",
+      "Trẻ hợp tác quá tốt",
+      "Trẻ thích quan sát",
+      "Trẻ đã từng điều trị trước đó",
+      "Phụ huynh có mặt trong phòng",
+      "Trẻ không biết tên dụng cụ"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Vai trò của nha sĩ trong giao tiếp với trẻ là:",
+    "options": [
+      "Người lãnh đạo có quyền uy",
+      "Người bạn gần gũi",
+      "Người điều hành cùng cha mẹ",
+      "Người truyền đạt thông tin khoa học",
+      "Người kiểm tra phản ứng hành vi",
+      "Người đánh giá thái độ trẻ"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Điều gì sau đây nên tránh trong giao tiếp với trẻ?",
+    "options": [
+      "Trình bày dụng cụ gây sợ hãi",
+      "Dùng từ gần gũi với trẻ",
+      "Giữ ánh mắt thân thiện",
+      "Nói nhẹ nhàng và lặp lại",
+      "Tạo cảm giác an toàn",
+      "Sử dụng giọng kiên quyết khi cần"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Phản ứng nào sau đây có thể xảy ra ở trẻ tổn thương tình cảm?",
+    "options": [
+      "Giận dữ đột ngột trong quá trình điều trị",
+      "Cười lớn không kiểm soát",
+      "Nói chuyện liên tục",
+      "Ngủ gật khi điều trị",
+      "Im lặng tuyệt đối",
+      "Trả lời sai các câu hỏi"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Trẻ nhút nhát thường thể hiện qua:",
+    "options": [
+      "Né tránh, khóc nhỏ, ít phản ứng",
+      "Gây ồn ào để thu hút chú ý",
+      "Giận dữ và đập phá",
+      "Nói chuyện liên tục với phụ huynh",
+      "Cười lớn để giảm căng thẳng",
+      "Bỏ chạy ra khỏi phòng"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Yếu tố nào giúp trẻ cảm thấy an toàn nhất?",
+    "options": [
+      "Ngôn ngữ thân thiện, ánh mắt, cử chỉ",
+      "Sự có mặt của nhiều nhân viên",
+      "Bàn ghế mới và sáng sủa",
+      "Không khí lạnh và yên tĩnh",
+      "Ánh sáng mạnh và nhạc nền lớn",
+      "Đưa dụng cụ cho trẻ cầm thử"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Giao tiếp hiệu quả với trẻ nên tránh:",
+    "options": [
+      "Hỏi trẻ có muốn điều trị không",
+      "Dùng câu hỏi để trẻ trả lời 'có'",
+      "Giải thích đơn giản",
+      "Giới thiệu bằng tên và nụ cười",
+      "Tạo ấn tượng đầu tiên tích cực",
+      "Khen ngợi khi trẻ hợp tác"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Tình huống nào phù hợp để trì hoãn điều trị?",
+    "options": [
+      "Trẻ có lo âu hoặc sợ hãi quá mức",
+      "Trẻ không muốn điều trị",
+      "Cha mẹ chưa sẵn sàng",
+      "Phòng nha không có điện",
+      "Nhân viên nghỉ trưa",
+      "Trẻ đang đói"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Khi kết thúc buổi điều trị, nha sĩ nên:",
+    "options": [
+      "Khen ngợi trẻ và thông báo với cha mẹ",
+      "Giao trẻ cho phụ huynh ngay",
+      "Đưa phần thưởng bất kỳ",
+      "Không nói gì thêm",
+      "Nhắc lại toàn bộ thủ thuật",
+      "Bắt trẻ hứa sẽ quay lại"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Dụng cụ nên được đặt ở đâu khi điều trị trẻ?",
+    "options": [
+      "Ngoài tầm nhìn của trẻ",
+      "Trên khay mở ngay trước mặt",
+      "Đưa cho trẻ xem trước",
+      "Để ở tay trẻ cầm thử",
+      "Gắn vào ghế nha khoa",
+      "Để cha mẹ cầm giới thiệu"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Lý do tránh dùng từ như 'kim', 'máu' là gì?",
+    "options": [
+      "Gây lo lắng hoặc sợ hãi không cần thiết",
+      "Không đúng chuyên môn",
+      "Làm trẻ mất tập trung",
+      "Không hợp pháp",
+      "Khiến cha mẹ khó chịu",
+      "Vi phạm nguyên tắc vô trùng"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Một dấu hiệu cho thấy trẻ không thích uy quyền là:",
+    "options": [
+      "Cãi lại hoặc làm trái hướng dẫn",
+      "Im lặng và né tránh",
+      "Ngồi yên lặng hoàn toàn",
+      "Cười nhẹ nhàng",
+      "Trả lời đúng yêu cầu",
+      "Xin ra ngoài giữa chừng"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Điều gì KHÔNG nên làm khi trẻ la hét?",
+    "options": [
+      "Mất bình tĩnh",
+      "Đổi giọng và trấn an",
+      "Dùng phương pháp HOME",
+      "Giao tiếp rõ ràng hơn",
+      "Giảm ánh sáng phòng",
+      "Đưa trẻ ra ngoài"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu nói của McElroy nhấn mạnh điều gì trong điều trị trẻ?",
+    "options": [
+      "Kết quả tâm lý quan trọng hơn thủ thuật hoàn hảo",
+      "Thủ thuật phải nhanh và chính xác",
+      "Không cần quan tâm thái độ trẻ",
+      "Trẻ phải im lặng khi rời phòng",
+      "Không để trẻ thấy dụng cụ",
+      "Luôn có phụ huynh bên cạnh"
+    ],
+    "answer": 0
+  }
+]

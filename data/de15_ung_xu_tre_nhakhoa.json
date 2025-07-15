@@ -1,0 +1,242 @@
+[
+  {
+    "question": "Tại sao không nên thảo luận điều trị khi trẻ có thể nghe thấy?",
+    "options": [
+      "Trẻ có thể lo sợ không cần thiết",
+      "Trẻ sẽ mất tập trung",
+      "Trẻ sẽ nói lại với người khác",
+      "Trẻ có thể hiểu sai",
+      "Bác sĩ không có thời gian",
+      "Phụ huynh không muốn"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Điều gì cho thấy trẻ đang chịu stress điều trị?",
+    "options": [
+      "Khóc lớn hoặc né tránh",
+      "Ngủ gật trong ghế nha",
+      "Không phản ứng gì",
+      "Trả lời mọi câu hỏi quá nhanh",
+      "Cười không kiểm soát",
+      "Hỏi nhiều về dụng cụ"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Trẻ thuộc hoàn cảnh gia đình khó khăn thường:",
+    "options": [
+      "Chịu tổn thương tốt hơn về mặt tâm lý",
+      "Không cần chăm sóc đặc biệt",
+      "Rất dễ hợp tác",
+      "Không bao giờ phản ứng tiêu cực",
+      "Ít quan tâm đến việc điều trị",
+      "Sợ nha sĩ hơn bình thường"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Điều gì KHÔNG nên làm trong buổi khám đầu tiên?",
+    "options": [
+      "Giới thiệu bản thân",
+      "Hỏi tên và biệt danh của trẻ",
+      "Khen ngợi về quần áo trẻ",
+      "Cho trẻ lên ghế mà không giải thích",
+      "Cho trẻ uống nước nếu cần",
+      "Tìm hiểu thú cưng của trẻ"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Vì sao không nên dùng giọng quá cao hoặc tức giận khi nói với trẻ?",
+    "options": [
+      "Gây phản ứng tiêu cực hoặc sợ hãi",
+      "Trẻ sẽ không nghe rõ",
+      "Phụ huynh sẽ tức giận",
+      "Không đủ chuyên nghiệp",
+      "Ảnh hưởng thính giác",
+      "Không hiệu quả"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Lý do chủ yếu khiến trẻ sợ mũi tiêm là gì?",
+    "options": [
+      "Trẻ từng bị tiêm đau",
+      "Sự lo sợ từ lời kể của người lớn",
+      "Kích động cảm xúc quá mức",
+      "Chưa được chuẩn bị tâm lý",
+      "Cả 1 và 2 đúng",
+      "Tất cả các lý do trên"
+    ],
+    "answer": 5
+  },
+  {
+    "question": "Tại sao cần che dụng cụ khỏi tầm nhìn của trẻ?",
+    "options": [
+      "Tránh làm trẻ lo lắng",
+      "Tiết kiệm thời gian",
+      "Không đủ sạch sẽ",
+      "Trẻ dễ lấy chơi",
+      "Trẻ có thể hỏi nhiều",
+      "Bảo vệ khỏi ánh sáng"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Khi trẻ không muốn hợp tác do không thích nghi, nên:",
+    "options": [
+      "Dẫn dắt chậm, nhẹ nhàng",
+      "Ép buộc bằng lực",
+      "Đe dọa trẻ",
+      "Cho trẻ đi về",
+      "Gọi bảo vệ",
+      "Chuyển sang bác sĩ khác"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Đâu là biểu hiện của trẻ có xu hướng trả đũa?",
+    "options": [
+      "Cố làm cha mẹ khó chịu",
+      "Giả vờ nghe lời",
+      "Cười lớn không kiểm soát",
+      "Rút tay khỏi tay bác sĩ",
+      "Ngủ gật",
+      "Ngồi yên không nói"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Trẻ được chuẩn bị tâm lý kỹ sẽ:",
+    "options": [
+      "Hợp tác tốt và ít khóc hơn",
+      "Không cần hướng dẫn",
+      "Tự biết cách điều trị",
+      "Không cần có mặt phụ huynh",
+      "Dễ tổn thương hơn",
+      "Yêu cầu gây mê ngay"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Điểm nào sau đây khiến phương pháp 'Tell-Show-Do' hiệu quả với trẻ > 3 tuổi?",
+    "options": [
+      "Trẻ có khả năng quan sát và hiểu lời nói tốt hơn",
+      "Trẻ dễ bị điều khiển bằng hình ảnh",
+      "Trẻ sợ hãi nên dễ thuyết phục",
+      "Trẻ không cần hướng dẫn trực tiếp",
+      "Trẻ không thích tương tác",
+      "Trẻ thường hiểu sai hành vi nha sĩ"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Trong kỹ thuật HOME, điều gì chứng tỏ sự hiệu quả của phương pháp?",
+    "options": [
+      "Trẻ hợp tác và không khóc",
+      "Trẻ phản kháng mạnh mẽ hơn",
+      "Trẻ nói to và giận dữ hơn",
+      "Trẻ cười lớn",
+      "Trẻ ngủ gật",
+      "Trẻ không có phản ứng gì"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Sự khác biệt lớn nhất giữa 'voice control' và 'khen ngợi' là gì?",
+    "options": [
+      "Voice control thể hiện uy quyền, khen ngợi thể hiện sự tích cực",
+      "Voice control dành cho trẻ ngoan, khen ngợi dành cho trẻ sợ",
+      "Voice control không dùng với trẻ 6 tuổi, khen ngợi thì dùng",
+      "Voice control làm trẻ ghét nha sĩ",
+      "Cả hai đều có mục tiêu trấn an trẻ",
+      "Không có sự khác biệt rõ"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Trong phương pháp kềm giữ, vì sao thời gian thực hiện KHÔNG nên quá 30 phút?",
+    "options": [
+      "Gây tổn thương thể chất kéo dài",
+      "Dễ khiến trẻ bị ngạt thở",
+      "Gây stress tâm lý nghiêm trọng",
+      "Vi phạm quyền trẻ em",
+      "Bác sĩ không đủ kiên nhẫn",
+      "Trẻ không thể ngồi lâu"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Khi giao tiếp với trẻ, từ ngữ nào sau đây nên tránh nhất?",
+    "options": [
+      "Kim",
+      "Cắt",
+      "Khoan",
+      "Nhọn",
+      "Máu",
+      "Tất cả đều đúng"
+    ],
+    "answer": 5
+  },
+  {
+    "question": "Lý do chủ yếu cần hỏi cha mẹ về tiền sử trẻ là gì?",
+    "options": [
+      "Biết được tâm lý và phản ứng trước đó",
+      "Biết trẻ ăn gì hôm nay",
+      "Xác định tình trạng tài chính",
+      "Xác định mức độ hợp tác của cha mẹ",
+      "Chọn dụng cụ phù hợp",
+      "Lập hồ sơ bảo hiểm"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Điều gì sau đây là *không đúng* trong giao tiếp tích cực với trẻ?",
+    "options": [
+      "Luôn tạo ánh mắt thân thiện",
+      "Dùng câu ngắn và rõ ràng",
+      "Không cho trẻ kiểm soát cảm giác",
+      "Giữ giao tiếp liên tục",
+      "Tìm hiểu sở thích cá nhân của trẻ",
+      "Nói chậm, dễ hiểu"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu nào phản ánh đúng nhất triết lý điều trị trẻ em theo McElroy?",
+    "options": [
+      "Chất lượng thủ thuật là trên hết",
+      "Trẻ khóc khi về không quan trọng",
+      "Sự hợp tác của trẻ là yếu tố thứ yếu",
+      "Một cuộc hẹn thất bại nếu trẻ rời phòng nha trong nước mắt",
+      "Không cần quan tâm thái độ trẻ",
+      "Thành công chỉ dựa trên kỹ thuật"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Lý do nên dùng thuốc tê thoa trước khi tiêm cho trẻ là gì?",
+    "options": [
+      "Làm giảm cảm giác đau khi chích",
+      "Gây tê sâu để tiêm dễ hơn",
+      "Giúp tiêm nhanh hơn",
+      "Tạo ảo giác an toàn",
+      "Không cần thiết, chỉ là tâm lý",
+      "Để làm đẹp vị trí tiêm"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Khi nào việc khen ngợi trẻ nên được thực hiện?",
+    "options": [
+      "Chỉ sau khi hoàn tất điều trị",
+      "Chỉ khi trẻ không khóc",
+      "Mỗi khi trẻ có hành vi tích cực",
+      "Cuối mỗi buổi khám",
+      "Khi phụ huynh có mặt",
+      "Bất kỳ khi nào cần dỗ trẻ"
+    ],
+    "answer": 2
+  }
+]
