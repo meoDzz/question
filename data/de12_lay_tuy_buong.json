@@ -1,0 +1,24 @@
+[
+  {
+    "question": "Mão thép không gỉ làm sẵn có ưu điểm nào sau đây?",
+    "options": [
+      "Chi phí cao",
+      "Chắc chắn, dễ thực hiện, không cần labo",
+      "Không cần mài răng",
+      "Thẩm mỹ cao",
+      "Thường gây viêm nướu"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Một trong các chỉ định chính của mão thép không gỉ làm sẵn là gì?",
+    "options": [
+      "Răng mới mọc",
+      "Răng cối sữa bị thiểu sản men",
+      "Răng vĩnh viễn chưa mọc hoàn toàn",
+      "Răng sâu nhỏ",
+      "Răng có miếng trám amalgam nhỏ"
+    ],
+    "answer": 1
+  }
+]

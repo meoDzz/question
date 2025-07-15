@@ -1,0 +1,24 @@
+[
+  {
+    "question": "Khó khăn phổ biến khi sử dụng mão thép không gỉ là gì?",
+    "options": [
+      "Kỹ thuật phức tạp",
+      "Thẩm mỹ kém",
+      "Giá thành cao",
+      "Phải thực hiện nhiều lần hẹn",
+      "Dễ gây sâu răng tái phát"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Chống chỉ định của mão thép không gỉ bao gồm:",
+    "options": [
+      "Răng có nguy cơ sâu răng cao",
+      "Chân răng tiêu trên ½ chiều dài",
+      "Răng bị vỡ lớn",
+      "Răng thiểu sản men",
+      "Tất cả đều đúng"
+    ],
+    "answer": 1
+  }
+]
