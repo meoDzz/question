@@ -36,10 +36,10 @@ document.addEventListener('DOMContentLoaded', () => {
         'de7_lay_tuy_buong.json',
         'de8_lay_tuy_buong.json',
         'de9_lay_tuy_buong.json',
-        'de10_lay_tuy_buong.json',
-        'de11_lay_tuy_buong.json',
-        'de12_lay_tuy_buong.json',
-        'de13_lay_tuy_buong.json',
+        'de10_mao_thep.json',
+        'de11_mao_thep.json',
+        'de12_mao_thep.json',
+        'de13_mao_thep.json',
     ];
     // --- KẾT THÚC CẬP NHẬT ---
 
