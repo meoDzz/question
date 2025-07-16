@@ -43,6 +43,8 @@ document.addEventListener('DOMContentLoaded', () => {
         'de14_ung_xu_tre_nhakhoa.json',
         'de15_ung_xu_tre_nhakhoa.json',
         'de16_ung_xu_tre_nhakhoa.json',
+        'de17_full_100_questions.json',
+        'de18_full_100_questions.json'
     ];
     // --- KẾT THÚC CẬP NHẬT ---
 
