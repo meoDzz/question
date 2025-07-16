@@ -1,1152 +1,1106 @@
 [
-  {
-    "question": "Câu hỏi 16: Viêm tủy và điều trị bảo tồn tủy: Viêm tủy có khả năng hồi phục cần loại bỏ nguyên nhân như sâ...?",
+    {
+    "question": "Câu 1: Chỉ định nhổ răng liên quan đến phục hình là trường hợp nào sau đây?",
     "options": [
-      "Cả hai câu trên đều đúng",
-      "Viêm tủy có khả năng hồi  DEF",
-      "Viêm tủy có khả năng hồi  XYZ",
-      "Viêm tủy có khả năng hồi  ABC",
-      "Một số câu trên đều sai"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Câu hỏi 3: Nguyên tắc thử và gắn mão: Nguyên tắc tạo sự thích ứng của mão gồm chiều dài mão phù hợ...?",
-    "options": [
-      "Nguyên tắc tạo sự thích ứng củ không được áp dụng phổ biến",
-      "Nguyên tắc tạo sự thích ứng củ phù hợp với mọi lứa tuổi",
-      "Nguyên tắc tạo sự thích ứng củ là phương pháp hiệu quả nhất",
-      "Cả hai câu trên đều đúng",
-      "Nguyên tắc tạo sự thích ứng củ được dùng trong trường hợp đặc biệt",
-      "Một số câu trên đều sai"
+      "Răng sữa chưa rụng",
+      "Răng ngầm gây biến chứng",
+      "Răng gây mất thăng bằng phục hình",
+      "Răng viêm quanh thân",
+      "Răng có sâu men nhẹ",
+      "Răng không có triệu chứng"
     ],
     "answer": 2
   },
   {
-    "question": "Câu hỏi 15: Ứng xử trẻ em trong điều trị nha khoa: Ứng xử trẻ em cần dùng các phương pháp như dạo chơi nha khoa...?",
+    "question": "Câu 2: Đối với bệnh nhân đang dùng thuốc chống đông, xử trí khi cần nhổ răng là:",
     "options": [
-      "Ứng xử trẻ em cần dùng cá DEF",
-      "Một số câu trên đều sai",
-      "Cả hai câu trên đều đúng",
-      "Ứng xử trẻ em cần dùng cá XYZ",
-      "Ứng xử trẻ em cần dùng cá ABC"
+      "Nhổ ngay để tránh nhiễm trùng",
+      "Hoãn nhổ, chuyển chuyên khoa nội xem xét",
+      "Tiếp tục điều trị nội nha",
+      "Cạo vôi răng định kỳ",
+      "Cho kháng sinh mạnh",
+      "Theo dõi tại nhà"
     ],
     "answer": 1
   },
   {
-    "question": "Câu hỏi 5: Viêm tủy và điều trị bảo tồn tủy: Viêm tủy có khả năng hồi phục cần loại bỏ nguyên nhân như sâ...?",
+    "question": "Câu 3: Chống chỉ định nhổ răng tuyệt đối nào sau đây là đúng?",
     "options": [
-      "Viêm tủy có khả năng hồi  DEF",
-      "Viêm tủy có khả năng hồi  ABC",
-      "Cả hai câu trên đều đúng",
-      "Viêm tủy có khả năng hồi  XYZ",
-      "Một số câu trên đều sai"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Câu hỏi 14: Chỉ định và chống chỉ định nhổ răng: Nhổ răng chỉ định khi răng tổn thương không thể phục hồi, ră...?",
-    "options": [
-      "Cả hai câu trên đều đúng",
-      "Nhổ răng chỉ định khi răn XYZ",
-      "Nhổ răng chỉ định khi răn ABC",
-      "Một số câu trên đều sai",
-      "Nhổ răng chỉ định khi răn DEF"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Câu hỏi 17: Chỉ định và chống chỉ định nhổ răng: Nhổ răng chỉ định khi răng tổn thương không thể phục hồi, ră...?",
-    "options": [
-      "Nhổ răng chỉ định khi răn DEF",
-      "Cả hai câu trên đều đúng",
-      "Một số câu trên đều sai",
-      "Nhổ răng chỉ định khi răn ABC",
-      "Nhổ răng chỉ định khi răn XYZ"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Câu hỏi 13: Mão răng cửa Strip Crown: Mão strip crown chỉ định cho răng cửa sâu lớn, thiểu sản men...?",
-    "options": [
-      "Cả hai câu trên đều đúng",
-      "Mão strip crown chỉ định cho r không được áp dụng phổ biến",
-      "Mão strip crown chỉ định cho r được dùng trong trường hợp đặc biệt",
-      "Mão strip crown chỉ định cho r phù hợp với mọi lứa tuổi",
-      "Mão strip crown chỉ định cho r là phương pháp hiệu quả nhất",
-      "Một số câu trên đều sai"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Câu hỏi 19: Mão răng cửa Strip Crown: Mão strip crown chỉ định cho răng cửa sâu lớn, thiểu sản men...?",
-    "options": [
-      "Mão strip crown chỉ định cho r phù hợp với mọi lứa tuổi",
-      "Cả hai câu trên đều đúng",
-      "Mão strip crown chỉ định cho r được dùng trong trường hợp đặc biệt",
-      "Mão strip crown chỉ định cho r là phương pháp hiệu quả nhất",
-      "Mão strip crown chỉ định cho r không được áp dụng phổ biến",
-      "Một số câu trên đều sai"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Câu hỏi 17: Điều trị nội nha-nha chu: Phân loại sang thương nội nha-nha chu gồm 5 loại chính, bao ...?",
-    "options": [
-      "Cả hai câu trên đều đúng",
-      "Một số câu trên đều sai",
-      "Phân loại sang thương nội DEF",
-      "Phân loại sang thương nội XYZ",
-      "Phân loại sang thương nội ABC"
-    ],
-    "answer": 4
-  },
-  {
-    "question": "Câu hỏi 11: Chỉ định và chống chỉ định nhổ răng: Nhổ răng chỉ định khi răng tổn thương không thể phục hồi, ră...?",
-    "options": [
-      "Cả hai câu trên đều đúng",
-      "Nhổ răng chỉ định khi răn XYZ",
-      "Một số câu trên đều sai",
-      "Nhổ răng chỉ định khi răn DEF",
-      "Nhổ răng chỉ định khi răn ABC"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Câu hỏi 15: Kỹ thuật gián tiếp mão làm sẵn: Kỹ thuật gián tiếp gồm mài cùi, lấy dấu, điều chỉnh mão trên...?",
-    "options": [
-      "Kỹ thuật gián tiếp gồm mài cùi được dùng trong trường hợp đặc biệt",
-      "Kỹ thuật gián tiếp gồm mài cùi là phương pháp hiệu quả nhất",
-      "Kỹ thuật gián tiếp gồm mài cùi không được áp dụng phổ biến",
-      "Một số câu trên đều sai",
-      "Kỹ thuật gián tiếp gồm mài cùi phù hợp với mọi lứa tuổi",
-      "Cả hai câu trên đều đúng"
-    ],
-    "answer": 5
-  },
-  {
-    "question": "Câu hỏi 9: Mão thép không rỉ SSC: Mão thép không rỉ có ưu điểm là chắc chắn, bảo vệ mô răng cò...?",
-    "options": [
-      "Mão thép không rỉ có ưu điểm l là phương pháp hiệu quả nhất",
-      "Cả hai câu trên đều đúng",
-      "Mão thép không rỉ có ưu điểm l phù hợp với mọi lứa tuổi",
-      "Mão thép không rỉ có ưu điểm l không được áp dụng phổ biến",
-      "Mão thép không rỉ có ưu điểm l được dùng trong trường hợp đặc biệt",
-      "Một số câu trên đều sai"
-    ],
-    "answer": 4
-  },
-  {
-    "question": "Câu hỏi 16: Nguyên tắc thử và gắn mão: Nguyên tắc tạo sự thích ứng của mão gồm chiều dài mão phù hợ...?",
-    "options": [
-      "Nguyên tắc tạo sự thích ứng củ được dùng trong trường hợp đặc biệt",
-      "Nguyên tắc tạo sự thích ứng củ không được áp dụng phổ biến",
-      "Nguyên tắc tạo sự thích ứng củ phù hợp với mọi lứa tuổi",
-      "Nguyên tắc tạo sự thích ứng củ là phương pháp hiệu quả nhất",
-      "Một số câu trên đều sai",
-      "Cả hai câu trên đều đúng"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Câu hỏi 18: Nguyên tắc thử và gắn mão: Nguyên tắc tạo sự thích ứng của mão gồm chiều dài mão phù hợ...?",
-    "options": [
-      "Nguyên tắc tạo sự thích ứng củ được dùng trong trường hợp đặc biệt",
-      "Một số câu trên đều sai",
-      "Nguyên tắc tạo sự thích ứng củ là phương pháp hiệu quả nhất",
-      "Nguyên tắc tạo sự thích ứng củ phù hợp với mọi lứa tuổi",
-      "Nguyên tắc tạo sự thích ứng củ không được áp dụng phổ biến",
-      "Cả hai câu trên đều đúng"
+      "Rối loạn đông máu chưa kiểm soát",
+      "Viêm quanh thân răng khôn",
+      "Răng sữa lung lay",
+      "Răng sâu đến tủy",
+      "Răng lung lay độ 1"
     ],
     "answer": 0
   },
   {
-    "question": "Câu hỏi 5: Lấy tủy buồng và các kỹ thuật liên quan: Lấy tủy buồng sử dụng vật liệu che tủy như Ca(OH)2 hoặc MTA,...?",
+    "question": "Câu 4: Khi điều trị bảo tồn tủy răng, yếu tố nào quan trọng nhất để quyết định thành công?",
     "options": [
-      "Lấy tủy buồng sử dụng vật ABC",
-      "Lấy tủy buồng sử dụng vật XYZ",
-      "Cả hai câu trên đều đúng",
-      "Lấy tủy buồng sử dụng vật DEF",
-      "Một số câu trên đều sai"
-    ],
-    "answer": 4
-  },
-  {
-    "question": "Câu hỏi 20: Quy trình mài và sửa soạn mão: Sửa soạn mão gồm các bước: mài mặt nhai, mặt bên, mặt trong ...?",
-    "options": [
-      "Sửa soạn mão gồm các bước: mài không được áp dụng phổ biến",
-      "Một số câu trên đều sai",
-      "Sửa soạn mão gồm các bước: mài được dùng trong trường hợp đặc biệt",
-      "Sửa soạn mão gồm các bước: mài phù hợp với mọi lứa tuổi",
-      "Sửa soạn mão gồm các bước: mài là phương pháp hiệu quả nhất",
-      "Cả hai câu trên đều đúng"
-    ],
-    "answer": 4
-  },
-  {
-    "question": "Câu hỏi 15: Nguyên tắc thử và gắn mão: Nguyên tắc tạo sự thích ứng của mão gồm chiều dài mão phù hợ...?",
-    "options": [
-      "Nguyên tắc tạo sự thích ứng củ được dùng trong trường hợp đặc biệt",
-      "Cả hai câu trên đều đúng",
-      "Nguyên tắc tạo sự thích ứng củ không được áp dụng phổ biến",
-      "Nguyên tắc tạo sự thích ứng củ là phương pháp hiệu quả nhất",
-      "Nguyên tắc tạo sự thích ứng củ phù hợp với mọi lứa tuổi",
-      "Một số câu trên đều sai"
+      "Tuổi bệnh nhân",
+      "Mức độ tổn thương tủy",
+      "Loại răng",
+      "Vị trí răng",
+      "Tình trạng nha chu"
     ],
     "answer": 1
   },
   {
-    "question": "Câu hỏi 7: Điều trị nội nha-nha chu: Phân loại sang thương nội nha-nha chu gồm 5 loại chính, bao ...?",
+    "question": "Câu 5: Đối với trẻ em sợ đau khi điều trị răng, phương pháp xử trí nào sau đây KHÔNG phù hợp?",
     "options": [
-      "Cả hai câu trên đều đúng",
-      "Phân loại sang thương nội ABC",
-      "Phân loại sang thương nội DEF",
-      "Phân loại sang thương nội XYZ",
-      "Một số câu trên đều sai"
+      "Giải thích trước điều trị",
+      "Hù dọa để trẻ hợp tác",
+      "Cho trẻ làm quen dụng cụ",
+      "Sử dụng gây tê hiệu quả",
+      "Khen thưởng khi hợp tác"
     ],
-    "answer": 4
+    "answer": 1
   },
   {
-    "question": "Câu hỏi 14: Nguyên tắc thử và gắn mão: Nguyên tắc tạo sự thích ứng của mão gồm chiều dài mão phù hợ...?",
+    "question": "Câu 6: Đặc điểm của phương pháp nhổ răng bằng kềm là gì?",
     "options": [
-      "Nguyên tắc tạo sự thích ứng củ là phương pháp hiệu quả nhất",
-      "Nguyên tắc tạo sự thích ứng củ không được áp dụng phổ biến",
-      "Một số câu trên đều sai",
-      "Nguyên tắc tạo sự thích ứng củ phù hợp với mọi lứa tuổi",
-      "Nguyên tắc tạo sự thích ứng củ được dùng trong trường hợp đặc biệt",
-      "Cả hai câu trên đều đúng"
+      "Tách mô mềm triệt để trước nhổ",
+      "Dùng kềm để xoay và lắc răng",
+      "Không cần dùng bẩy hỗ trợ",
+      "Chỉ áp dụng cho răng cửa",
+      "Luôn gây mê toàn thân"
     ],
-    "answer": 5
+    "answer": 1
   },
   {
-    "question": "Câu hỏi 4: Mão răng cửa Strip Crown: Mão strip crown chỉ định cho răng cửa sâu lớn, thiểu sản men...?",
+    "question": "Câu 7: Yếu tố nào dưới đây là điều kiện quan trọng để bảo tồn tủy sống thành công?",
     "options": [
-      "Một số câu trên đều sai",
-      "Mão strip crown chỉ định cho r phù hợp với mọi lứa tuổi",
-      "Cả hai câu trên đều đúng",
-      "Mão strip crown chỉ định cho r được dùng trong trường hợp đặc biệt",
-      "Mão strip crown chỉ định cho r không được áp dụng phổ biến",
-      "Mão strip crown chỉ định cho r là phương pháp hiệu quả nhất"
+      "Không có chảy máu tủy",
+      "Không có triệu chứng đau tự phát",
+      "Không có tổn thương xương",
+      "Có phục hồi hình dạng thân răng",
+      "Không có mảng bám"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 8: Trong kỹ thuật nhổ răng bằng kềm, lực chính được sử dụng là:",
+    "options": [
+      "Kéo thẳng",
+      "Nghiêng sang bên",
+      "Xoay quanh trục răng",
+      "Đẩy từ dưới lên",
+      "Ép từ trên xuống"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 9: Trong điều trị nội nha nha chu, điều trị nào sau đây được thực hiện đầu tiên?",
+    "options": [
+      "Điều trị nội nha",
+      "Điều trị nha chu",
+      "Phục hình tạm thời",
+      "Cạo vôi răng",
+      "Trám kín ống tủy"
     ],
     "answer": 0
   },
   {
-    "question": "Câu hỏi 7: Kỹ thuật gián tiếp mão làm sẵn: Kỹ thuật gián tiếp gồm mài cùi, lấy dấu, điều chỉnh mão trên...?",
+    "question": "Câu 10: Tình huống nào sau đây là chống chỉ định tạm thời khi nhổ răng?",
     "options": [
-      "Kỹ thuật gián tiếp gồm mài cùi không được áp dụng phổ biến",
-      "Kỹ thuật gián tiếp gồm mài cùi được dùng trong trường hợp đặc biệt",
-      "Kỹ thuật gián tiếp gồm mài cùi là phương pháp hiệu quả nhất",
-      "Kỹ thuật gián tiếp gồm mài cùi phù hợp với mọi lứa tuổi",
-      "Một số câu trên đều sai",
-      "Cả hai câu trên đều đúng"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Câu hỏi 10: Kỹ thuật gián tiếp mão làm sẵn: Kỹ thuật gián tiếp gồm mài cùi, lấy dấu, điều chỉnh mão trên...?",
-    "options": [
-      "Cả hai câu trên đều đúng",
-      "Kỹ thuật gián tiếp gồm mài cùi là phương pháp hiệu quả nhất",
-      "Một số câu trên đều sai",
-      "Kỹ thuật gián tiếp gồm mài cùi được dùng trong trường hợp đặc biệt",
-      "Kỹ thuật gián tiếp gồm mài cùi không được áp dụng phổ biến",
-      "Kỹ thuật gián tiếp gồm mài cùi phù hợp với mọi lứa tuổi"
+      "Bệnh nhân có thai 3 tháng giữa",
+      "Bệnh nhân vừa uống thuốc giảm đau",
+      "Bệnh nhân đang điều trị ung thư",
+      "Bệnh nhân bị tăng huyết áp chưa kiểm soát",
+      "Răng lung lay độ 3"
     ],
     "answer": 3
   },
   {
-    "question": "Câu hỏi 20: Nguyên tắc thử và gắn mão: Nguyên tắc tạo sự thích ứng của mão gồm chiều dài mão phù hợ...?",
+    "question": "Câu 11: Điều nào sau đây là đúng khi chăm sóc trẻ trong điều trị nha khoa?",
     "options": [
-      "Nguyên tắc tạo sự thích ứng củ là phương pháp hiệu quả nhất",
-      "Nguyên tắc tạo sự thích ứng củ được dùng trong trường hợp đặc biệt",
-      "Nguyên tắc tạo sự thích ứng củ phù hợp với mọi lứa tuổi",
-      "Cả hai câu trên đều đúng",
-      "Một số câu trên đều sai",
-      "Nguyên tắc tạo sự thích ứng củ không được áp dụng phổ biến"
+      "Trẻ em không hiểu nên không cần giải thích",
+      "Chỉ cần xử lý nhanh chóng không cần dỗ dành",
+      "Nên nói chuyện thân thiện và khuyến khích trẻ",
+      "Không cho phụ huynh vào phòng điều trị",
+      "Luôn dùng thuốc an thần cho trẻ"
     ],
     "answer": 2
   },
   {
-    "question": "Câu hỏi 2: Mão thép không rỉ SSC: Mão thép không rỉ có ưu điểm là chắc chắn, bảo vệ mô răng cò...?",
+    "question": "Câu 12: Kỹ thuật nào giúp giảm chảy máu khi nhổ răng cho bệnh nhân tiểu đường?",
     "options": [
-      "Mão thép không rỉ có ưu điểm l không được áp dụng phổ biến",
-      "Cả hai câu trên đều đúng",
-      "Mão thép không rỉ có ưu điểm l phù hợp với mọi lứa tuổi",
-      "Mão thép không rỉ có ưu điểm l là phương pháp hiệu quả nhất",
-      "Một số câu trên đều sai",
-      "Mão thép không rỉ có ưu điểm l được dùng trong trường hợp đặc biệt"
-    ],
-    "answer": 5
-  },
-  {
-    "question": "Câu hỏi 15: Quy trình mài và sửa soạn mão: Sửa soạn mão gồm các bước: mài mặt nhai, mặt bên, mặt trong ...?",
-    "options": [
-      "Cả hai câu trên đều đúng",
-      "Sửa soạn mão gồm các bước: mài không được áp dụng phổ biến",
-      "Sửa soạn mão gồm các bước: mài là phương pháp hiệu quả nhất",
-      "Sửa soạn mão gồm các bước: mài được dùng trong trường hợp đặc biệt",
-      "Một số câu trên đều sai",
-      "Sửa soạn mão gồm các bước: mài phù hợp với mọi lứa tuổi"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Câu hỏi 6: Lấy tủy buồng và các kỹ thuật liên quan: Lấy tủy buồng sử dụng vật liệu che tủy như Ca(OH)2 hoặc MTA,...?",
-    "options": [
-      "Lấy tủy buồng sử dụng vật DEF",
-      "Lấy tủy buồng sử dụng vật XYZ",
-      "Lấy tủy buồng sử dụng vật ABC",
-      "Một số câu trên đều sai",
-      "Cả hai câu trên đều đúng"
+      "Nhổ nhanh",
+      "Khâu đóng vết thương",
+      "Chườm lạnh sau nhổ",
+      "Cho uống thuốc hạ đường huyết",
+      "Ngừng insulin trước nhổ"
     ],
     "answer": 1
   },
   {
-    "question": "Câu hỏi 8: Viêm tủy và điều trị bảo tồn tủy: Viêm tủy có khả năng hồi phục cần loại bỏ nguyên nhân như sâ...?",
+    "question": "Câu 13: Nhổ răng trong trường hợp nào sau đây có thể gây biến chứng xoang hàm trên?",
     "options": [
-      "Viêm tủy có khả năng hồi  ABC",
-      "Một số câu trên đều sai",
-      "Viêm tủy có khả năng hồi  XYZ",
-      "Cả hai câu trên đều đúng",
-      "Viêm tủy có khả năng hồi  DEF"
+      "Răng cửa hàm trên",
+      "Răng cối lớn thứ nhất hàm trên",
+      "Răng nanh hàm dưới",
+      "Răng khôn hàm dưới",
+      "Răng cửa hàm dưới"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 14: Răng nào có chân răng cong và dễ gãy khi nhổ bằng kềm?",
+    "options": [
+      "Răng cửa dưới",
+      "Răng hàm nhỏ",
+      "Răng khôn hàm trên",
+      "Răng cối nhỏ hàm dưới",
+      "Răng cối lớn thứ nhất hàm trên"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu 15: Dấu hiệu nào dưới đây KHÔNG phải là triệu chứng viêm tủy cấp?",
+    "options": [
+      "Đau dữ dội từng cơn",
+      "Đau lan lên tai",
+      "Đau khi thay đổi tư thế",
+      "Không có cảm giác đau",
+      "Đau tự phát về đêm"
     ],
     "answer": 3
   },
   {
-    "question": "Câu hỏi 1: Kỹ thuật gián tiếp mão làm sẵn: Kỹ thuật gián tiếp gồm mài cùi, lấy dấu, điều chỉnh mão trên...?",
+    "question": "Câu 16: Khi điều trị bảo tồn tủy răng sữa, vật liệu nào sau đây thường được dùng?",
     "options": [
-      "Kỹ thuật gián tiếp gồm mài cùi không được áp dụng phổ biến",
-      "Kỹ thuật gián tiếp gồm mài cùi được dùng trong trường hợp đặc biệt",
-      "Một số câu trên đều sai",
-      "Kỹ thuật gián tiếp gồm mài cùi phù hợp với mọi lứa tuổi",
-      "Kỹ thuật gián tiếp gồm mài cùi là phương pháp hiệu quả nhất",
-      "Cả hai câu trên đều đúng"
+      "Amalgam",
+      "Calcium Hydroxide",
+      "Composite",
+      "ZOE",
+      "Gutta percha"
     ],
-    "answer": 5
+    "answer": 1
   },
   {
-    "question": "Câu hỏi 8: Kỹ thuật gián tiếp mão làm sẵn: Kỹ thuật gián tiếp gồm mài cùi, lấy dấu, điều chỉnh mão trên...?",
+    "question": "Câu 17: Khi nào KHÔNG nên điều trị nội nha bảo tồn tủy sống?",
     "options": [
-      "Kỹ thuật gián tiếp gồm mài cùi không được áp dụng phổ biến",
-      "Một số câu trên đều sai",
-      "Cả hai câu trên đều đúng",
-      "Kỹ thuật gián tiếp gồm mài cùi được dùng trong trường hợp đặc biệt",
-      "Kỹ thuật gián tiếp gồm mài cùi phù hợp với mọi lứa tuổi",
-      "Kỹ thuật gián tiếp gồm mài cùi là phương pháp hiệu quả nhất"
+      "Tủy còn sống, không đau tự phát",
+      "Tủy hoại tử",
+      "Không có tổn thương quanh chóp",
+      "Chảy máu tủy nhẹ, cầm được",
+      "Răng chưa có triệu chứng nặng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 18: Khi bệnh nhân bị sốt, đau họng, viêm hạch sau nhổ răng, cần nghĩ đến biến chứng nào?",
+    "options": [
+      "Viêm tủy răng",
+      "Viêm huyệt ổ răng",
+      "Viêm mô tế bào",
+      "Viêm xoang",
+      "Viêm quanh thân răng"
     ],
     "answer": 2
   },
   {
-    "question": "Câu hỏi 18: Ứng xử trẻ em trong điều trị nha khoa: Ứng xử trẻ em cần dùng các phương pháp như dạo chơi nha khoa...?",
+    "question": "Câu 19: Đối với trẻ sợ bác sĩ, nên sử dụng kỹ thuật nào dưới đây?",
     "options": [
-      "Một số câu trên đều sai",
-      "Ứng xử trẻ em cần dùng cá XYZ",
-      "Cả hai câu trên đều đúng",
-      "Ứng xử trẻ em cần dùng cá DEF",
-      "Ứng xử trẻ em cần dùng cá ABC"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Câu hỏi 19: Ứng xử trẻ em trong điều trị nha khoa: Ứng xử trẻ em cần dùng các phương pháp như dạo chơi nha khoa...?",
-    "options": [
-      "Ứng xử trẻ em cần dùng cá DEF",
-      "Một số câu trên đều sai",
-      "Ứng xử trẻ em cần dùng cá XYZ",
-      "Cả hai câu trên đều đúng",
-      "Ứng xử trẻ em cần dùng cá ABC"
+      "Cưỡng ép",
+      "Làm mẫu và giải thích",
+      "Hăm dọa",
+      "Giữ chặt trẻ",
+      "Bắt buộc gây mê"
     ],
     "answer": 1
   },
   {
-    "question": "Câu hỏi 10: Mão răng cửa Strip Crown: Mão strip crown chỉ định cho răng cửa sâu lớn, thiểu sản men...?",
+    "question": "Câu 20: Mục tiêu cuối cùng của bảo tồn tủy răng là gì?",
     "options": [
-      "Mão strip crown chỉ định cho r được dùng trong trường hợp đặc biệt",
-      "Mão strip crown chỉ định cho r phù hợp với mọi lứa tuổi",
-      "Một số câu trên đều sai",
-      "Cả hai câu trên đều đúng",
-      "Mão strip crown chỉ định cho r không được áp dụng phổ biến",
-      "Mão strip crown chỉ định cho r là phương pháp hiệu quả nhất"
+      "Trám lại răng",
+      "Duy trì chức năng tủy",
+      "Không phải điều trị nội nha",
+      "Ngăn nhiễm trùng",
+      "Bảo tồn răng thật"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "Câu 21: Tại sao nên ưu tiên điều trị bảo tồn tủy thay vì nhổ răng?",
+    "options": [
+      "Giảm chi phí điều trị",
+      "Duy trì răng thật và chức năng",
+      "Răng giả tốt hơn răng thật",
+      "Tránh sử dụng thuốc gây tê",
+      "Đỡ đau hơn nhổ răng"
     ],
     "answer": 1
   },
   {
-    "question": "Câu hỏi 18: Lấy tủy buồng và các kỹ thuật liên quan: Lấy tủy buồng sử dụng vật liệu che tủy như Ca(OH)2 hoặc MTA,...?",
+    "question": "Câu 22: Trong nội nha nha chu, vì sao nên điều trị nội nha trước?",
     "options": [
-      "Cả hai câu trên đều đúng",
-      "Lấy tủy buồng sử dụng vật ABC",
-      "Một số câu trên đều sai",
-      "Lấy tủy buồng sử dụng vật DEF",
-      "Lấy tủy buồng sử dụng vật XYZ"
+      "Đơn giản hơn",
+      "Ngăn vi khuẩn vào mô nha chu",
+      "Không cần gây tê",
+      "Răng dễ phục hồi hơn",
+      "Vì nha chu không quan trọng"
     ],
     "answer": 1
   },
   {
-    "question": "Câu hỏi 10: Mão thép không rỉ SSC: Mão thép không rỉ có ưu điểm là chắc chắn, bảo vệ mô răng cò...?",
+    "question": "Câu 23: Khi nhổ răng bằng kềm, thao tác đầu tiên là gì?",
     "options": [
-      "Một số câu trên đều sai",
-      "Cả hai câu trên đều đúng",
-      "Mão thép không rỉ có ưu điểm l không được áp dụng phổ biến",
-      "Mão thép không rỉ có ưu điểm l phù hợp với mọi lứa tuổi",
-      "Mão thép không rỉ có ưu điểm l là phương pháp hiệu quả nhất",
-      "Mão thép không rỉ có ưu điểm l được dùng trong trường hợp đặc biệt"
+      "Gây tê vùng răng",
+      "Dùng bẩy nâng răng",
+      "Tách dây chằng nha chu",
+      "Xoay kềm quanh trục răng",
+      "Khâu đóng nướu"
     ],
     "answer": 0
   },
   {
-    "question": "Câu hỏi 12: Chỉ định và chống chỉ định nhổ răng: Nhổ răng chỉ định khi răng tổn thương không thể phục hồi, ră...?",
+    "question": "Câu 24: Răng khôn hàm dưới có thể gây biến chứng nào?",
     "options": [
-      "Nhổ răng chỉ định khi răn DEF",
-      "Nhổ răng chỉ định khi răn XYZ",
-      "Nhổ răng chỉ định khi răn ABC",
-      "Một số câu trên đều sai",
-      "Cả hai câu trên đều đúng"
+      "Viêm xoang",
+      "Gãy xương hàm",
+      "Chèn ép dây thần kinh huyệt ổ răng",
+      "Sâu răng đối diện",
+      "Loãng xương"
     ],
     "answer": 2
   },
   {
-    "question": "Câu hỏi 16: Lấy tủy buồng và các kỹ thuật liên quan: Lấy tủy buồng sử dụng vật liệu che tủy như Ca(OH)2 hoặc MTA,...?",
+    "question": "Câu 25: Đối với trẻ không hợp tác, phương pháp hành vi nào sau đây hiệu quả nhất?",
     "options": [
-      "Lấy tủy buồng sử dụng vật XYZ",
-      "Cả hai câu trên đều đúng",
-      "Một số câu trên đều sai",
-      "Lấy tủy buồng sử dụng vật DEF",
-      "Lấy tủy buồng sử dụng vật ABC"
+      "Gây mê liền",
+      "Từ chối điều trị",
+      "Kỹ thuật nói – cho xem – làm",
+      "La mắng để răn đe",
+      "Cưỡng ép giữ trẻ"
     ],
-    "answer": 4
+    "answer": 2
   },
   {
-    "question": "Câu hỏi 17: Mão răng cửa Strip Crown: Mão strip crown chỉ định cho răng cửa sâu lớn, thiểu sản men...?",
+    "question": "Câu 26: Biến chứng thường gặp khi không cầm máu tốt sau nhổ răng là:",
     "options": [
-      "Cả hai câu trên đều đúng",
-      "Một số câu trên đều sai",
-      "Mão strip crown chỉ định cho r phù hợp với mọi lứa tuổi",
-      "Mão strip crown chỉ định cho r được dùng trong trường hợp đặc biệt",
-      "Mão strip crown chỉ định cho r là phương pháp hiệu quả nhất",
-      "Mão strip crown chỉ định cho r không được áp dụng phổ biến"
+      "Viêm xoang",
+      "Viêm mô tế bào",
+      "Chảy máu kéo dài",
+      "Sốc nhiễm trùng",
+      "Loét niêm mạc"
     ],
-    "answer": 5
+    "answer": 2
   },
   {
-    "question": "Câu hỏi 8: Mão răng cửa Strip Crown: Mão strip crown chỉ định cho răng cửa sâu lớn, thiểu sản men...?",
+    "question": "Câu 27: Triệu chứng của viêm tủy cấp KHÔNG bao gồm:",
     "options": [
-      "Mão strip crown chỉ định cho r là phương pháp hiệu quả nhất",
-      "Cả hai câu trên đều đúng",
-      "Mão strip crown chỉ định cho r được dùng trong trường hợp đặc biệt",
-      "Mão strip crown chỉ định cho r không được áp dụng phổ biến",
-      "Mão strip crown chỉ định cho r phù hợp với mọi lứa tuổi",
-      "Một số câu trên đều sai"
+      "Đau tự phát dữ dội",
+      "Đau tăng khi nằm",
+      "Đau âm ỉ kéo dài",
+      "Không đáp ứng thuốc giảm đau",
+      "Đau lan sang tai"
     ],
-    "answer": 5
+    "answer": 2
   },
   {
-    "question": "Câu hỏi 11: Mão thép không rỉ SSC: Mão thép không rỉ có ưu điểm là chắc chắn, bảo vệ mô răng cò...?",
+    "question": "Câu 28: Tác dụng của vật liệu Calcium Hydroxide trong điều trị tủy là:",
     "options": [
-      "Mão thép không rỉ có ưu điểm l không được áp dụng phổ biến",
-      "Mão thép không rỉ có ưu điểm l được dùng trong trường hợp đặc biệt",
-      "Mão thép không rỉ có ưu điểm l phù hợp với mọi lứa tuổi",
-      "Một số câu trên đều sai",
-      "Cả hai câu trên đều đúng",
-      "Mão thép không rỉ có ưu điểm l là phương pháp hiệu quả nhất"
-    ],
-    "answer": 4
-  },
-  {
-    "question": "Câu hỏi 1: Chỉ định và chống chỉ định nhổ răng: Nhổ răng chỉ định khi răng tổn thương không thể phục hồi, ră...?",
-    "options": [
-      "Nhổ răng chỉ định khi răn DEF",
-      "Một số câu trên đều sai",
-      "Nhổ răng chỉ định khi răn ABC",
-      "Nhổ răng chỉ định khi răn XYZ",
-      "Cả hai câu trên đều đúng"
+      "Gây tê mạnh",
+      "Kháng khuẩn và kích thích tái tạo ngà thứ phát",
+      "Bịt kín tủy vĩnh viễn",
+      "Tăng độ bám phục hồi",
+      "Cắt hoàn toàn thần kinh"
     ],
     "answer": 1
   },
   {
-    "question": "Câu hỏi 13: Kỹ thuật gián tiếp mão làm sẵn: Kỹ thuật gián tiếp gồm mài cùi, lấy dấu, điều chỉnh mão trên...?",
+    "question": "Câu 29: Chỉ định nhổ răng KHÔNG bao gồm:",
     "options": [
-      "Kỹ thuật gián tiếp gồm mài cùi không được áp dụng phổ biến",
-      "Một số câu trên đều sai",
-      "Kỹ thuật gián tiếp gồm mài cùi phù hợp với mọi lứa tuổi",
-      "Cả hai câu trên đều đúng",
-      "Kỹ thuật gián tiếp gồm mài cùi là phương pháp hiệu quả nhất",
-      "Kỹ thuật gián tiếp gồm mài cùi được dùng trong trường hợp đặc biệt"
+      "Răng gây nhiễm trùng lan rộng",
+      "Răng cối lớn cần làm trụ cầu",
+      "Răng lung lay độ 3",
+      "Răng dư gây lệch hàm",
+      "Răng viêm quanh thân cấp"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 30: Biến chứng viêm huyệt ổ răng thường xuất hiện sau:",
+    "options": [
+      "1–2 giờ sau nhổ",
+      "6–12 giờ",
+      "24–72 giờ",
+      "5–7 ngày",
+      "Ngay lập tức"
     ],
     "answer": 2
   },
   {
-    "question": "Câu hỏi 1: Viêm tủy và điều trị bảo tồn tủy: Viêm tủy có khả năng hồi phục cần loại bỏ nguyên nhân như sâ...?",
+    "question": "Câu 31: Khi trẻ hợp tác tốt, yếu tố nào sau đây cần được duy trì?",
     "options": [
-      "Viêm tủy có khả năng hồi  ABC",
-      "Viêm tủy có khả năng hồi  DEF",
-      "Cả hai câu trên đều đúng",
-      "Viêm tủy có khả năng hồi  XYZ",
-      "Một số câu trên đều sai"
+      "Thay đổi bác sĩ liên tục",
+      "Dọa nạt khi cần",
+      "Giữ lại bầu không khí tích cực",
+      "Tăng cường sử dụng thuốc an thần",
+      "Không nói chuyện thêm"
     ],
     "answer": 2
   },
   {
-    "question": "Câu hỏi 12: Ứng xử trẻ em trong điều trị nha khoa: Ứng xử trẻ em cần dùng các phương pháp như dạo chơi nha khoa...?",
+    "question": "Câu 32: Trong điều trị bảo tồn tủy, thời điểm quyết định không nên thực hiện là khi:",
     "options": [
-      "Ứng xử trẻ em cần dùng cá DEF",
-      "Ứng xử trẻ em cần dùng cá ABC",
-      "Cả hai câu trên đều đúng",
-      "Ứng xử trẻ em cần dùng cá XYZ",
-      "Một số câu trên đều sai"
+      "Tủy còn sống",
+      "Có triệu chứng đau tự phát dữ dội",
+      "Không chảy máu khi mở tủy",
+      "Răng chưa phục hồi hình thể",
+      "Có dấu hiệu hồi phục"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 33: Khi nhổ răng ở bệnh nhân cao huyết áp, điều quan trọng nhất là:",
+    "options": [
+      "Không cần gây tê",
+      "Dùng kháng sinh liều cao",
+      "Kiểm soát huyết áp trước nhổ",
+      "Thay thế bằng thuốc giãn mạch",
+      "Nhổ sớm trong ngày"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 34: Tác dụng chính của thuốc tê là:",
+    "options": [
+      "Giảm viêm",
+      "Gây tê tại chỗ",
+      "Diệt khuẩn",
+      "Cầm máu",
+      "Giảm lo âu"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 35: Thời gian chảy máu bình thường sau nhổ răng là:",
+    "options": [
+      "1–2 phút",
+      "5–10 phút",
+      "15–30 phút",
+      "1–2 giờ",
+      "Tùy cơ địa"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 36: Loại răng nào thường dùng kềm răng cối để nhổ?",
+    "options": [
+      "Răng nanh hàm trên",
+      "Răng cối lớn hàm dưới",
+      "Răng cửa hàm dưới",
+      "Răng cửa hàm trên",
+      "Răng khôn ngầm"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 37: Khi thực hiện phục hình sau điều trị tủy, ưu tiên chọn vật liệu nào?",
+    "options": [
+      "Amalgam",
+      "Composite",
+      "Inlay/Onlay",
+      "GIC",
+      "Sứ toàn phần"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu 38: Kỹ thuật bẩy răng KHÔNG nên áp dụng khi:",
+    "options": [
+      "Răng lung lay nhẹ",
+      "Răng gần xoang hàm",
+      "Răng cối lớn có nhiều chân",
+      "Răng có chân cong",
+      "Răng khôn mọc lệch"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 39: Biến chứng thần kinh sau nhổ răng thường gặp nhất ở:",
+    "options": [
+      "Răng cửa dưới",
+      "Răng cối nhỏ hàm trên",
+      "Răng khôn hàm dưới",
+      "Răng nanh hàm trên",
+      "Răng sữa"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 40: Kỹ thuật xử trí răng sữa bị viêm tủy có hoại tử một phần:",
+    "options": [
+      "Che tủy trực tiếp",
+      "Cắt tủy buồng",
+      "Nhổ răng",
+      "Trám tạm thời",
+      "Không điều trị"
+    ],
+    "answer": 1
+  },
+
+    {
+    "question": "Câu 41: Dấu hiệu nào sau đây là đặc trưng giúp phân biệt viêm tủy không hồi phục với viêm tủy có hồi phục?",
+    "options": [
+      "Đau khi ăn",
+      "Đau tự phát kéo dài",
+      "Sâu răng lớn",
+      "Phản ứng với nhiệt",
+      "Tiền sử chấn thương"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 42: Khi nhổ răng khôn hàm dưới gần ống thần kinh, biến chứng nào nghiêm trọng nhất cần tránh?",
+    "options": [
+      "Viêm huyệt ổ răng",
+      "Đau nhức sau nhổ",
+      "Gãy chân răng",
+      "Tổn thương thần kinh răng dưới",
+      "Chảy máu nhẹ kéo dài"
     ],
     "answer": 3
   },
   {
-    "question": "Câu hỏi 2: Điều trị nội nha-nha chu: Phân loại sang thương nội nha-nha chu gồm 5 loại chính, bao ...?",
+    "question": "Câu 43: Trong điều trị nội nha kết hợp nha chu, yếu tố tiên lượng quan trọng nhất để giữ răng là?",
     "options": [
-      "Cả hai câu trên đều đúng",
-      "Một số câu trên đều sai",
-      "Phân loại sang thương nội ABC",
-      "Phân loại sang thương nội XYZ",
-      "Phân loại sang thương nội DEF"
+      "Tuổi bệnh nhân",
+      "Mức độ tổn thương nha chu",
+      "Khả năng phục hồi thân răng",
+      "Kích thước tổn thương quanh chóp",
+      "Độ cong của ống tủy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 44: Tình huống nào sau đây dễ gây thất bại trong điều trị bảo tồn tủy?",
+    "options": [
+      "Răng sâu đến tủy nhưng không đau",
+      "Dùng vật liệu che tủy không vô khuẩn",
+      "Che tủy bằng calcium hydroxide",
+      "Có phản ứng nhẹ khi gõ răng",
+      "Cạo sạch mô sâu bằng tay"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 45: Kỹ thuật khống chế hành vi trẻ em có xu hướng kiểm soát cảm xúc trẻ tốt nhất là:",
+    "options": [
+      "Giữ trẻ bằng lực",
+      "Hù dọa để tạo sợ",
+      "Gây mê",
+      "Kỹ thuật nói – cho xem – làm",
+      "Tách trẻ khỏi cha mẹ"
     ],
     "answer": 3
   },
   {
-    "question": "Câu hỏi 10: Lấy tủy buồng và các kỹ thuật liên quan: Lấy tủy buồng sử dụng vật liệu che tủy như Ca(OH)2 hoặc MTA,...?",
+    "question": "Câu 46: Đặc điểm mô học nào sau đây KHÔNG phù hợp với viêm tủy mạn tính?",
     "options": [
-      "Lấy tủy buồng sử dụng vật ABC",
-      "Cả hai câu trên đều đúng",
-      "Lấy tủy buồng sử dụng vật XYZ",
-      "Lấy tủy buồng sử dụng vật DEF",
-      "Một số câu trên đều sai"
+      "Thâm nhiễm lympho và tương bào",
+      "Dịch rỉ viêm cấp tính",
+      "Mạch máu giãn rộng",
+      "Tăng sinh mô liên kết",
+      "Hoại tử từng phần"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 47: Trong các yếu tố dưới đây, yếu tố nào ảnh hưởng trực tiếp đến nguy cơ viêm huyệt ổ răng?",
+    "options": [
+      "Số lần trám răng",
+      "Không súc miệng sau nhổ",
+      "Đặt thuốc tê có adrenaline",
+      "Mất cục máu đông sau nhổ",
+      "Sử dụng chỉ khâu không tiêu"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu 48: Vì sao không nên điều trị bảo tồn tủy ở răng có áp xe quanh chóp cấp?",
+    "options": [
+      "Tủy vẫn còn sống",
+      "Không có tổn thương xương",
+      "Răng có thể phục hồi",
+      "Tình trạng nhiễm trùng lan rộng",
+      "Tủy chưa hoại tử hoàn toàn"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu 49: Trong điều trị răng có tổn thương nội nha–nha chu, dấu hiệu nào gợi ý nguồn gốc tổn thương từ nha chu?",
+    "options": [
+      "Ống tủy không viêm",
+      "Đường dò xuất hiện ở vùng cổ răng",
+      "Đau âm ỉ theo nhịp",
+      "Phản ứng tủy còn sống",
+      "Không có túi nha chu"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 50: Khi nhổ răng khôn mọc lệch ngầm có che một phần mô mềm, bước đầu tiên nên làm là?",
+    "options": [
+      "Gây tê dây thần kinh răng dưới",
+      "Cắt mô nướu phủ răng",
+      "Bẩy răng thẳng",
+      "Dùng kềm xoay răng",
+      "Chụp CT scanner"
     ],
     "answer": 0
   },
   {
-    "question": "Câu hỏi 5: Điều trị nội nha-nha chu: Phân loại sang thương nội nha-nha chu gồm 5 loại chính, bao ...?",
+    "question": "Câu 51: Vật liệu che tủy trực tiếp hiệu quả nhất khi chưa có calcium hydroxide là?",
     "options": [
-      "Phân loại sang thương nội ABC",
-      "Phân loại sang thương nội DEF",
-      "Phân loại sang thương nội XYZ",
-      "Một số câu trên đều sai",
-      "Cả hai câu trên đều đúng"
+      "IRM",
+      "ZOE",
+      "GIC",
+      "Amalgam",
+      "MTA"
     ],
-    "answer": 1
+    "answer": 4
   },
   {
-    "question": "Câu hỏi 19: Chỉ định và chống chỉ định nhổ răng: Nhổ răng chỉ định khi răng tổn thương không thể phục hồi, ră...?",
+    "question": "Câu 52: Trường hợp nào KHÔNG nên dùng kềm để nhổ răng?",
     "options": [
-      "Một số câu trên đều sai",
-      "Nhổ răng chỉ định khi răn DEF",
-      "Cả hai câu trên đều đúng",
-      "Nhổ răng chỉ định khi răn XYZ",
-      "Nhổ răng chỉ định khi răn ABC"
+      "Răng cối lớn lung lay độ 2",
+      "Răng cửa hàm trên lung lay nhẹ",
+      "Răng khôn mọc thẳng hàm trên",
+      "Răng cối có chân cong hình móc",
+      "Răng hàm nhỏ chưa mọc hết"
     ],
     "answer": 3
   },
   {
-    "question": "Câu hỏi 3: Mão răng cửa Strip Crown: Mão strip crown chỉ định cho răng cửa sâu lớn, thiểu sản men...?",
+    "question": "Câu 53: Trong điều trị tâm lý trẻ em, yếu tố nào sau đây dễ gây mất niềm tin nhất?",
     "options": [
-      "Mão strip crown chỉ định cho r là phương pháp hiệu quả nhất",
-      "Một số câu trên đều sai",
-      "Mão strip crown chỉ định cho r được dùng trong trường hợp đặc biệt",
-      "Mão strip crown chỉ định cho r không được áp dụng phổ biến",
-      "Mão strip crown chỉ định cho r phù hợp với mọi lứa tuổi",
-      "Cả hai câu trên đều đúng"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Câu hỏi 11: Nguyên tắc thử và gắn mão: Nguyên tắc tạo sự thích ứng của mão gồm chiều dài mão phù hợ...?",
-    "options": [
-      "Nguyên tắc tạo sự thích ứng củ được dùng trong trường hợp đặc biệt",
-      "Nguyên tắc tạo sự thích ứng củ phù hợp với mọi lứa tuổi",
-      "Cả hai câu trên đều đúng",
-      "Nguyên tắc tạo sự thích ứng củ không được áp dụng phổ biến",
-      "Nguyên tắc tạo sự thích ứng củ là phương pháp hiệu quả nhất",
-      "Một số câu trên đều sai"
-    ],
-    "answer": 4
-  },
-  {
-    "question": "Câu hỏi 13: Ứng xử trẻ em trong điều trị nha khoa: Ứng xử trẻ em cần dùng các phương pháp như dạo chơi nha khoa...?",
-    "options": [
-      "Ứng xử trẻ em cần dùng cá ABC",
-      "Ứng xử trẻ em cần dùng cá DEF",
-      "Một số câu trên đều sai",
-      "Cả hai câu trên đều đúng",
-      "Ứng xử trẻ em cần dùng cá XYZ"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Câu hỏi 10: Ứng xử trẻ em trong điều trị nha khoa: Ứng xử trẻ em cần dùng các phương pháp như dạo chơi nha khoa...?",
-    "options": [
-      "Cả hai câu trên đều đúng",
-      "Ứng xử trẻ em cần dùng cá XYZ",
-      "Một số câu trên đều sai",
-      "Ứng xử trẻ em cần dùng cá ABC",
-      "Ứng xử trẻ em cần dùng cá DEF"
-    ],
-    "answer": 4
-  },
-  {
-    "question": "Câu hỏi 1: Lấy tủy buồng và các kỹ thuật liên quan: Lấy tủy buồng sử dụng vật liệu che tủy như Ca(OH)2 hoặc MTA,...?",
-    "options": [
-      "Lấy tủy buồng sử dụng vật XYZ",
-      "Cả hai câu trên đều đúng",
-      "Một số câu trên đều sai",
-      "Lấy tủy buồng sử dụng vật DEF",
-      "Lấy tủy buồng sử dụng vật ABC"
+      "Hứa không đau nhưng lại làm đau",
+      "Giải thích trước điều trị",
+      "Không làm gì khi trẻ khóc",
+      "Không cho trẻ xem dụng cụ",
+      "Giữ cha mẹ ngoài phòng"
     ],
     "answer": 0
   },
   {
-    "question": "Câu hỏi 20: Viêm tủy và điều trị bảo tồn tủy: Viêm tủy có khả năng hồi phục cần loại bỏ nguyên nhân như sâ...?",
+    "question": "Câu 54: Lý do chính của việc ưu tiên điều trị nội nha trước khi điều trị nha chu trong cùng răng là:",
     "options": [
-      "Viêm tủy có khả năng hồi  ABC",
-      "Cả hai câu trên đều đúng",
-      "Viêm tủy có khả năng hồi  XYZ",
-      "Một số câu trên đều sai",
-      "Viêm tủy có khả năng hồi  DEF"
+      "Giảm số lần hẹn",
+      "Tránh vi khuẩn từ ống tủy nhiễm qua nha chu",
+      "Không cần gây tê lại",
+      "Giảm chi phí điều trị",
+      "Tiện cho trám bít sau cùng"
     ],
     "answer": 1
   },
   {
-    "question": "Câu hỏi 10: Quy trình mài và sửa soạn mão: Sửa soạn mão gồm các bước: mài mặt nhai, mặt bên, mặt trong ...?",
+    "question": "Câu 55: Nếu sau điều trị nội nha, răng vẫn còn đau âm ỉ, nguyên nhân phổ biến nhất là:",
     "options": [
-      "Sửa soạn mão gồm các bước: mài phù hợp với mọi lứa tuổi",
-      "Sửa soạn mão gồm các bước: mài không được áp dụng phổ biến",
-      "Cả hai câu trên đều đúng",
-      "Sửa soạn mão gồm các bước: mài được dùng trong trường hợp đặc biệt",
-      "Sửa soạn mão gồm các bước: mài là phương pháp hiệu quả nhất",
-      "Một số câu trên đều sai"
-    ],
-    "answer": 5
-  },
-  {
-    "question": "Câu hỏi 1: Mão răng cửa Strip Crown: Mão strip crown chỉ định cho răng cửa sâu lớn, thiểu sản men...?",
-    "options": [
-      "Cả hai câu trên đều đúng",
-      "Mão strip crown chỉ định cho r phù hợp với mọi lứa tuổi",
-      "Mão strip crown chỉ định cho r không được áp dụng phổ biến",
-      "Một số câu trên đều sai",
-      "Mão strip crown chỉ định cho r là phương pháp hiệu quả nhất",
-      "Mão strip crown chỉ định cho r được dùng trong trường hợp đặc biệt"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Câu hỏi 11: Quy trình mài và sửa soạn mão: Sửa soạn mão gồm các bước: mài mặt nhai, mặt bên, mặt trong ...?",
-    "options": [
-      "Sửa soạn mão gồm các bước: mài được dùng trong trường hợp đặc biệt",
-      "Sửa soạn mão gồm các bước: mài không được áp dụng phổ biến",
-      "Một số câu trên đều sai",
-      "Sửa soạn mão gồm các bước: mài phù hợp với mọi lứa tuổi",
-      "Cả hai câu trên đều đúng",
-      "Sửa soạn mão gồm các bước: mài là phương pháp hiệu quả nhất"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Câu hỏi 5: Mão thép không rỉ SSC: Mão thép không rỉ có ưu điểm là chắc chắn, bảo vệ mô răng cò...?",
-    "options": [
-      "Mão thép không rỉ có ưu điểm l không được áp dụng phổ biến",
-      "Mão thép không rỉ có ưu điểm l phù hợp với mọi lứa tuổi",
-      "Một số câu trên đều sai",
-      "Cả hai câu trên đều đúng",
-      "Mão thép không rỉ có ưu điểm l được dùng trong trường hợp đặc biệt",
-      "Mão thép không rỉ có ưu điểm l là phương pháp hiệu quả nhất"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Câu hỏi 2: Ứng xử trẻ em trong điều trị nha khoa: Ứng xử trẻ em cần dùng các phương pháp như dạo chơi nha khoa...?",
-    "options": [
-      "Ứng xử trẻ em cần dùng cá DEF",
-      "Ứng xử trẻ em cần dùng cá XYZ",
-      "Cả hai câu trên đều đúng",
-      "Ứng xử trẻ em cần dùng cá ABC",
-      "Một số câu trên đều sai"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Câu hỏi 7: Mão răng cửa Strip Crown: Mão strip crown chỉ định cho răng cửa sâu lớn, thiểu sản men...?",
-    "options": [
-      "Một số câu trên đều sai",
-      "Mão strip crown chỉ định cho r là phương pháp hiệu quả nhất",
-      "Mão strip crown chỉ định cho r phù hợp với mọi lứa tuổi",
-      "Mão strip crown chỉ định cho r không được áp dụng phổ biến",
-      "Mão strip crown chỉ định cho r được dùng trong trường hợp đặc biệt",
-      "Cả hai câu trên đều đúng"
+      "Phản ứng tủy phục hồi",
+      "Thiếu chiều dài ống tủy",
+      "Tắc ống phụ",
+      "Dị vật trong ống tủy",
+      "Dư vật liệu trám bít"
     ],
     "answer": 4
   },
   {
-    "question": "Câu hỏi 14: Điều trị nội nha-nha chu: Phân loại sang thương nội nha-nha chu gồm 5 loại chính, bao ...?",
+    "question": "Câu 56: Trong quá trình bẩy răng khôn mọc lệch, thao tác sai lầm nào dễ gây gãy xương hàm?",
     "options": [
-      "Phân loại sang thương nội ABC",
-      "Một số câu trên đều sai",
-      "Phân loại sang thương nội DEF",
-      "Cả hai câu trên đều đúng",
-      "Phân loại sang thương nội XYZ"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Câu hỏi 10: Chỉ định và chống chỉ định nhổ răng: Nhổ răng chỉ định khi răng tổn thương không thể phục hồi, ră...?",
-    "options": [
-      "Một số câu trên đều sai",
-      "Cả hai câu trên đều đúng",
-      "Nhổ răng chỉ định khi răn XYZ",
-      "Nhổ răng chỉ định khi răn DEF",
-      "Nhổ răng chỉ định khi răn ABC"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Câu hỏi 6: Nguyên tắc thử và gắn mão: Nguyên tắc tạo sự thích ứng của mão gồm chiều dài mão phù hợ...?",
-    "options": [
-      "Nguyên tắc tạo sự thích ứng củ phù hợp với mọi lứa tuổi",
-      "Nguyên tắc tạo sự thích ứng củ là phương pháp hiệu quả nhất",
-      "Nguyên tắc tạo sự thích ứng củ không được áp dụng phổ biến",
-      "Cả hai câu trên đều đúng",
-      "Nguyên tắc tạo sự thích ứng củ được dùng trong trường hợp đặc biệt",
-      "Một số câu trên đều sai"
-    ],
-    "answer": 4
-  },
-  {
-    "question": "Câu hỏi 5: Quy trình mài và sửa soạn mão: Sửa soạn mão gồm các bước: mài mặt nhai, mặt bên, mặt trong ...?",
-    "options": [
-      "Một số câu trên đều sai",
-      "Sửa soạn mão gồm các bước: mài không được áp dụng phổ biến",
-      "Sửa soạn mão gồm các bước: mài được dùng trong trường hợp đặc biệt",
-      "Sửa soạn mão gồm các bước: mài phù hợp với mọi lứa tuổi",
-      "Sửa soạn mão gồm các bước: mài là phương pháp hiệu quả nhất",
-      "Cả hai câu trên đều đúng"
+      "Bẩy quá mạnh không kiểm soát",
+      "Cắt mô nướu trước khi bẩy",
+      "Dùng kềm song song trục",
+      "Không gây tê dây V3",
+      "Bẩy từ phía xa về gần"
     ],
     "answer": 0
   },
   {
-    "question": "Câu hỏi 11: Ứng xử trẻ em trong điều trị nha khoa: Ứng xử trẻ em cần dùng các phương pháp như dạo chơi nha khoa...?",
+    "question": "Câu 57: Răng có cấu trúc ngà dày, buồng tủy nhỏ, phản ứng tủy yếu thường gặp ở:",
     "options": [
-      "Ứng xử trẻ em cần dùng cá XYZ",
-      "Ứng xử trẻ em cần dùng cá ABC",
-      "Cả hai câu trên đều đúng",
-      "Một số câu trên đều sai",
-      "Ứng xử trẻ em cần dùng cá DEF"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Câu hỏi 16: Mão thép không rỉ SSC: Mão thép không rỉ có ưu điểm là chắc chắn, bảo vệ mô răng cò...?",
-    "options": [
-      "Mão thép không rỉ có ưu điểm l phù hợp với mọi lứa tuổi",
-      "Một số câu trên đều sai",
-      "Mão thép không rỉ có ưu điểm l được dùng trong trường hợp đặc biệt",
-      "Cả hai câu trên đều đúng",
-      "Mão thép không rỉ có ưu điểm l không được áp dụng phổ biến",
-      "Mão thép không rỉ có ưu điểm l là phương pháp hiệu quả nhất"
+      "Trẻ em",
+      "Người trưởng thành",
+      "Người cao tuổi",
+      "Người bị sâu răng nhiều",
+      "Người bị bệnh toàn thân"
     ],
     "answer": 2
   },
   {
-    "question": "Câu hỏi 6: Điều trị nội nha-nha chu: Phân loại sang thương nội nha-nha chu gồm 5 loại chính, bao ...?",
+    "question": "Câu 58: Trong kỹ thuật xử lý hành vi trẻ, khi trẻ phản kháng mạnh, phương án xử trí đúng là:",
     "options": [
-      "Cả hai câu trên đều đúng",
-      "Phân loại sang thương nội DEF",
-      "Một số câu trên đều sai",
-      "Phân loại sang thương nội XYZ",
-      "Phân loại sang thương nội ABC"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Câu hỏi 10: Viêm tủy và điều trị bảo tồn tủy: Viêm tủy có khả năng hồi phục cần loại bỏ nguyên nhân như sâ...?",
-    "options": [
-      "Viêm tủy có khả năng hồi  XYZ",
-      "Cả hai câu trên đều đúng",
-      "Viêm tủy có khả năng hồi  ABC",
-      "Viêm tủy có khả năng hồi  DEF",
-      "Một số câu trên đều sai"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Câu hỏi 4: Nguyên tắc thử và gắn mão: Nguyên tắc tạo sự thích ứng của mão gồm chiều dài mão phù hợ...?",
-    "options": [
-      "Nguyên tắc tạo sự thích ứng củ phù hợp với mọi lứa tuổi",
-      "Nguyên tắc tạo sự thích ứng củ không được áp dụng phổ biến",
-      "Nguyên tắc tạo sự thích ứng củ là phương pháp hiệu quả nhất",
-      "Nguyên tắc tạo sự thích ứng củ được dùng trong trường hợp đặc biệt",
-      "Một số câu trên đều sai",
-      "Cả hai câu trên đều đúng"
-    ],
-    "answer": 4
-  },
-  {
-    "question": "Câu hỏi 12: Mão thép không rỉ SSC: Mão thép không rỉ có ưu điểm là chắc chắn, bảo vệ mô răng cò...?",
-    "options": [
-      "Mão thép không rỉ có ưu điểm l phù hợp với mọi lứa tuổi",
-      "Mão thép không rỉ có ưu điểm l được dùng trong trường hợp đặc biệt",
-      "Mão thép không rỉ có ưu điểm l không được áp dụng phổ biến",
-      "Cả hai câu trên đều đúng",
-      "Một số câu trên đều sai",
-      "Mão thép không rỉ có ưu điểm l là phương pháp hiệu quả nhất"
-    ],
-    "answer": 5
-  },
-  {
-    "question": "Câu hỏi 3: Điều trị nội nha-nha chu: Phân loại sang thương nội nha-nha chu gồm 5 loại chính, bao ...?",
-    "options": [
-      "Phân loại sang thương nội XYZ",
-      "Một số câu trên đều sai",
-      "Phân loại sang thương nội ABC",
-      "Phân loại sang thương nội DEF",
-      "Cả hai câu trên đều đúng"
-    ],
-    "answer": 4
-  },
-  {
-    "question": "Câu hỏi 2: Viêm tủy và điều trị bảo tồn tủy: Viêm tủy có khả năng hồi phục cần loại bỏ nguyên nhân như sâ...?",
-    "options": [
-      "Viêm tủy có khả năng hồi  ABC",
-      "Viêm tủy có khả năng hồi  XYZ",
-      "Cả hai câu trên đều đúng",
-      "Một số câu trên đều sai",
-      "Viêm tủy có khả năng hồi  DEF"
-    ],
-    "answer": 4
-  },
-  {
-    "question": "Câu hỏi 2: Lấy tủy buồng và các kỹ thuật liên quan: Lấy tủy buồng sử dụng vật liệu che tủy như Ca(OH)2 hoặc MTA,...?",
-    "options": [
-      "Một số câu trên đều sai",
-      "Lấy tủy buồng sử dụng vật XYZ",
-      "Lấy tủy buồng sử dụng vật DEF",
-      "Cả hai câu trên đều đúng",
-      "Lấy tủy buồng sử dụng vật ABC"
+      "Bắt trẻ nằm yên bằng cưỡng ép",
+      "Gây mê lập tức",
+      "Dừng điều trị, hẹn lại buổi sau",
+      "Ép phụ huynh rời khỏi",
+      "Giao cho bác sĩ khác"
     ],
     "answer": 2
   },
   {
-    "question": "Câu hỏi 15: Mão răng cửa Strip Crown: Mão strip crown chỉ định cho răng cửa sâu lớn, thiểu sản men...?",
+    "question": "Câu 59: Biến chứng nào có thể xuất hiện khi nhổ răng cửa hàm trên bằng kềm sai kỹ thuật?",
     "options": [
-      "Cả hai câu trên đều đúng",
-      "Mão strip crown chỉ định cho r phù hợp với mọi lứa tuổi",
-      "Mão strip crown chỉ định cho r là phương pháp hiệu quả nhất",
-      "Mão strip crown chỉ định cho r không được áp dụng phổ biến",
-      "Mão strip crown chỉ định cho r được dùng trong trường hợp đặc biệt",
-      "Một số câu trên đều sai"
-    ],
-    "answer": 4
-  },
-  {
-    "question": "Câu hỏi 12: Kỹ thuật gián tiếp mão làm sẵn: Kỹ thuật gián tiếp gồm mài cùi, lấy dấu, điều chỉnh mão trên...?",
-    "options": [
-      "Cả hai câu trên đều đúng",
-      "Một số câu trên đều sai",
-      "Kỹ thuật gián tiếp gồm mài cùi được dùng trong trường hợp đặc biệt",
-      "Kỹ thuật gián tiếp gồm mài cùi phù hợp với mọi lứa tuổi",
-      "Kỹ thuật gián tiếp gồm mài cùi là phương pháp hiệu quả nhất",
-      "Kỹ thuật gián tiếp gồm mài cùi không được áp dụng phổ biến"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Câu hỏi 19: Kỹ thuật gián tiếp mão làm sẵn: Kỹ thuật gián tiếp gồm mài cùi, lấy dấu, điều chỉnh mão trên...?",
-    "options": [
-      "Kỹ thuật gián tiếp gồm mài cùi không được áp dụng phổ biến",
-      "Một số câu trên đều sai",
-      "Kỹ thuật gián tiếp gồm mài cùi được dùng trong trường hợp đặc biệt",
-      "Kỹ thuật gián tiếp gồm mài cùi phù hợp với mọi lứa tuổi",
-      "Kỹ thuật gián tiếp gồm mài cùi là phương pháp hiệu quả nhất",
-      "Cả hai câu trên đều đúng"
-    ],
-    "answer": 5
-  },
-  {
-    "question": "Câu hỏi 8: Chỉ định và chống chỉ định nhổ răng: Nhổ răng chỉ định khi răng tổn thương không thể phục hồi, ră...?",
-    "options": [
-      "Nhổ răng chỉ định khi răn XYZ",
-      "Nhổ răng chỉ định khi răn ABC",
-      "Cả hai câu trên đều đúng",
-      "Một số câu trên đều sai",
-      "Nhổ răng chỉ định khi răn DEF"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Câu hỏi 15: Chỉ định và chống chỉ định nhổ răng: Nhổ răng chỉ định khi răng tổn thương không thể phục hồi, ră...?",
-    "options": [
-      "Nhổ răng chỉ định khi răn DEF",
-      "Nhổ răng chỉ định khi răn ABC",
-      "Một số câu trên đều sai",
-      "Nhổ răng chỉ định khi răn XYZ",
-      "Cả hai câu trên đều đúng"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Câu hỏi 14: Viêm tủy và điều trị bảo tồn tủy: Viêm tủy có khả năng hồi phục cần loại bỏ nguyên nhân như sâ...?",
-    "options": [
-      "Một số câu trên đều sai",
-      "Viêm tủy có khả năng hồi  XYZ",
-      "Cả hai câu trên đều đúng",
-      "Viêm tủy có khả năng hồi  DEF",
-      "Viêm tủy có khả năng hồi  ABC"
+      "Viêm xoang",
+      "Gãy chân răng",
+      "Tổn thương thần kinh",
+      "Gãy mỏm huyệt ổ răng",
+      "Sốc tim"
     ],
     "answer": 3
   },
   {
-    "question": "Câu hỏi 1: Điều trị nội nha-nha chu: Phân loại sang thương nội nha-nha chu gồm 5 loại chính, bao ...?",
+    "question": "Câu 60: Răng nào có nguy cơ cao nhất cần chụp phim trước khi nhổ?",
     "options": [
-      "Phân loại sang thương nội DEF",
-      "Phân loại sang thương nội XYZ",
-      "Cả hai câu trên đều đúng",
-      "Phân loại sang thương nội ABC",
-      "Một số câu trên đều sai"
+      "Răng cửa hàm dưới",
+      "Răng cối nhỏ hàm dưới",
+      "Răng nanh hàm trên",
+      "Răng khôn mọc lệch hàm dưới",
+      "Răng khôn mọc thẳng hàm trên"
+    ],
+    "answer": 3
+  },
+    {
+    "question": "Câu 61: Trong trường hợp tổn thương phối hợp nội nha–nha chu, dấu hiệu nào KHÔNG ủng hộ nguồn gốc nội nha?",
+    "options": [
+      "Răng có tiền sử đau tự phát trước đó",
+      "Phản ứng tủy âm tính",
+      "Tổn thương quanh chóp hình chén",
+      "Túi nha chu sâu ở nhiều mặt",
+      "Có đường dò ở chóp"
     ],
     "answer": 3
   },
   {
-    "question": "Câu hỏi 20: Điều trị nội nha-nha chu: Phân loại sang thương nội nha-nha chu gồm 5 loại chính, bao ...?",
+    "question": "Câu 62: Khi tiến hành điều trị bảo tồn tủy sống trên răng có chấn thương, yếu tố tiên lượng thành công kém nhất là:",
     "options": [
-      "Một số câu trên đều sai",
-      "Phân loại sang thương nội ABC",
-      "Phân loại sang thương nội DEF",
-      "Cả hai câu trên đều đúng",
-      "Phân loại sang thương nội XYZ"
-    ],
-    "answer": 4
-  },
-  {
-    "question": "Câu hỏi 19: Điều trị nội nha-nha chu: Phân loại sang thương nội nha-nha chu gồm 5 loại chính, bao ...?",
-    "options": [
-      "Phân loại sang thương nội DEF",
-      "Phân loại sang thương nội XYZ",
-      "Một số câu trên đều sai",
-      "Phân loại sang thương nội ABC",
-      "Cả hai câu trên đều đúng"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Câu hỏi 5: Ứng xử trẻ em trong điều trị nha khoa: Ứng xử trẻ em cần dùng các phương pháp như dạo chơi nha khoa...?",
-    "options": [
-      "Cả hai câu trên đều đúng",
-      "Ứng xử trẻ em cần dùng cá DEF",
-      "Một số câu trên đều sai",
-      "Ứng xử trẻ em cần dùng cá XYZ",
-      "Ứng xử trẻ em cần dùng cá ABC"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Câu hỏi 17: Viêm tủy và điều trị bảo tồn tủy: Viêm tủy có khả năng hồi phục cần loại bỏ nguyên nhân như sâ...?",
-    "options": [
-      "Một số câu trên đều sai",
-      "Viêm tủy có khả năng hồi  DEF",
-      "Viêm tủy có khả năng hồi  XYZ",
-      "Cả hai câu trên đều đúng",
-      "Viêm tủy có khả năng hồi  ABC"
+      "Chảy máu tủy khó cầm",
+      "Thời gian từ lúc chấn thương > 24h",
+      "Chưa có triệu chứng đau",
+      "Dẫn lưu tủy thành công",
+      "Không có vỡ thân răng"
     ],
     "answer": 1
   },
   {
-    "question": "Câu hỏi 13: Chỉ định và chống chỉ định nhổ răng: Nhổ răng chỉ định khi răng tổn thương không thể phục hồi, ră...?",
+    "question": "Câu 63: Biến chứng hiếm nhưng nghiêm trọng nhất khi nhổ răng khôn hàm dưới là gì?",
     "options": [
-      "Cả hai câu trên đều đúng",
-      "Một số câu trên đều sai",
-      "Nhổ răng chỉ định khi răn DEF",
-      "Nhổ răng chỉ định khi răn ABC",
-      "Nhổ răng chỉ định khi răn XYZ"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Câu hỏi 20: Lấy tủy buồng và các kỹ thuật liên quan: Lấy tủy buồng sử dụng vật liệu che tủy như Ca(OH)2 hoặc MTA,...?",
-    "options": [
-      "Một số câu trên đều sai",
-      "Lấy tủy buồng sử dụng vật ABC",
-      "Lấy tủy buồng sử dụng vật DEF",
-      "Lấy tủy buồng sử dụng vật XYZ",
-      "Cả hai câu trên đều đúng"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Câu hỏi 3: Quy trình mài và sửa soạn mão: Sửa soạn mão gồm các bước: mài mặt nhai, mặt bên, mặt trong ...?",
-    "options": [
-      "Một số câu trên đều sai",
-      "Sửa soạn mão gồm các bước: mài phù hợp với mọi lứa tuổi",
-      "Sửa soạn mão gồm các bước: mài không được áp dụng phổ biến",
-      "Cả hai câu trên đều đúng",
-      "Sửa soạn mão gồm các bước: mài là phương pháp hiệu quả nhất",
-      "Sửa soạn mão gồm các bước: mài được dùng trong trường hợp đặc biệt"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Câu hỏi 1: Nguyên tắc thử và gắn mão: Nguyên tắc tạo sự thích ứng của mão gồm chiều dài mão phù hợ...?",
-    "options": [
-      "Nguyên tắc tạo sự thích ứng củ không được áp dụng phổ biến",
-      "Một số câu trên đều sai",
-      "Nguyên tắc tạo sự thích ứng củ được dùng trong trường hợp đặc biệt",
-      "Nguyên tắc tạo sự thích ứng củ là phương pháp hiệu quả nhất",
-      "Nguyên tắc tạo sự thích ứng củ phù hợp với mọi lứa tuổi",
-      "Cả hai câu trên đều đúng"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Câu hỏi 16: Mão răng cửa Strip Crown: Mão strip crown chỉ định cho răng cửa sâu lớn, thiểu sản men...?",
-    "options": [
-      "Mão strip crown chỉ định cho r được dùng trong trường hợp đặc biệt",
-      "Cả hai câu trên đều đúng",
-      "Mão strip crown chỉ định cho r phù hợp với mọi lứa tuổi",
-      "Một số câu trên đều sai",
-      "Mão strip crown chỉ định cho r không được áp dụng phổ biến",
-      "Mão strip crown chỉ định cho r là phương pháp hiệu quả nhất"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Câu hỏi 11: Kỹ thuật gián tiếp mão làm sẵn: Kỹ thuật gián tiếp gồm mài cùi, lấy dấu, điều chỉnh mão trên...?",
-    "options": [
-      "Kỹ thuật gián tiếp gồm mài cùi được dùng trong trường hợp đặc biệt",
-      "Kỹ thuật gián tiếp gồm mài cùi không được áp dụng phổ biến",
-      "Cả hai câu trên đều đúng",
-      "Kỹ thuật gián tiếp gồm mài cùi là phương pháp hiệu quả nhất",
-      "Một số câu trên đều sai",
-      "Kỹ thuật gián tiếp gồm mài cùi phù hợp với mọi lứa tuổi"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Câu hỏi 8: Điều trị nội nha-nha chu: Phân loại sang thương nội nha-nha chu gồm 5 loại chính, bao ...?",
-    "options": [
-      "Phân loại sang thương nội XYZ",
-      "Cả hai câu trên đều đúng",
-      "Phân loại sang thương nội ABC",
-      "Phân loại sang thương nội DEF",
-      "Một số câu trên đều sai"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Câu hỏi 13: Nguyên tắc thử và gắn mão: Nguyên tắc tạo sự thích ứng của mão gồm chiều dài mão phù hợ...?",
-    "options": [
-      "Nguyên tắc tạo sự thích ứng củ là phương pháp hiệu quả nhất",
-      "Một số câu trên đều sai",
-      "Nguyên tắc tạo sự thích ứng củ phù hợp với mọi lứa tuổi",
-      "Cả hai câu trên đều đúng",
-      "Nguyên tắc tạo sự thích ứng củ được dùng trong trường hợp đặc biệt",
-      "Nguyên tắc tạo sự thích ứng củ không được áp dụng phổ biến"
-    ],
-    "answer": 5
-  },
-  {
-    "question": "Câu hỏi 16: Quy trình mài và sửa soạn mão: Sửa soạn mão gồm các bước: mài mặt nhai, mặt bên, mặt trong ...?",
-    "options": [
-      "Sửa soạn mão gồm các bước: mài là phương pháp hiệu quả nhất",
-      "Sửa soạn mão gồm các bước: mài không được áp dụng phổ biến",
-      "Cả hai câu trên đều đúng",
-      "Sửa soạn mão gồm các bước: mài phù hợp với mọi lứa tuổi",
-      "Một số câu trên đều sai",
-      "Sửa soạn mão gồm các bước: mài được dùng trong trường hợp đặc biệt"
-    ],
-    "answer": 4
-  },
-  {
-    "question": "Câu hỏi 13: Quy trình mài và sửa soạn mão: Sửa soạn mão gồm các bước: mài mặt nhai, mặt bên, mặt trong ...?",
-    "options": [
-      "Cả hai câu trên đều đúng",
-      "Một số câu trên đều sai",
-      "Sửa soạn mão gồm các bước: mài là phương pháp hiệu quả nhất",
-      "Sửa soạn mão gồm các bước: mài không được áp dụng phổ biến",
-      "Sửa soạn mão gồm các bước: mài phù hợp với mọi lứa tuổi",
-      "Sửa soạn mão gồm các bước: mài được dùng trong trường hợp đặc biệt"
-    ],
-    "answer": 5
-  },
-  {
-    "question": "Câu hỏi 2: Nguyên tắc thử và gắn mão: Nguyên tắc tạo sự thích ứng của mão gồm chiều dài mão phù hợ...?",
-    "options": [
-      "Nguyên tắc tạo sự thích ứng củ phù hợp với mọi lứa tuổi",
-      "Một số câu trên đều sai",
-      "Nguyên tắc tạo sự thích ứng củ là phương pháp hiệu quả nhất",
-      "Cả hai câu trên đều đúng",
-      "Nguyên tắc tạo sự thích ứng củ không được áp dụng phổ biến",
-      "Nguyên tắc tạo sự thích ứng củ được dùng trong trường hợp đặc biệt"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Câu hỏi 14: Mão răng cửa Strip Crown: Mão strip crown chỉ định cho răng cửa sâu lớn, thiểu sản men...?",
-    "options": [
-      "Mão strip crown chỉ định cho r phù hợp với mọi lứa tuổi",
-      "Mão strip crown chỉ định cho r không được áp dụng phổ biến",
-      "Một số câu trên đều sai",
-      "Cả hai câu trên đều đúng",
-      "Mão strip crown chỉ định cho r là phương pháp hiệu quả nhất",
-      "Mão strip crown chỉ định cho r được dùng trong trường hợp đặc biệt"
+      "Viêm huyệt ổ răng",
+      "Gãy xương hàm dưới",
+      "Tổn thương thần kinh lưỡi",
+      "Tổn thương thần kinh ổ răng dưới",
+      "Chảy máu chậm sau 48h"
     ],
     "answer": 3
   },
   {
-    "question": "Câu hỏi 14: Lấy tủy buồng và các kỹ thuật liên quan: Lấy tủy buồng sử dụng vật liệu che tủy như Ca(OH)2 hoặc MTA,...?",
+    "question": "Câu 64: Phân biệt viêm tủy không hồi phục và viêm nha chu mạn tính thường dựa trên:",
     "options": [
-      "Lấy tủy buồng sử dụng vật XYZ",
-      "Một số câu trên đều sai",
-      "Cả hai câu trên đều đúng",
-      "Lấy tủy buồng sử dụng vật DEF",
-      "Lấy tủy buồng sử dụng vật ABC"
+      "Mức độ đau",
+      "Hình dạng tổn thương quanh chóp",
+      "Phản ứng gõ dọc",
+      "Túi nha chu và đáp ứng tủy",
+      "Độ nhạy cảm với nhiệt"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
-    "question": "Câu hỏi 2: Quy trình mài và sửa soạn mão: Sửa soạn mão gồm các bước: mài mặt nhai, mặt bên, mặt trong ...?",
+    "question": "Câu 65: Trong nhổ răng khôn lệch gần (mesioangular), nguy cơ biến chứng nào tăng cao nhất?",
     "options": [
-      "Sửa soạn mão gồm các bước: mài phù hợp với mọi lứa tuổi",
-      "Cả hai câu trên đều đúng",
-      "Sửa soạn mão gồm các bước: mài được dùng trong trường hợp đặc biệt",
-      "Sửa soạn mão gồm các bước: mài không được áp dụng phổ biến",
-      "Một số câu trên đều sai",
-      "Sửa soạn mão gồm các bước: mài là phương pháp hiệu quả nhất"
-    ],
-    "answer": 4
-  },
-  {
-    "question": "Câu hỏi 9: Viêm tủy và điều trị bảo tồn tủy: Viêm tủy có khả năng hồi phục cần loại bỏ nguyên nhân như sâ...?",
-    "options": [
-      "Viêm tủy có khả năng hồi  XYZ",
-      "Viêm tủy có khả năng hồi  ABC",
-      "Cả hai câu trên đều đúng",
-      "Một số câu trên đều sai",
-      "Viêm tủy có khả năng hồi  DEF"
-    ],
-    "answer": 4
-  },
-  {
-    "question": "Câu hỏi 4: Quy trình mài và sửa soạn mão: Sửa soạn mão gồm các bước: mài mặt nhai, mặt bên, mặt trong ...?",
-    "options": [
-      "Sửa soạn mão gồm các bước: mài phù hợp với mọi lứa tuổi",
-      "Sửa soạn mão gồm các bước: mài được dùng trong trường hợp đặc biệt",
-      "Cả hai câu trên đều đúng",
-      "Một số câu trên đều sai",
-      "Sửa soạn mão gồm các bước: mài không được áp dụng phổ biến",
-      "Sửa soạn mão gồm các bước: mài là phương pháp hiệu quả nhất"
+      "Gãy chân răng",
+      "Tổn thương răng số 7",
+      "Tổn thương thần kinh",
+      "Gãy lồi cầu xương hàm",
+      "Sót mô mềm"
     ],
     "answer": 1
   },
   {
-    "question": "Câu hỏi 13: Viêm tủy và điều trị bảo tồn tủy: Viêm tủy có khả năng hồi phục cần loại bỏ nguyên nhân như sâ...?",
+    "question": "Câu 66: Khi tủy bị hoại tử và không có triệu chứng lâm sàng, nhưng có tổn thương quanh chóp, điều trị phù hợp là?",
     "options": [
-      "Cả hai câu trên đều đúng",
-      "Viêm tủy có khả năng hồi  ABC",
-      "Viêm tủy có khả năng hồi  DEF",
-      "Viêm tủy có khả năng hồi  XYZ",
-      "Một số câu trên đều sai"
+      "Che tủy trực tiếp",
+      "Cắt tủy buồng",
+      "Điều trị nội nha toàn phần",
+      "Theo dõi không điều trị",
+      "Chỉ cần trám phục hồi"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 67: Việc sử dụng chỉ khâu không tiêu trong nhổ răng phức tạp giúp ích điều gì nhiều nhất?",
+    "options": [
+      "Tăng sức bền mô nướu",
+      "Ngăn nhiễm khuẩn huyệt ổ",
+      "Dễ kiểm soát chảy máu",
+      "Giúp bệnh nhân không cần tái khám",
+      "Tăng thẩm mỹ tức thì"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 68: MTA ưu thế hơn calcium hydroxide ở điểm nào khi che tủy?",
+    "options": [
+      "Giá thành thấp hơn",
+      "Ít gây viêm mô quanh",
+      "Dễ thao tác hơn",
+      "Thời gian đông nhanh",
+      "Tính kháng khuẩn cao hơn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 69: Đặc điểm tổn thương nào sau đây là KHÔNG điển hình trong viêm tủy hoại tử không triệu chứng?",
+    "options": [
+      "Đường dò ở vòm khẩu cái",
+      "Mất đáp ứng điện tủy",
+      "Không đau khi ăn",
+      "Túi nha chu khu trú",
+      "Phản ứng gõ âm tính"
     ],
     "answer": 3
+  },
+  {
+    "question": "Câu 70: Khi điều trị tâm lý trẻ em có rối loạn phổ tự kỷ, yếu tố nào là nền tảng quan trọng nhất?",
+    "options": [
+      "Tương tác thị giác trực tiếp",
+      "Giọng nói dứt khoát",
+      "Giữ môi trường yên tĩnh và có quy trình lặp lại",
+      "Sử dụng thuốc an thần",
+      "Tăng số lượng trợ lý nha khoa"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 71: Chọn sai trong điều trị răng có viêm tủy không hồi phục nhưng chưa đau nhiều:",
+    "options": [
+      "Điều trị nội nha toàn phần",
+      "Trám phục hồi tức thì",
+      "Lấy tủy toàn phần",
+      "Chụp phim quanh chóp",
+      "Đánh giá triệu chứng trước điều trị"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 72: Yếu tố nào ảnh hưởng lớn nhất đến khả năng phục hồi răng sau điều trị nội nha–nha chu?",
+    "options": [
+      "Độ sâu túi nha chu",
+      "Hình dạng ống tủy",
+      "Tình trạng mô quanh răng",
+      "Khả năng phục hồi thân răng",
+      "Mức độ đau trước điều trị"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu 73: Trong kỹ thuật nhổ răng cối lớn bằng kềm, sai lầm nào dễ gây gãy vách ngoài ổ răng?",
+    "options": [
+      "Kéo thẳng lên theo trục răng",
+      "Xoay răng quá mức",
+      "Lắc răng sang hai bên mạnh",
+      "Giữ răng lâu trong miệng",
+      "Không tách mô mềm"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 74: Khi răng số 8 hàm trên tiếp xúc gần xoang hàm, biến chứng cần đề phòng nhất là:",
+    "options": [
+      "Gãy răng số 7",
+      "Viêm xoang hàm cấp",
+      "Mất cảm giác môi",
+      "Tụ máu sâu",
+      "Gãy chân răng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 75: Trong lâm sàng, dấu hiệu nào giúp phân biệt viêm nha chu mạn tính với viêm tủy không hồi phục?",
+    "options": [
+      "Đau tự phát",
+      "Đường dò mặt bên chân răng",
+      "Tủy âm tính",
+      "Phản ứng nhạy với lạnh",
+      "Sâu răng lớn lan rộng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 76: Khi đường dò mở ra vùng nướu gần cổ răng, điều này thường liên quan đến:",
+    "options": [
+      "Viêm quanh chóp",
+      "Áp xe nha chu",
+      "Hoại tử tuỷ",
+      "Tủy sống còn",
+      "Viêm quanh thân"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 77: Trong các yếu tố sau, yếu tố nào làm giảm nguy cơ viêm huyệt ổ răng sau nhổ?",
+    "options": [
+      "Sút cục máu đông",
+      "Dùng nước súc miệng chứa cồn",
+      "Tránh súc miệng mạnh 24 giờ đầu",
+      "Uống nước đá ngay sau nhổ",
+      "Ăn nóng sau nhổ"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 78: Sự tái khoáng ngà thứ phát sau che tủy là kết quả trực tiếp của?",
+    "options": [
+      "Tăng áp lực tủy",
+      "Hoạt động nguyên bào ngà",
+      "Sự xâm nhập vi khuẩn",
+      "Giảm pH mô tủy",
+      "Gắn kết vật liệu trám"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 79: Phân biệt nội nha nguyên phát – nha chu thứ phát dựa vào tiêu chí nào?",
+    "options": [
+      "Chiều sâu túi nha chu",
+      "Tính sống của tủy",
+      "Dạng tổn thương xương",
+      "Tình trạng lâm sàng",
+      "Mức độ tiêu xương"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 80: Khi không đánh giá đúng khả năng phục hồi thân răng trước điều trị nội nha sẽ dễ dẫn đến:",
+    "options": [
+      "Chẩn đoán sai",
+      "Tốn thời gian điều trị",
+      "Phục hình thất bại sau cùng",
+      "Tổn thương tủy thứ phát",
+      "Nhiễm trùng lan rộng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 81: Trong điều trị răng viêm tủy không hồi phục kèm nang quanh chóp lớn, yếu tố nào quyết định giữ răng?",
+    "options": [
+      "Mức độ đau",
+      "Khả năng kiểm soát nhiễm trùng bằng nội nha",
+      "Tình trạng mô mềm quanh răng",
+      "Hình dạng chân răng",
+      "Sự hiện diện của đường dò"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 82: Khi răng khôn hàm trên mọc ngầm và sát xoang hàm, dấu hiệu nào tiên lượng thủng xoang sau nhổ?",
+    "options": [
+      "Âm rỗng khi gõ vùng má",
+      "Phù nề vùng gò má",
+      "Hơi thở có mùi",
+      "Chảy dịch mủ từ mũi",
+      "Đau nhói lan lên trán"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu 83: Biến chứng thường bị bỏ sót sau nhổ răng khôn hàm dưới lệch xa là:",
+    "options": [
+      "Gãy chân răng",
+      "Tổn thương lưỡi",
+      "Lủng màng xương trong",
+      "Viêm huyệt ổ răng muộn",
+      "Gãy mỏm huyệt ổ"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 84: Trong điều trị tổn thương nội nha–nha chu phức hợp, dấu hiệu nào gợi ý nội nha nguyên phát nha chu thứ phát?",
+    "options": [
+      "Túi nha chu sâu hình tròn 1 mặt",
+      "Tủy sống",
+      "Dấu hiệu đau khi ăn",
+      "Xương tiêu lan theo chiều ngang",
+      "Đáp ứng tủy còn dương tính"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu 85: Khi gặp trẻ khóc dữ dội ngay khi lên ghế, bước tiếp cận đầu tiên nên là?",
+    "options": [
+      "Dọa trẻ bằng dụng cụ",
+      "Gọi phụ huynh ra ngoài",
+      "Trì hoãn điều trị và làm quen không can thiệp",
+      "Tiến hành nhanh cho xong",
+      "Giữ trẻ lại và gây tê ngay"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 86: Trong trường hợp răng viêm tủy nhưng không đau, không đáp ứng nhiệt, có túi sâu 1 mặt: hướng xử trí nào hợp lý nhất?",
+    "options": [
+      "Che tủy",
+      "Điều trị nội nha",
+      "Theo dõi thêm",
+      "Trám tạm",
+      "Ghi điện tủy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 87: Phim quanh chóp cho hình ảnh mờ vùng chóp răng 4, không triệu chứng. Hướng xử trí đầu tiên là:",
+    "options": [
+      "Điều trị nội nha ngay",
+      "Chụp phim cắt lớp (CBCT)",
+      "Trám tạm chống vi khuẩn",
+      "Chờ biểu hiện lâm sàng",
+      "Xét nghiệm máu CRP"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 88: Răng cối lớn có ống tủy hẹp, cong, kết hợp viêm nha chu – yếu tố thất bại thường gặp nhất là?",
+    "options": [
+      "Viêm tủy còn sót",
+      "Dẫn lưu chưa đầy đủ",
+      "Không làm sạch vùng chia chân",
+      "Bít ống phụ không kín",
+      "Phục hình không sát"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 89: Trẻ có rối loạn hành vi phản kháng mạnh khi mở miệng, lựa chọn sau nào hợp lý nhất khi điều trị nội nha?",
+    "options": [
+      "Chuyển tuyến gây mê",
+      "Cố giữ trẻ và thực hiện",
+      "Chia nhỏ hẹn, tạo dần thói quen",
+      "Chọn thuốc kháng sinh thay thế",
+      "Giải thích chi tiết cho phụ huynh"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu 90: Khi răng khôn hàm dưới mọc lệch, không đủ không gian và gây viêm quanh thân, điều trị tối ưu là?",
+    "options": [
+      "Nhổ ngay khi cấp",
+      "Trì hoãn 1 tuần",
+      "Kháng sinh trước – nhổ sau",
+      "Cắt nướu phủ và theo dõi",
+      "Chụp phim toàn hàm"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 91: Trường hợp nào sau đây KHÔNG phù hợp để thực hiện điều trị bảo tồn tủy?",
+    "options": [
+      "Răng có lỗ sâu đến sát buồng tủy",
+      "Răng không đau, không đáp ứng nhiệt",
+      "Răng bị lộ tủy do chấn thương trong vòng 12 giờ",
+      "Răng bị đau tự phát từng cơn 3 ngày qua",
+      "Răng có chảy máu tủy sáng màu, dễ cầm"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu 92: Trong phẫu thuật nhổ răng số 8 mọc lệch gần, nên chia chân răng theo hướng nào để dễ bẩy?",
+    "options": [
+      "Dọc theo trục chân xa gần",
+      "Ngang 90° trục răng",
+      "Tách riêng chân gần – chân xa",
+      "Chia tam giác góc răng",
+      "Không cần chia vì chân thẳng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 93: Trường hợp nào sau đây có tiên lượng bảo tồn kém nhất sau điều trị nội nha?",
+    "options": [
+      "Răng bị mẻ lớn mặt nhai",
+      "Răng không có triệu chứng nhưng tổn thương quanh chóp lớn > 5mm",
+      "Răng có phản ứng đau gõ dương tính nhẹ",
+      "Răng có hở mặt bên khó phục hình",
+      "Răng có chóp hở hoàn toàn"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu 94: Trong điều trị che tủy gián tiếp, yếu tố quan trọng nhất quyết định thành công là:",
+    "options": [
+      "Loại vật liệu trám",
+      "Thời gian lộ tủy",
+      "Loại sâu",
+      "Độ vô khuẩn vùng sâu còn lại",
+      "Độ tuổi bệnh nhân"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu 95: Việc trám kín ống tủy nhưng bỏ sót vùng chia chân răng dễ dẫn đến:",
+    "options": [
+      "Viêm nha chu",
+      "Tái phát áp xe",
+      "Viêm xoang",
+      "Sâu răng thứ phát",
+      "Gãy thân răng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 96: Trường hợp răng lung lay độ II, tụt nướu và tổn thương nội nha – điều trị ưu tiên là?",
+    "options": [
+      "Nội nha trước – nha chu sau",
+      "Nha chu trước – nội nha sau",
+      "Điều trị đồng thời",
+      "Nhổ bỏ",
+      "Chụp phim đánh giá tiên lượng"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu 97: Phát biểu nào sau đây là sai khi nói về MTA?",
+    "options": [
+      "Tính sinh học cao",
+      "Khả năng kháng khuẩn mạnh hơn Ca(OH)2",
+      "Thời gian đông nhanh hơn Ca(OH)2",
+      "Có thể dùng để bít chóp răng chưa đóng",
+      "Là lựa chọn tốt để che tủy trực tiếp"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 98: Trong các trường hợp sau, trường hợp nào nên chỉ định điều trị tủy sữa toàn phần?",
+    "options": [
+      "Răng sữa chưa đến tuổi thay, có lỗ sâu nhỏ",
+      "Răng sữa lộ tủy do chấn thương < 12h",
+      "Răng sữa đau nhức từng cơn, chảy mủ",
+      "Răng sữa có triệu chứng viêm quanh thân",
+      "Răng sữa lung lay độ I"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 99: Khi nghi ngờ thủng xoang hàm sau nhổ răng, thử nghiệm nào nên làm trước?",
+    "options": [
+      "Nghiêng đầu thổi khí",
+      "Thử nghiệm Valsalva",
+      "Nội soi xoang",
+      "CT Scanner",
+      "Đặt thuốc nhuộm xanh"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 100: Khi thực hiện điều trị tâm lý cho trẻ có sang chấn nha khoa trước đó, cần tránh điều nào nhất?",
+    "options": [
+      "Hứa hẹn quá mức",
+      "Cho xem dụng cụ",
+      "Duy trì giọng nói bình tĩnh",
+      "Giải thích từng bước điều trị",
+      "Tạo điều kiện kiểm soát"
+    ],
+    "answer": 0
   }
+  
 ]
