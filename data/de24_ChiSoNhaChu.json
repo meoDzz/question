@@ -1,0 +1,222 @@
+[
+  {
+    "question": "Khi đầu dò WHO chạm đáy túi nha chu và vạch đen bị che hoàn toàn, mã CPI nào được ghi?",
+    "answers": [
+      "4",
+      "3",
+      "2",
+      "1",
+      "0"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Mã CPI = 3 tương ứng với túi nha chu có độ sâu bao nhiêu mm?",
+    "answers": [
+      "4 – 5 mm",
+      "≥ 6 mm",
+      "2 – 3 mm",
+      "1 – 2 mm",
+      "≥ 8 mm"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Trong CPI, vùng sextant nào cần dùng răng 36 và 37 làm răng đại diện?",
+    "answers": [
+      "Sextant 4 (hàm dưới trái)",
+      "Sextant 6 (hàm dưới phải)",
+      "Sextant 3",
+      "Sextant 2",
+      "Không vùng nào"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Tại sao CPI không đánh giá được tình trạng tiêu xương ở mức độ chính xác như X-quang?",
+    "answers": [
+      "Vì CPI dựa vào thăm dò lâm sàng chứ không nhìn thấy cấu trúc xương",
+      "Vì CPI chỉ đánh giá lợi viền",
+      "Do đầu dò WHO không đủ độ chính xác",
+      "Vì CPI không dùng trong nha khoa trẻ em",
+      "Do CPI không đo độ sâu chính xác"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Đối tượng được khuyến cáo nên khám CPI theo WHO là:",
+    "answers": [
+      "Người ≥ 15 tuổi",
+      "Trẻ em 6–12 tuổi",
+      "Mọi lứa tuổi",
+      "Người từ 35 tuổi trở lên",
+      "Người có túi sâu"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Vì sao CPI chọn 6 vùng sextant chứ không phải đánh giá từng răng?",
+    "answers": [
+      "Tiết kiệm thời gian và phù hợp khảo sát cộng đồng",
+      "Tránh làm đau bệnh nhân",
+      "Dễ ghi chép hơn",
+      "Do WHO quy định",
+      "Chỉ cần xem các vùng dễ bị nha chu"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Mã CPI nào được ghi khi chỉ có chảy máu sau thăm dò, không có vôi răng hay túi?",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "0"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Nếu một vùng có nhiều răng, mã CPI được ghi theo:",
+    "answers": [
+      "Giá trị cao nhất trong vùng đó",
+      "Giá trị thấp nhất",
+      "Trung bình cộng",
+      "Răng giữa vùng",
+      "Răng dễ thăm dò nhất"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "CPI không phù hợp sử dụng khi đối tượng:",
+    "answers": [
+      "Mất gần hết răng vĩnh viễn",
+      "Chưa mọc răng sữa",
+      "Có chỉnh nha cố định",
+      "Có cầu răng toàn bộ",
+      "Đang dùng thuốc kháng sinh"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Tại sao lực thăm dò trong CPI chỉ nên giới hạn khoảng 20–25g?",
+    "answers": [
+      "Đủ nhạy cảm để phát hiện chảy máu mà không gây tổn thương mô",
+      "Giúp xuyên vào túi sâu hơn",
+      "Tạo cảm giác dễ chịu cho bệnh nhân",
+      "Làm sạch túi nha chu",
+      "Chống đau tủy răng"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "CPI không thể hiện trực tiếp dấu hiệu nào dưới đây?",
+    "answers": [
+      "Tiêu xương trên phim X-quang",
+      "Chảy máu nướu",
+      "Có vôi răng",
+      "Túi nha chu sâu",
+      "Thiếu răng do nha chu"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Răng nào KHÔNG bao giờ được chọn làm răng đại diện trong CPI?",
+    "answers": [
+      "Răng cửa bên",
+      "Răng số 12",
+      "Răng số 41",
+      "Răng số 16",
+      "Răng số 26"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Khi mã số của một vùng là 'X', nghĩa là:",
+    "answers": [
+      "Không đủ răng để đánh giá",
+      "Có túi sâu ≥ 6mm",
+      "Không có chảy máu",
+      "Răng giả toàn bộ",
+      "Đang điều trị nội nha"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Điều nào sau đây đúng khi đầu dò WHO có vòng đen ở 3.5 – 5.5mm bị che một phần?",
+    "answers": [
+      "Mã CPI = 3",
+      "Mã CPI = 2",
+      "Mã CPI = 4",
+      "Mã CPI = 1",
+      "Không ghi mã"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Với CPI, khi cả 6 vùng đều có mã 0, kết luận là:",
+    "answers": [
+      "Nướu bình thường, không có dấu hiệu bệnh nha chu",
+      "Chảy máu lan tỏa",
+      "Có vôi nhẹ",
+      "Túi nông rải rác",
+      "Tình trạng sâu răng nặng"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Sextant 2 bao gồm răng nào?",
+    "answers": [
+      "Răng cửa và răng nanh hàm trên",
+      "Răng cối nhỏ hàm trên phải",
+      "Răng cửa dưới",
+      "Răng cối lớn hàm dưới",
+      "Răng khôn cả hai bên"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Khi mã CPI = 9, nghĩa là:",
+    "answers": [
+      "Không thể đánh giá do lý do kỹ thuật hoặc từ chối",
+      "Túi nha chu cực sâu",
+      "Không chảy máu",
+      "Tụt nướu nhiều",
+      "Có viêm quanh implant"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Một vùng được ghi mã 2 khi:",
+    "answers": [
+      "Có vôi răng nhưng không có túi",
+      "Túi sâu ≥ 6mm",
+      "Chảy máu nhẹ",
+      "Không có bất thường",
+      "Thiếu răng"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Đối tượng được chọn để khảo sát CPI thường ở độ tuổi nào theo hướng dẫn WHO?",
+    "answers": [
+      "15 tuổi trở lên",
+      "Dưới 6 tuổi",
+      "6–12 tuổi",
+      "Trên 60 tuổi",
+      "Trẻ em mẫu giáo"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Điều nào KHÔNG phải là ưu điểm của chỉ số CPI?",
+    "answers": [
+      "Xác định chính xác từng răng bệnh",
+      "Tiết kiệm thời gian",
+      "Phù hợp điều tra cộng đồng",
+      "Có mã hóa đơn giản",
+      "Dễ huấn luyện người khám"
+    ],
+    "correct_answer": 0
+  }
+]

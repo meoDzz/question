@@ -1,0 +1,222 @@
+[
+  {
+    "question": "Chỉ số phần nha chu (CPI) là công cụ để đánh giá:",
+    "answers": [
+      "Tình trạng bệnh nha chu trong cộng đồng",
+      "Mức độ sâu răng cá nhân",
+      "Sự lệch lạc khớp cắn",
+      "Chất lượng phục hình",
+      "Viêm tủy răng"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Chỉ số CPI do tổ chức nào đề xuất?",
+    "answers": [
+      "Tổ chức Y tế Thế giới (WHO)",
+      "Bộ Y tế Việt Nam",
+      "Liên đoàn nha khoa quốc tế (FDI)",
+      "Hiệp hội Y học Hoa Kỳ",
+      "Liên hợp quốc (UN)"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Chỉ số CPI ra đời vào năm nào?",
+    "answers": [
+      "1982",
+      "1975",
+      "1990",
+      "1965",
+      "2002"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Đầu dò được dùng để khám CPI là loại nào?",
+    "answers": [
+      "Đầu dò WHO",
+      "Đầu dò CPITN",
+      "Đầu dò William",
+      "Đầu dò Nabers",
+      "Đầu dò Miller"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Mục đích chính của chỉ số CPI là:",
+    "answers": [
+      "Khảo sát sức khỏe nha chu trên diện rộng",
+      "Chẩn đoán viêm tủy răng",
+      "Phát hiện sâu răng hàm lớn",
+      "Theo dõi niềng răng",
+      "Tìm răng cần nhổ"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Mỗi cung hàm được chia thành bao nhiêu vùng (sextant) trong CPI?",
+    "answers": [
+      "6 vùng",
+      "4 vùng",
+      "8 vùng",
+      "2 vùng",
+      "10 vùng"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Một sextant được xem là hợp lệ để chấm điểm CPI khi có ít nhất:",
+    "answers": [
+      "2 răng không chỉ định nhổ",
+      "1 răng sâu",
+      "1 răng lung lay",
+      "3 răng bị nha chu",
+      "4 răng thật"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Vạch đen trên đầu dò WHO dài:",
+    "answers": [
+      "3.5 – 5.5 mm",
+      "2 – 3 mm",
+      "1 – 2 mm",
+      "4 – 6 mm",
+      "6 – 8 mm"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Chỉ số CPI sử dụng các mã số để:",
+    "answers": [
+      "Phản ánh tình trạng nha chu từng vùng",
+      "Ghi chú số răng sâu",
+      "Xác định loại phục hình",
+      "Đo khoảng chênh lệch khớp cắn",
+      "Đếm số răng mất"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Mã CPI = 0 thể hiện:",
+    "answers": [
+      "Mô nướu bình thường",
+      "Chảy máu khi thăm dò",
+      "Có vôi răng",
+      "Túi nông",
+      "Túi sâu"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Mã CPI = 1 biểu hiện dấu hiệu nào?",
+    "answers": [
+      "Chảy máu khi thăm dò",
+      "Có túi sâu",
+      "Tụt nướu nghiêm trọng",
+      "Viêm tủy",
+      "Mòn cổ răng"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Mã CPI = 2 biểu thị:",
+    "answers": [
+      "Có vôi răng nhưng không có túi nha chu",
+      "Viêm lợi trầm trọng",
+      "Răng lung lay độ 3",
+      "Túi nha chu ≥ 6mm",
+      "Không có răng"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Mã CPI = 3 được ghi khi túi nha chu có độ sâu:",
+    "answers": [
+      "4 – 5 mm",
+      "1 – 3 mm",
+      "6 – 7 mm",
+      "≥ 6 mm",
+      "0 mm"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Mã CPI = 4 phản ánh tình trạng:",
+    "answers": [
+      "Túi nha chu ≥ 6mm",
+      "Viêm tủy răng",
+      "Chảy máu nhẹ",
+      "Có mảng bám nhỏ",
+      "Trám răng sai kỹ thuật"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Răng đại diện để đánh giá vùng hàm dưới phía trước là:",
+    "answers": [
+      "31 và 41",
+      "32 và 42",
+      "33 và 43",
+      "34 và 44",
+      "35 và 45"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Răng đại diện ở vùng hàm trên bên trái thường là:",
+    "answers": [
+      "26 và 27",
+      "21 và 22",
+      "11 và 12",
+      "14 và 15",
+      "23 và 24"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Khi thăm khám CPI, nên thăm dò các mặt nào?",
+    "answers": [
+      "Mặt ngoài và mặt trong",
+      "Mặt nhai",
+      "Mặt gần xa",
+      "Chỉ mặt trong",
+      "Chỉ mặt xa"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Nếu vùng sextant không đủ răng để chấm CPI, mã số là:",
+    "answers": [
+      "X",
+      "9",
+      "0",
+      "4",
+      "2"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Mã CPI = 9 nghĩa là:",
+    "answers": [
+      "Không thể khám do từ chối hoặc lý do khác",
+      "Không có vôi răng",
+      "Túi nông",
+      "Chảy máu nhẹ",
+      "Khớp cắn ngược"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Lực thăm dò CPI nên duy trì ở mức:",
+    "answers": [
+      "20 – 25 gram",
+      "40 – 60 gram",
+      "80 – 100 gram",
+      "5 – 10 gram",
+      "100 – 150 gram"
+    ],
+    "correct_answer": 0
+  }
+]

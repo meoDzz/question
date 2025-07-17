@@ -44,7 +44,13 @@ document.addEventListener('DOMContentLoaded', () => {
         'de15_ung_xu_tre_nhakhoa.json',
         'de16_ung_xu_tre_nhakhoa.json',
         'de17_full_100_questions.json',
-        'de18_full_100_questions.json'
+        'de18_full_100_questions.json',
+        'de19_ChamSocRangMieng.json',
+        'de20_ChamSocRangMieng.json',
+        'de21_GiaoDucSucKhoe.json',
+        'de22_GiaoDucSucKhoe.json',
+        'de23_ChiSoNhaChu.json',
+        'de24_ChiSoNhaChu.json'
     ];
     // --- KẾT THÚC CẬP NHẬT ---
 

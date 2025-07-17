@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Câu 21: Yếu tố nào sau đây **không phải** là nguyên tắc trong chăm sóc răng miệng ban đầu?",
+    "options": ["Dễ áp dụng", "Chi phí thấp", "Hiệu quả lâu dài", "Chỉ định phẫu thuật kịp thời"],
+    "answer": 3
+  },
+  {
+    "question": "Câu 22: Khi chọn bàn chải đánh răng cho học sinh tiểu học, yếu tố **ít quan trọng nhất** là:",
+    "options": ["Lông bàn chải mềm", "Tay cầm vừa vặn", "Màu sắc yêu thích", "Đầu bàn chải lớn để chải nhanh"],
+    "answer": 3
+  },
+  {
+    "question": "Câu 23: Một trong các nội dung của chăm sóc ban đầu là:",
+    "options": ["Phẫu thuật điều trị u lợi", "Trám răng sâu lớn bằng amalgam", "Tư vấn cách sử dụng bàn chải phù hợp", "Nhổ răng khôn mọc lệch"],
+    "answer": 2
+  },
+  {
+    "question": "Câu 24: Nội dung nào sau đây phù hợp với nguyên tắc 'can thiệp tối thiểu' trong chăm sóc răng miệng ban đầu?",
+    "options": ["Nhổ răng lung lay sớm", "Trám bít hố rãnh", "Cạo vôi răng thường xuyên", "Chỉ sử dụng thuốc súc miệng kháng sinh"],
+    "answer": 1
+  },
+  {
+    "question": "Câu 25: Giáo dục sức khỏe răng miệng được coi là thành công khi:",
+    "options": ["Người dân nhớ các kiến thức lý thuyết", "Người dân thay đổi hành vi", "Chỉ số mảng bám tăng nhẹ", "Có nhiều tờ rơi được phát"],
+    "answer": 1
+  },
+  {
+    "question": "Câu 26: Khi hướng dẫn chải răng cho trẻ nhỏ, yếu tố quan trọng nhất là:",
+    "options": ["Trẻ đánh răng một mình", "Bố mẹ kiểm tra và hỗ trợ", "Đánh sau khi ăn kẹo", "Đánh răng 1 lần/ngày"],
+    "answer": 1
+  },
+  {
+    "question": "Câu 27: Loại chỉ số nào giúp đánh giá mức độ viêm lợi?",
+    "options": ["DMFT", "Pl.I", "GI", "PSR"],
+    "answer": 2
+  },
+  {
+    "question": "Câu 28: Vai trò của chải răng đúng cách trong phòng bệnh răng miệng là:",
+    "options": ["Giúp nướu khỏe và giảm mảng bám", "Thay thế khám răng định kỳ", "Chỉ cần thiết khi bị đau", "Giống như súc miệng bằng nước lọc"],
+    "answer": 0
+  },
+  {
+    "question": "Câu 29: Tại sao fluor có thể giúp tái khoáng men răng?",
+    "options": ["Vì tạo môi trường kiềm", "Vì tăng hấp thu canxi", "Vì tạo fluorapatit bền vững", "Vì làm tăng độ pH nước bọt"],
+    "answer": 2
+  },
+  {
+    "question": "Câu 30: Trong các biện pháp sau, đâu **không thuộc** chăm sóc ban đầu?",
+    "options": ["Trám bít hố rãnh", "Khám định kỳ", "Cạo vôi răng nặng", "Tư vấn vệ sinh răng miệng"],
+    "answer": 2
+  },
+  {
+    "question": "Câu 31: Nội dung nào **sai** về chăm sóc ban đầu?",
+    "options": ["Là can thiệp sớm để dự phòng", "Được áp dụng rộng rãi trong cộng đồng", "Chỉ áp dụng cho người cao tuổi", "Giúp giảm chi phí điều trị lâu dài"],
+    "answer": 2
+  },
+  {
+    "question": "Câu 32: Đâu là điểm khác biệt giữa trám bít hố rãnh và trám điều trị sâu răng?",
+    "options": ["Chỉ trám bít dùng vật liệu composite", "Trám bít không cần lấy mô răng sâu", "Trám bít rẻ hơn", "Trám bít không ngăn ngừa sâu răng"],
+    "answer": 1
+  },
+  {
+    "question": "Câu 33: Tác dụng chính của sử dụng chỉ nha khoa là gì?",
+    "options": ["Chống viêm lợi", "Làm trắng răng", "Làm sạch mặt nhai", "Thay thế chải răng"],
+    "answer": 0
+  },
+  {
+    "question": "Câu 34: Đối với chăm sóc răng miệng ban đầu, biện pháp có hiệu quả phòng ngừa cao nhất là:",
+    "options": ["Trám amalgam", "Nhổ răng sữa sớm", "Trám bít hố rãnh", "Chụp mão răng sữa"],
+    "answer": 2
+  },
+  {
+    "question": "Câu 35: Khi giáo dục sức khỏe răng miệng cho học sinh, nên ưu tiên phương pháp nào?",
+    "options": ["Giảng bài lý thuyết thuần túy", "Phát tờ rơi", "Trò chơi tương tác và trực quan", "Cho xem video bệnh nhân mất răng"],
+    "answer": 2
+  },
+  {
+    "question": "Câu 36: Lý do chính nên ưu tiên chăm sóc răng miệng ban đầu là:",
+    "options": ["Rẻ tiền", "Giảm số lần đi khám", "Phòng bệnh tốt và tiết kiệm chi phí điều trị", "Ít gây đau"],
+    "answer": 2
+  },
+  {
+    "question": "Câu 37: Khi không thể dùng chỉ nha khoa, lựa chọn thay thế phù hợp nhất là:",
+    "options": ["Tăm tre nhọn", "Tăm xỉa răng tròn lớn", "Bàn chải kẽ", "Dùng tăm cuốn khăn giấy"],
+    "answer": 2
+  },
+  {
+    "question": "Câu 38: Biện pháp nào sau đây **không nên áp dụng** trong chăm sóc răng miệng ban đầu?",
+    "options": ["Dạy cách chải răng", "Tư vấn chế độ ăn", "Chụp răng sứ thẩm mỹ", "Khám định kỳ"],
+    "answer": 2
+  },
+  {
+    "question": "Câu 39: Đâu là nội dung của chăm sóc răng miệng ban đầu trong trường học?",
+    "options": [ "Khám phát hiện răng sâu", "Giáo dục cách chải răng đúng", "Cả hai câu a, b đều đúng", "Cả hai câu a, b đều sai"],
+    "answer": 2
+  },
+  {
+    "question": "Câu 40: Chăm sóc răng miệng ban đầu nên được bắt đầu từ:",
+    "options": ["Khi mọc răng sữa đầu tiên", "Khi trẻ đi học", "Khi mọc răng vĩnh viễn", "Khi có triệu chứng sâu răng"],
+    "answer": 0
+  }
+]

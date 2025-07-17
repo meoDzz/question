@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Câu 1: Một trong các mục tiêu của chăm sóc răng miệng ban đầu là gì?",
+    "options": ["Chỉ điều trị khi có sâu răng", "Ngăn ngừa và phát hiện sớm các bệnh lý răng miệng", "Chỉ dùng thuốc khi đau", "Chờ đến khi mất răng mới điều trị"],
+    "answer": 1
+  },
+  {
+    "question": "Câu 2: Đối tượng ưu tiên trong chăm sóc răng miệng ban đầu là:",
+    "options": ["Người cao tuổi", "Phụ nữ mang thai", "Trẻ em và học sinh", "Người trưởng thành"],
+    "answer": 2
+  },
+  {
+    "question": "Câu 3: Biện pháp đơn giản và hiệu quả nhất để phòng ngừa sâu răng là:",
+    "options": ["Đánh răng đúng cách hàng ngày", "Súc miệng bằng nước muối mỗi tuần", "Uống nước lọc", "Không ăn trái cây"],
+    "answer": 0
+  },
+  {
+    "question": "Câu 4: Chỉ số dùng để đánh giá vệ sinh răng miệng là:",
+    "options": ["Chỉ số BMI", "Chỉ số Pl.I", "Chỉ số HbA1c", "Chỉ số huyết áp"],
+    "answer": 1
+  },
+  {
+    "question": "Câu 5: Khi chải răng nên dùng bàn chải:",
+    "options": ["Cứng và đầu lớn", "Cứng và đầu nhỏ", "Mềm và đầu nhỏ", "Cứng và xoay tự động"],
+    "answer": 2
+  },
+  {
+    "question": "Câu 6: Thời điểm tốt nhất để đánh răng là:",
+    "options": ["Trước khi ngủ và sau khi ăn sáng", "Lúc vừa ngủ dậy và trưa", "Sau ăn tối và trưa", "Bất cứ lúc nào tiện"],
+    "answer": 0
+  },
+  {
+    "question": "Câu 7: Chất giúp ngừa sâu răng được thêm vào kem đánh răng là:",
+    "options": ["Canxi", "Vitamin C", "Fluor", "Magie"],
+    "answer": 2
+  },
+  {
+    "question": "Câu 8: Số lần khuyến cáo nên đánh răng mỗi ngày là:",
+    "options": ["1 lần", "2 lần", "4 lần", "Càng nhiều càng tốt"],
+    "answer": 1
+  },
+  {
+    "question": "Câu 9: Dấu hiệu nào sau đây không thuộc bệnh nha chu?",
+    "options": ["Chảy máu nướu", "Hơi thở hôi", "Răng lung lay", "Tóc rụng"],
+    "answer": 3
+  },
+  {
+    "question": "Câu 10: Vai trò của giáo dục sức khỏe răng miệng trong cộng đồng là:",
+    "options": ["Giúp cộng đồng biết và thực hành đúng", "Chỉ để tuyên truyền", "Chỉ dành cho học sinh", "Không quan trọng"],
+    "answer": 0
+  },
+  {
+    "question": "Câu 11: Dụng cụ hỗ trợ làm sạch kẽ răng là:",
+    "options": ["Tăm tre", "Chỉ nha khoa", "Muỗng", "Lược"],
+    "answer": 1
+  },
+  {
+    "question": "Câu 12: Cách phòng ngừa viêm lợi hiệu quả là:",
+    "options": ["Không ăn ngọt", "Đánh răng đúng cách và dùng chỉ nha khoa", "Chỉ súc miệng", "Uống thuốc tây mỗi tuần"],
+    "answer": 1
+  },
+  {
+    "question": "Câu 13: Chỉ định trám răng phòng ngừa thường áp dụng cho:",
+    "options": ["Răng vĩnh viễn chưa mọc", "Răng sữa sâu lớn", "Răng mới mọc có hố rãnh sâu", "Răng lung lay"],
+    "answer": 2
+  },
+  {
+    "question": "Câu 14: Fluor có vai trò gì trong phòng ngừa sâu răng?",
+    "options": ["Giúp răng chắc khỏe và kháng acid", "Làm trắng răng tạm thời", "Kích thích mọc răng", "Gây mòn răng"],
+    "answer": 0
+  },
+  {
+    "question": "Câu 15: Trong chăm sóc răng miệng ban đầu, giáo dục là biện pháp:",
+    "options": ["Điều trị", "Phòng ngừa", "Khẩn cấp", "Can thiệp"],
+    "answer": 1
+  },
+  {
+    "question": "Câu 16: Mục tiêu của chăm sóc răng miệng ban đầu không bao gồm:",
+    "options": ["Dự phòng bệnh răng miệng", "Phát hiện sớm", "Điều trị phức tạp", "Giáo dục cộng đồng"],
+    "answer": 2
+  },
+  {
+    "question": "Câu 17: Đối tượng có nguy cơ cao cần được chăm sóc răng miệng sớm là:",
+    "options": ["Người không ăn đồ ngọt", "Trẻ em và người có bệnh mạn tính", "Người đã mất toàn bộ răng", "Vận động viên thể thao"],
+    "answer": 1
+  },
+  {
+    "question": "Câu 18: Sử dụng kem đánh răng có fluor giúp:",
+    "options": ["Làm thơm miệng", "Diệt vi khuẩn ngay lập tức", "Ngừa sâu răng", "Thay thế nước súc miệng"],
+    "answer": 2
+  },
+  {
+    "question": "Câu 19: Lợi ích của trám bít hố rãnh là gì?",
+    "options": ["Làm trắng răng", "Tăng độ nhạy cảm", "Ngăn ngừa sâu răng vùng hố rãnh", "Làm mòn men răng"],
+    "answer": 2
+  },
+  {
+    "question": "Câu 20: Tần suất tái khám răng miệng định kỳ được khuyến cáo là:",
+    "options": ["3 tháng/lần", "6 tháng/lần", "1 năm/lần", "Chỉ khi đau răng"],
+    "answer": 1
+  }
+]
