@@ -52,7 +52,8 @@ document.addEventListener('DOMContentLoaded', () => {
         'de23_ChiSoNhaChu.json',
         'de24_ChiSoNhaChu.json',
         'de25_tongHop23_24_25.json',
-        'de26_tongHop23_24_25.json'
+        'de26_tongHop23_24_25.json',
+        'de27_GDSK_rangMieng.json'
         
     ];
     // --- KẾT THÚC CẬP NHẬT ---
