@@ -1,323 +1,323 @@
 [
   {
     "question": "Một yếu tố quan trọng trong giáo dục sức khỏe là:",
-    "answers": ["Ép buộc thay đổi", "Thuyết phục bằng áp lực xã hội", "Tự nguyện tham gia", "Bắt buộc theo nhóm", "Trừng phạt sai lầm"],
-    "correct_answer": 2
+    "options": ["Ép buộc thay đổi", "Thuyết phục bằng áp lực xã hội", "Tự nguyện tham gia", "Bắt buộc theo nhóm", "Trừng phạt sai lầm"],
+    "answer": 2
   },
   {
     "question": "Tham gia của người lãnh đạo trong giáo dục sức khỏe nhằm:",
-    "answers": ["Tạo sức ép cho cộng đồng", "Tăng uy tín cho chương trình", "Tạo động lực và gương mẫu", "Đánh giá học tập", "Quản lý tài chính"],
-    "correct_answer": 2
+    "options": ["Tạo sức ép cho cộng đồng", "Tăng uy tín cho chương trình", "Tạo động lực và gương mẫu", "Đánh giá học tập", "Quản lý tài chính"],
+    "answer": 2
   },
   {
     "question": "Ví dụ nào sau đây là hình thức giáo dục nhóm?",
-    "answers": ["Hướng dẫn tại ghế", "Truyền hình y tế", "Hội thảo chuyên đề", "Tờ rơi cá nhân", "Trang web cá nhân"],
-    "correct_answer": 2
+    "options": ["Hướng dẫn tại ghế", "Truyền hình y tế", "Hội thảo chuyên đề", "Tờ rơi cá nhân", "Trang web cá nhân"],
+    "answer": 2
   },
   {
     "question": "Hạn chế của thảo luận trong lớp học là:",
-    "answers": ["Thiếu tính tương tác", "Không tạo ra ý tưởng", "Nhóm nhỏ lấn át, mất định hướng", "Quá tập trung vào giáo viên", "Không cần chuẩn bị"],
-    "correct_answer": 2
+    "options": ["Thiếu tính tương tác", "Không tạo ra ý tưởng", "Nhóm nhỏ lấn át, mất định hướng", "Quá tập trung vào giáo viên", "Không cần chuẩn bị"],
+    "answer": 2
   },
   {
     "question": "Bài giảng phù hợp với:",
-    "answers": ["Nhóm nhỏ, trao đổi sâu", "Mô phỏng tình huống thực tế", "Trình bày trực tiếp kiến thức cho nhóm lớn", "Huấn luyện kỹ năng", "Tư vấn cá nhân"],
-    "correct_answer": 2
+    "options": ["Nhóm nhỏ, trao đổi sâu", "Mô phỏng tình huống thực tế", "Trình bày trực tiếp kiến thức cho nhóm lớn", "Huấn luyện kỹ năng", "Tư vấn cá nhân"],
+    "answer": 2
   },
   {
     "question": "Giáo dục sức khỏe hiệu quả khi:",
-    "answers": ["Thông tin trừu tượng", "Không có ví dụ cụ thể", "Có sự củng cố lặp lại", "Chỉ đọc tài liệu", "Giao tiếp một chiều"],
-    "correct_answer": 2
+    "options": ["Thông tin trừu tượng", "Không có ví dụ cụ thể", "Có sự củng cố lặp lại", "Chỉ đọc tài liệu", "Giao tiếp một chiều"],
+    "answer": 2
   },
   {
     "question": "Phương pháp giáo dục phù hợp với cá nhân hóa nội dung là:",
-    "answers": ["Truyền hình", "Báo chí", "Tư vấn 1-1", "Hội nghị", "Triển lãm"],
-    "correct_answer": 2
+    "options": ["Truyền hình", "Báo chí", "Tư vấn 1-1", "Hội nghị", "Triển lãm"],
+    "answer": 2
   },
   {
     "question": "Tăng cường nhận thức là chiến lược của:",
-    "answers": ["Giáo dục cộng đồng", "Interpersonal", "Intrapersonal", "Truyền thông đại chúng", "Chính sách y tế"],
-    "correct_answer": 2
+    "options": ["Giáo dục cộng đồng", "Interpersonal", "Intrapersonal", "Truyền thông đại chúng", "Chính sách y tế"],
+    "answer": 2
   },
   {
     "question": "Một đặc điểm của giáo dục sức khỏe kiểu cộng đồng:",
-    "answers": ["Cá nhân hướng dẫn", "Thay đổi nhận thức nhóm nhỏ", "Tác động lên yếu tố xã hội - chính trị", "Tập trung vào gia đình", "Chăm sóc lâm sàng"],
-    "correct_answer": 2
+    "options": ["Cá nhân hướng dẫn", "Thay đổi nhận thức nhóm nhỏ", "Tác động lên yếu tố xã hội - chính trị", "Tập trung vào gia đình", "Chăm sóc lâm sàng"],
+    "answer": 2
   },
   {
     "question": "Tình huống cần đánh giá hiểu biết sức khỏe là:",
-    "answers": ["Bệnh nhân hiểu sai nhãn thuốc", "Người bệnh chọn đúng bảo hiểm", "Khám răng định kỳ", "Đọc tờ rơi y tế", "Nhớ lịch hẹn"],
-    "correct_answer": 0
+    "options": ["Bệnh nhân hiểu sai nhãn thuốc", "Người bệnh chọn đúng bảo hiểm", "Khám răng định kỳ", "Đọc tờ rơi y tế", "Nhớ lịch hẹn"],
+    "answer": 0
   },
   {
     "question": "Phương tiện truyền thông đại chúng KHÔNG bao gồm:",
-    "answers": ["Radio", "Tạp chí", "Đài truyền hình", "Họp nhóm", "Internet"],
-    "correct_answer": 3
+    "options": ["Radio", "Tạp chí", "Đài truyền hình", "Họp nhóm", "Internet"],
+    "answer": 3
   },
   {
     "question": "Vai trò của bảng kiểm trong giáo dục sức khỏe:",
-    "answers": ["Tạo động lực hành vi", "Xác định chuyên môn", "Hỗ trợ đánh giá suy nghĩ cá nhân", "Giao tiếp nhóm lớn", "Truyền đạt nội dung chuyên sâu"],
-    "correct_answer": 2
+    "options": ["Tạo động lực hành vi", "Xác định chuyên môn", "Hỗ trợ đánh giá suy nghĩ cá nhân", "Giao tiếp nhóm lớn", "Truyền đạt nội dung chuyên sâu"],
+    "answer": 2
   },
   {
     "question": "Vai trò của peer-leader trong trường học:",
-    "answers": ["Cấm học sinh sử dụng kem đánh răng", "Hướng dẫn bạn cùng trang lứa trong chăm sóc răng miệng", "Giám sát nha sĩ", "Phát thuốc cho học sinh", "Lập kế hoạch dạy học"],
-    "correct_answer": 1
+    "options": ["Cấm học sinh sử dụng kem đánh răng", "Hướng dẫn bạn cùng trang lứa trong chăm sóc răng miệng", "Giám sát nha sĩ", "Phát thuốc cho học sinh", "Lập kế hoạch dạy học"],
+    "answer": 1
   },
   {
     "question": "Một bệnh nhân sử dụng tăm xỉa răng thay vì chỉ nha khoa là ví dụ của:",
-    "answers": ["Thiếu tài chính", "Hiểu biết sức khỏe hạn chế", "Thực hành tốt", "Ảnh hưởng văn hóa", "D. & B. đúng"],
-    "correct_answer": 1
+    "options": ["Thiếu tài chính", "Hiểu biết sức khỏe hạn chế", "Thực hành tốt", "Ảnh hưởng văn hóa", "D. & B. đúng"],
+    "answer": 1
   },
   {
     "question": "Bước đầu tiên trong lập kế hoạch giáo dục sức khỏe:",
-    "answers": ["Đặt mục tiêu", "Chọn phương pháp", "Xác định nhu cầu và ưu tiên", "Đánh giá nguồn lực", "Đánh giá kết quả"],
-    "correct_answer": 2
+    "options": ["Đặt mục tiêu", "Chọn phương pháp", "Xác định nhu cầu và ưu tiên", "Đánh giá nguồn lực", "Đánh giá kết quả"],
+    "answer": 2
   },
   {
     "question": "Đâu KHÔNG phải là nguyên tắc giáo dục sức khỏe:",
-    "answers": ["Tạo động lực", "Dễ hiểu", "Áp đặt nội dung", "Tham gia", "Củng cố"],
-    "correct_answer": 2
+    "options": ["Tạo động lực", "Dễ hiểu", "Áp đặt nội dung", "Tham gia", "Củng cố"],
+    "answer": 2
   },
   {
     "question": "Ví dụ của hình thức 'đóng vai' là:",
-    "answers": ["Trình bày lý thuyết", "Phân tích số liệu", "Diễn lại tình huống giao tiếp với bệnh nhân", "Xem video giáo dục", "Tạo bảng kiểm"],
-    "correct_answer": 2
+    "options": ["Trình bày lý thuyết", "Phân tích số liệu", "Diễn lại tình huống giao tiếp với bệnh nhân", "Xem video giáo dục", "Tạo bảng kiểm"],
+    "answer": 2
   },
   {
     "question": "Một người không áp dụng hành vi lành mạnh dù có thông tin đầy đủ có thể do:",
-    "answers": ["Không hiểu", "Không muốn biết", "Không quan tâm", "Không thể hành động", "Tất cả đều đúng"],
-    "correct_answer": 4
+    "options": ["Không hiểu", "Không muốn biết", "Không quan tâm", "Không thể hành động", "Tất cả đều đúng"],
+    "answer": 4
   },
   {
     "question": "Đặc điểm của thảo luận nhóm nhỏ là:",
-    "answers": ["Ít người tham gia", "Mọi người dễ tham gia, thoải mái và đạt đồng thuận", "Khó tiếp cận thông tin", "Tốn kém chi phí", "Không có vai trò trong giáo dục sức khỏe"],
-    "correct_answer": 1
+    "options": ["Ít người tham gia", "Mọi người dễ tham gia, thoải mái và đạt đồng thuận", "Khó tiếp cận thông tin", "Tốn kém chi phí", "Không có vai trò trong giáo dục sức khỏe"],
+    "answer": 1
   },
   {
     "question": "Một người mẹ hiểu sai cách dùng thuốc là do:",
-    "answers": ["Thiếu học vấn", "Thiếu thông tin", "Thiếu hiểu biết sức khỏe", "Không quan tâm", "Tự ý thay đổi toa"],
-    "correct_answer": 2
+    "options": ["Thiếu học vấn", "Thiếu thông tin", "Thiếu hiểu biết sức khỏe", "Không quan tâm", "Tự ý thay đổi toa"],
+    "answer": 2
   },
     {
     "question": "WHO định nghĩa giáo dục sức khỏe là:",
-    "answers": [
+    "options": [
       "Hành vi tự thay đổi để tăng cường sức khỏe",
       "Các hành vi sức khỏe lành mạnh",
       "Bất kỳ hình thức giáo dục nào có thể thay đổi hành vi",
       "Tập hợp cơ hội học tập và hoạt động giảng dạy giúp điều chỉnh hành vi một cách tự nguyện để tốt cho sức khỏe",
       "Tất cả các câu trên đều đúng"
     ],
-    "correct_answer": 3
+    "answer": 3
   },
   {
     "question": "Mục tiêu chính của giáo dục sức khỏe KHÔNG bao gồm:",
-    "answers": [
+    "options": [
       "Tạo động lực",
       "Cung cấp thông tin",
       "Hướng dẫn hành động",
       "Điều trị bệnh lý răng miệng",
       "Thay đổi hành vi sức khỏe"
     ],
-    "correct_answer": 3
+    "answer": 3
   },
   {
     "question": "“Health literacy” được hiểu là:",
-    "answers": [
+    "options": [
       "Trình độ học vấn về y tế",
       "Khả năng sử dụng dịch vụ nha khoa",
       "Mức độ hiểu và áp dụng thông tin y tế để đưa ra quyết định sức khỏe",
       "Kiến thức chuyên sâu về điều trị nha khoa",
       "Chỉ dành cho cán bộ y tế"
     ],
-    "correct_answer": 2
+    "answer": 2
   },
   {
     "question": "Hiểu biết sức khỏe thấp thường dẫn đến hậu quả nào?",
-    "answers": [
+    "options": [
       "Cải thiện hành vi sức khỏe",
       "Sức khỏe cá nhân tốt hơn",
       "Tăng khả năng chăm sóc hiệu quả",
       "Sức khỏe kém",
       "Giảm chi phí y tế"
     ],
-    "correct_answer": 3
+    "answer": 3
   },
   {
     "question": "Đâu là ví dụ cho thấy hiểu biết sức khỏe kém?",
-    "answers": [
+    "options": [
       "Bệnh nhân dùng thuốc đúng liều",
       "Mẹ nhỏ kháng sinh vào tai con thay vì cho uống",
       "Người lớn tuổi đánh răng theo hướng dẫn",
       "Trẻ em sử dụng bàn chải điện",
       "Người bệnh tuân thủ lịch khám"
     ],
-    "correct_answer": 1
+    "answer": 1
   },
   {
     "question": "Yếu tố nào KHÔNG ảnh hưởng đến “Health literacy”?",
-    "answers": [
+    "options": [
       "Giáo dục",
       "Văn hóa",
       "Môi trường y tế",
       "Thu nhập quốc dân",
       "Ngôn ngữ"
     ],
-    "correct_answer": 3
+    "answer": 3
   },
   {
     "question": "Giáo dục sức khỏe tập trung vào cá nhân sử dụng chiến lược nào sau đây?",
-    "answers": [
+    "options": [
       "Gửi thư kiến nghị",
       "Truyền thông đại chúng",
       "Phát triển kỹ năng cá nhân",
       "Hội nghị lãnh đạo",
       "Giao tiếp mạng xã hội"
     ],
-    "correct_answer": 2
+    "answer": 2
   },
   {
     "question": "Mức độ giáo dục sức khỏe liên quan đến gia đình và đồng nghiệp thuộc loại nào?",
-    "answers": [
+    "options": [
       "Intrapersonal",
       "Interpersonal",
       "Community",
       "Public health",
       "Tổ chức"
     ],
-    "correct_answer": 1
+    "answer": 1
   },
   {
     "question": "Giáo dục sức khỏe dựa vào tác động của xã hội và chính sách là:",
-    "answers": [
+    "options": [
       "Interpersonal",
       "Community",
       "Intrapersonal",
       "Personal health literacy",
       "None"
     ],
-    "correct_answer": 1
+    "answer": 1
   },
   {
     "question": "Một ví dụ về giáo dục “Interpersonal” là:",
-    "answers": [
+    "options": [
       "Hướng dẫn tại ghế nha",
       "Bài giảng trực tuyến",
       "Tư vấn cho người chăm sóc bệnh nhân đặc biệt",
       "Video truyền thông",
       "Bài báo chuyên đề"
     ],
-    "correct_answer": 2
+    "answer": 2
   },
   {
     "question": "Nguyên tắc nào sau đây KHÔNG thuộc về giáo dục sức khỏe hiệu quả?",
-    "answers": [
+    "options": [
       "Tạo mối quan hệ tốt",
       "Sử dụng từ ngữ chuyên môn sâu",
       "Dễ hiểu",
       "Tạo động lực",
       "Sự tham gia"
     ],
-    "correct_answer": 1
+    "answer": 1
   },
   {
     "question": "\"Học đi đôi với thực hành\" là nguyên tắc thuộc về:",
-    "answers": [
+    "options": [
       "Giáo dục đại chúng",
       "Bài giảng đơn thuần",
       "Giáo dục sức khỏe",
       "Giáo trình lý thuyết",
       "Thảo luận nhóm"
     ],
-    "correct_answer": 2
+    "answer": 2
   },
   {
     "question": "Biện pháp nào sau đây KHÔNG nằm trong nhóm “giáo dục đại chúng”?",
-    "answers": [
+    "options": [
       "Truyền hình",
       "Báo chí",
       "Hội thảo nhỏ",
       "Radio",
       "Mạng xã hội"
     ],
-    "correct_answer": 2
+    "answer": 2
   },
   {
     "question": "Phương pháp nào thường sử dụng cho nhóm lớn nhưng bị hạn chế về đánh giá việc học?",
-    "answers": [
+    "options": [
       "Thảo luận nhóm",
       "Bài giảng",
       "Đóng vai",
       "Khảo sát",
       "Trò chơi mô phỏng"
     ],
-    "correct_answer": 1
+    "answer": 1
   },
   {
     "question": "Phương pháp “bài giảng kết hợp thảo luận” có ưu điểm gì?",
-    "answers": [
+    "options": [
       "Khán giả không được đặt câu hỏi",
       "Hạn chế khán giả",
       "Tăng mức độ tham gia và làm rõ thông tin",
       "Truyền đạt một chiều",
       "Không cần chuẩn bị câu hỏi"
     ],
-    "correct_answer": 2
+    "answer": 2
   },
   {
     "question": "Phương pháp “nhóm chuyên gia” hiệu quả khi:",
-    "answers": [
+    "options": [
       "Không có người điều phối",
       "Có sự tranh luận từ nhiều quan điểm",
       "Mỗi người trình bày nội dung giống nhau",
       "Không có sự chuẩn bị",
       "Chủ đề đơn giản"
     ],
-    "correct_answer": 1
+    "answer": 1
   },
   {
     "question": "“Đóng vai” KHÔNG phù hợp khi:",
-    "answers": [
+    "options": [
       "Nhóm nhỏ",
       "Tập trung vào kỹ năng",
       "Muốn hiểu góc nhìn người khác",
       "Nhóm quá đông người",
       "Có thời gian dài"
     ],
-    "correct_answer": 3
+    "answer": 3
   },
   {
     "question": "Mục đích chính của khảo sát/bảng kiểm là:",
-    "answers": [
+    "options": [
       "Giao tiếp nhóm",
       "Phản ánh ý kiến nhóm",
       "Cá nhân suy nghĩ độc lập",
       "Tăng chi phí tổ chức",
       "Lấy ý kiến chuyên gia"
     ],
-    "correct_answer": 2
+    "answer": 2
   },
   {
     "question": "Thông điệp chính trong giáo dục sức khỏe răng miệng KHÔNG bao gồm:",
-    "answers": [
+    "options": [
       "Giảm đồ ngọt",
       "Đánh răng với kem chứa Fluor",
       "Khám định kỳ",
       "Sử dụng thuốc giảm đau",
       "Dùng nước có Florua tối ưu"
     ],
-    "correct_answer": 3
+    "answer": 3
   },
   {
     "question": "Lượng Florua tối ưu trong nước là:",
-    "answers": [
+    "options": [
       "0.1 – 0.3 ppm",
       "0.4 – 0.6 ppm",
       "0.7 – 1.2 ppm",
       "1.5 – 2.0 ppm",
       "2.5 – 3.0 ppm"
     ],
-    "correct_answer": 2
+    "answer": 2
   }
 
 ]
