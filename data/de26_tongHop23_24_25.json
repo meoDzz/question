@@ -1,0 +1,541 @@
+[
+  {
+    "question": "Trong mô hình hành vi sức khỏe, yếu tố chuyển hoá niềm tin thành hành vi cụ thể là:",
+    "answers": [
+      "Động cơ",
+      "Cảm xúc",
+      "Kiến thức",
+      "Lý trí",
+      "Áp lực xã hội"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Một lỗi phổ biến khi ghi CPI trong thực tế là:",
+    "answers": [
+      "Không xác định đúng răng đại diện",
+      "Dùng lực thăm dò quá nhẹ",
+      "Dùng đầu dò khác chuẩn WHO",
+      "Không ghi mã vùng X",
+      "Chấm điểm theo răng dễ tiếp cận"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Tuyên truyền sức khỏe răng miệng bằng hình ảnh minh họa hiệu quả vì:",
+    "answers": [
+      "Gây ấn tượng mạnh và dễ ghi nhớ",
+      "Giảm chi phí đào tạo",
+      "Thay thế được giảng viên",
+      "Tiết kiệm thời gian đo lường",
+      "Có thể dùng mã QR"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Một chiến lược sai lầm trong truyền thông nha học đường là:",
+    "answers": [
+      "Chỉ cung cấp kiến thức lý thuyết đơn thuần",
+      "Tổ chức trò chơi có thưởng",
+      "Dùng mô hình miệng thật",
+      "Hướng dẫn từng em chải răng",
+      "Có phụ huynh hỗ trợ"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "CPI không phản ánh chính xác khi:",
+    "answers": [
+      "Bệnh nhân có chảy máu do viêm cấp tính tạm thời",
+      "Túi quanh răng sâu kèm tụt lợi",
+      "Có implant thay thế răng cối",
+      "Người bệnh đã từng điều trị nha chu",
+      "Có chỉnh nha cố định"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Tác dụng quan trọng nhất của chỉ số CPI trong điều tra cộng đồng là:",
+    "answers": [
+      "Phát hiện nhanh mức độ bệnh nha chu phổ biến",
+      "Chẩn đoán phân biệt viêm quanh răng",
+      "Đo chiều cao xương ổ răng",
+      "Đánh giá độ sâu túi bằng X-quang",
+      "Xác định số răng nhai hiệu quả"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Yếu tố nào sau đây là hàng đầu trong việc thay đổi hành vi răng miệng?",
+    "answers": [
+      "Tăng cường nhận thức và tạo động lực nội tại",
+      "Tặng bàn chải miễn phí",
+      "Cưỡng ép học tập",
+      "Phạt khi vi phạm vệ sinh",
+      "Tổ chức thi viết"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Dạng can thiệp nào KHÔNG hiệu quả khi đối tượng chưa có nhận thức về bệnh răng miệng?",
+    "answers": [
+      "Can thiệp hành vi trực tiếp",
+      "Giáo dục kiến thức cơ bản",
+      "Thảo luận nhóm",
+      "Tư vấn cá nhân",
+      "Truyền hình ảnh tổn thương"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Chăm sóc răng miệng ban đầu KHÔNG bao gồm:",
+    "answers": [
+      "Điều trị phục hình cố định",
+      "Giáo dục sức khỏe răng miệng",
+      "Hướng dẫn vệ sinh răng",
+      "Thực hành chải răng đúng cách",
+      "Phát hiện sớm bất thường"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Trong phân loại CPI, ký hiệu mã số '9' có nghĩa là:",
+    "answers": [
+      "Không thể đánh giá do lý do kỹ thuật",
+      "Có viêm quanh implant",
+      "Thiếu răng đại diện",
+      "Túi sâu không xác định",
+      "Không đồng ý kiểm tra"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Khi tiến hành giáo dục nha học đường, mục tiêu sau cùng là:",
+    "answers": [
+      "Hình thành thói quen vệ sinh răng miệng đúng",
+      "Tổ chức các cuộc thi kiến thức",
+      "Tạo báo cáo thành tích",
+      "Giảm chỉ số sâu răng tạm thời",
+      "Giảm số lần đi khám"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Để đánh giá hiệu quả giáo dục sức khoẻ răng miệng, tiêu chí nào quan trọng nhất?",
+    "answers": [
+      "Sự thay đổi hành vi bền vững",
+      "Số buổi tham gia",
+      "Điểm kiểm tra kiến thức",
+      "Sự hài lòng học sinh",
+      "Số tờ rơi phát ra"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Một nguyên tắc 'khó thực hiện nhất' trong mô hình hành vi sức khỏe là:",
+    "answers": [
+      "Duy trì hành vi lâu dài",
+      "Biết bệnh lý là nguy hiểm",
+      "Biết cách vệ sinh đúng",
+      "Hiểu tác dụng của fluoride",
+      "Biết dấu hiệu viêm nướu"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Lý do nên chọn học sinh tiểu học làm đối tượng giáo dục răng miệng là:",
+    "answers": [
+      "Dễ tiếp thu và dễ hình thành thói quen mới",
+      "Có răng sữa dễ thay",
+      "Dễ kiểm tra hơn người lớn",
+      "Thích quà tặng",
+      "Thường bị sâu răng hơn"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Một chiến dịch nha học đường nên kết hợp:",
+    "answers": [
+      "Truyền thông – giáo dục – theo dõi",
+      "Hội thảo chuyên gia",
+      "Đăng bài báo khoa học",
+      "Khám răng tại bệnh viện",
+      "Dạy các kỹ thuật nhổ răng"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Giải thích nào về 'túi nha chu' là đúng nhất?",
+    "answers": [
+      "Khoảng cách giữa lợi và thân răng do tiêu mô bám",
+      "Khoang chứa thức ăn",
+      "Khoang chứa mảng bám cứng",
+      "Khoang giả tạo từ tụt lợi",
+      "Khoang mô mềm giữa hai răng"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Câu nào KHÔNG đúng về chỉ số CPI?",
+    "answers": [
+      "CPI đánh giá từng vùng chứ không từng răng",
+      "CPI không thể hiện tình trạng tiêu xương trực tiếp",
+      "CPI có thể dùng làm tiêu chí theo dõi điều trị",
+      "CPI có thể dùng để xác định nguyên nhân sâu răng",
+      "CPI dùng lực thăm dò nhẹ"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "question": "Một trong các tiêu chí chọn vùng sextant để ghi CPI là:",
+    "answers": [
+      "Có ≥ 2 răng không chỉ định nhổ",
+      "Có túi nha chu sâu nhất",
+      "Dễ tiếp cận nhất",
+      "Có răng cửa giữa",
+      "Không bị vôi"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Tại sao cần đánh giá lại sau giáo dục sức khỏe răng miệng?",
+    "answers": [
+      "Đo lường hiệu quả và điều chỉnh chương trình",
+      "Xác định tỷ lệ thất bại",
+      "Tính giờ công giảng viên",
+      "Thu hồi tài liệu cũ",
+      "Cập nhật trang thiết bị"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Tác động xã hội lớn nhất trong truyền thông nha khoa là:",
+    "answers": [
+      "Ảnh hưởng hành vi của nhóm",
+      "Giảm chi phí điều trị",
+      "Tăng số người đến khám",
+      "Tạo thương hiệu bệnh viện",
+      "Tăng số người dùng chỉ nha khoa"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Yếu tố nào sau đây dễ bị bỏ sót trong đánh giá nha chu bằng CPI?",
+    "answers": [
+      "Tụt lợi không kèm túi",
+      "Chảy máu lợi",
+      "Vôi răng vùng cổ răng",
+      "Túi sâu ≥ 6mm",
+      "Mô mềm phù nề"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Vai trò của các trò chơi trong giáo dục sức khỏe răng miệng là:",
+    "answers": [
+      "Tăng sự hứng thú và ghi nhớ kiến thức",
+      "Giải trí cuối giờ",
+      "Thay cho bài giảng",
+      "Phát thưởng cho trẻ",
+      "Giúp học sinh giảm lo âu"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Giá trị chính của việc dùng mô hình răng giả trong dạy chải răng là:",
+    "answers": [
+      "Tăng khả năng thực hành đúng",
+      "Giảm thời gian giảng bài",
+      "Không cần chải thật",
+      "Có thể dùng nhiều lần",
+      "Thay cho tài liệu giấy"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Một nguyên nhân chủ quan khiến người dân ít đi khám răng định kỳ:",
+    "answers": [
+      "Không thấy đau hoặc triệu chứng",
+      "Không có nha sĩ gần nhà",
+      "Chi phí quá cao",
+      "Không có bảo hiểm",
+      "Thời gian chờ lâu"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Mã CPI nào được ghi khi không có vôi, không túi, nhưng chảy máu sau thăm dò?",
+    "answers": [
+      "1",
+      "0",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Đặc điểm 'hàng rào tâm lý' trong giáo dục sức khoẻ là:",
+    "answers": [
+      "Người học ngại thay đổi, nghi ngờ lợi ích",
+      "Không đọc hiểu tài liệu",
+      "Sợ bị đánh giá sai",
+      "Thiếu thời gian học",
+      "Thiếu phương tiện hỗ trợ"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Trong khảo sát CPI, nếu phát hiện túi sâu 7mm ở một vùng, mã ghi là:",
+    "answers": [
+      "4",
+      "3",
+      "2",
+      "1",
+      "X"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Truyền thông nha khoa cộng đồng hiệu quả nhất khi kết hợp:",
+    "answers": [
+      "Hình ảnh – thực hành – phản hồi",
+      "Bài giảng – văn bản – kiểm tra",
+      "Video – nhạc – trò chơi",
+      "Loa phát thanh – tờ rơi – áp phích",
+      "Sách vở – phim hoạt hình – sân khấu hóa"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Khó khăn lớn nhất khi áp dụng giáo dục sức khỏe răng miệng tại vùng sâu là:",
+    "answers": [
+      "Thiếu nhân lực và phương tiện",
+      "Trình độ dân trí thấp",
+      "Không có điện",
+      "Không có học sinh",
+      "Chi phí quá cao"
+    ],
+    "correct_answer": 0
+  },
+   {
+    "question": "Một lỗi thường gặp khi sử dụng đầu dò WHO là:",
+    "answers": [
+      "Dùng lực thăm dò quá mạnh, gây chảy máu giả",
+      "Chọn răng cửa làm răng đại diện",
+      "Không làm sạch mảng bám trước thăm dò",
+      "Thăm dò cả răng sữa",
+      "Đo túi nha chu bằng mắt thường"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Trong giáo dục nha học đường, sai lầm phổ biến nhất là:",
+    "answers": [
+      "Tập trung vào kiến thức thay vì hành vi",
+      "Không phát tài liệu",
+      "Không có mô hình răng",
+      "Không tặng bàn chải",
+      "Giảng bài quá dài"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "CPI bị ảnh hưởng nhiều nhất bởi yếu tố nào sau đây?",
+    "answers": [
+      "Kỹ thuật và kinh nghiệm người thực hiện",
+      "Chỉ số DMFT",
+      "Sự hợp tác của đối tượng",
+      "Giới tính người khám",
+      "Màu sắc mô nướu"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Mục tiêu chính của mô hình hành vi sức khỏe là:",
+    "answers": [
+      "Thay đổi hành vi lâu dài, tự duy trì",
+      "Cải thiện kiến thức nha khoa",
+      "Tăng số lượt khám răng",
+      "Giảm chi phí nha học đường",
+      "Giảm DMFT ngay lập tức"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Chỉ số CPI có thể bị sai lệch nếu:",
+    "answers": [
+      "Không loại trừ vùng có <2 răng vĩnh viễn",
+      "Đo túi khi đang viêm cấp",
+      "Răng đại diện là răng sâu",
+      "Không dùng đúng vạch đen đầu dò",
+      "Người bệnh bị viêm amidan"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Trong bước lập kế hoạch chương trình giáo dục sức khỏe, bước nào là nền tảng?",
+    "answers": [
+      "Đánh giá nhu cầu và xác định mục tiêu cụ thể",
+      "Tính toán chi phí in ấn",
+      "Chọn bài giảng PowerPoint",
+      "Tìm diễn giả nổi tiếng",
+      "Chọn quà tặng phù hợp"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Một đặc điểm cần lưu ý khi đánh giá chỉ số CPI trên quy mô lớn:",
+    "answers": [
+      "Cần hiệu chuẩn người khám để đảm bảo thống nhất",
+      "Không cần dùng đầu dò WHO",
+      "Chọn bất kỳ răng nào làm đại diện",
+      "Không loại trừ người đeo răng giả",
+      "Chỉ đánh giá 3 sextant đầu"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Phát biểu nào sau đây là KHÔNG đúng về chỉ số CPI?",
+    "answers": [
+      "Phản ánh mức độ mô nha chu bị tổn thương theo vùng",
+      "Chỉ số càng cao thì mức độ tổn thương càng nặng",
+      "Không ghi nhận mức độ lung lay răng",
+      "Cần kết hợp với chỉ số khác để đánh giá sâu răng",
+      "Ghi lại từng túi nha chu theo răng"
+    ],
+    "correct_answer": 4
+  },
+  {
+    "question": "Chăm sóc răng miệng ban đầu KHÔNG nên bao gồm hoạt động nào dưới đây?",
+    "answers": [
+      "Phẫu thuật nha chu nâng cao",
+      "Giáo dục chải răng đúng cách",
+      "Tư vấn về dinh dưỡng hợp lý",
+      "Phát hiện mảng bám sớm",
+      "Dùng fluoride phòng ngừa"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Một khó khăn trong đánh giá hiệu quả chương trình nha học đường là:",
+    "answers": [
+      "Thiếu công cụ đo hành vi thực tế",
+      "Không thể phát tài liệu in màu",
+      "Không có sự hỗ trợ từ nhà tài trợ",
+      "Giáo viên không quan tâm",
+      "Học sinh nghỉ học thường xuyên"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Túi nha chu từ 4–5 mm được xếp vào mức CPI nào?",
+    "answers": [
+      "3",
+      "2",
+      "1",
+      "4",
+      "0"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Việc đo sai lực khi sử dụng đầu dò WHO có thể dẫn tới:",
+    "answers": [
+      "CPI cao giả hoặc thấp giả",
+      "Chẩn đoán sai sâu răng",
+      "Không phát hiện hôi miệng",
+      "Gây tụt lợi nặng",
+      "Không ảnh hưởng nhiều"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Một ví dụ về yếu tố 'tăng cường' trong mô hình hành vi là:",
+    "answers": [
+      "Cha mẹ khen ngợi trẻ khi chải răng",
+      "Trẻ được phát bài tập",
+      "Giáo viên giảng bài",
+      "Tranh vẽ mô tả sâu răng",
+      "Tờ rơi thông tin"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Tỉ lệ vùng có mã CPI = 4 càng cao phản ánh:",
+    "answers": [
+      "Mức độ bệnh nha chu nặng lan rộng",
+      "Thiếu fluoride trong nước uống",
+      "Tăng tỷ lệ sâu men",
+      "Tăng số người có viêm lợi",
+      "Không biết cách dùng chỉ nha khoa"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Một sai lầm khi thực hành giáo dục răng miệng là:",
+    "answers": [
+      "Tập trung vào chỉ số, bỏ qua thói quen",
+      "Dùng hình ảnh mô tả",
+      "Cho học sinh thực hành chải răng",
+      "Lồng ghép trò chơi minh họa",
+      "Có phụ huynh tham gia"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "CPI có thể giúp nhận biết vùng cần can thiệp nha chu bằng cách nào?",
+    "answers": [
+      "Phân tích mã số cao nhất mỗi sextant",
+      "Đếm số răng gãy",
+      "Tính trung bình các chỉ số",
+      "Phân tích ảnh X-quang",
+      "Đo số lần chảy máu"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Phát biểu nào đúng về việc chọn răng đại diện CPI?",
+    "answers": [
+      "Ưu tiên răng hàm số 16, 11, 26, 36, 31, 46 nếu còn",
+      "Chọn răng dễ tiếp cận nhất",
+      "Chọn bất kỳ răng nào còn lại",
+      "Dùng răng cửa dưới làm chính",
+      "Không cần cố định thứ tự chọn"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Một trở ngại thường gặp trong triển khai nha học đường là:",
+    "answers": [
+      "Không thống nhất giữa giáo viên và cán bộ y tế",
+      "Thiếu đầu dò CPI",
+      "Răng sữa mọc chậm",
+      "Không có nước sạch",
+      "Không có bảng chiếu"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Lý do CPI không đánh giá toàn bộ răng là:",
+    "answers": [
+      "Tiết kiệm thời gian và phù hợp cho khảo sát cộng đồng",
+      "Không cần thiết lâm sàng",
+      "Chỉ số này không quan trọng",
+      "Đánh giá từng răng sẽ sai lệch",
+      "Không có dụng cụ"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Khi có mã CPI = 2, hướng xử trí ban đầu là:",
+    "answers": [
+      "Lấy vôi và hướng dẫn vệ sinh răng miệng",
+      "Điều trị nội nha",
+      "Nhổ răng sâu",
+      "Cho kháng sinh",
+      "Không cần can thiệp"
+    ],
+    "correct_answer": 0
+  }
+]

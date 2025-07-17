@@ -1,0 +1,541 @@
+[
+  {
+    "question": "Thời điểm lý tưởng để chải răng là:",
+    "answers": [
+      "Sau ăn và trước khi đi ngủ",
+      "Bất cứ lúc nào",
+      "Trước khi ăn sáng",
+      "Chỉ buổi tối",
+      "Buổi sáng sau khi ngủ dậy"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Phương pháp chải răng Bass biến đổi giúp làm sạch:",
+    "answers": [
+      "Vùng rãnh lợi và kẽ răng",
+      "Mặt nhai",
+      "Mặt trong răng cửa",
+      "Mặt xa răng hàm",
+      "Mặt tiếp xúc với lưỡi"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "CPI là viết tắt của:",
+    "answers": [
+      "Community Periodontal Index",
+      "Clinical Plaque Index",
+      "Caries Protection Initiative",
+      "Complete Periodontal Investigation",
+      "Community Public Index"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Đối tượng nên bắt đầu sử dụng chỉ nha khoa từ độ tuổi:",
+    "answers": [
+      "Khoảng 12 tuổi trở lên",
+      "Trên 30 tuổi",
+      "Trẻ 3 tuổi",
+      "Người có răng giả toàn bộ",
+      "Chỉ người có răng khôn"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Khi mã CPI = 2 nghĩa là:",
+    "answers": [
+      "Có vôi răng, không có túi sâu",
+      "Túi nha chu ≥ 6mm",
+      "Mô nướu bình thường",
+      "Chảy máu khi thăm dò",
+      "Không có răng để đánh giá"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Một trong những nội dung cơ bản của giáo dục sức khỏe răng miệng là:",
+    "answers": [
+      "Thay đổi hành vi chăm sóc răng miệng",
+      "Giảng dạy chuyên sâu nha chu",
+      "Chẩn đoán sâu răng",
+      "Xây dựng phòng khám nha",
+      "Hỗ trợ phẫu thuật"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Cấu trúc chính của bài giáo dục sức khỏe răng miệng gồm:",
+    "answers": [
+      "Mục tiêu – Nội dung – Phương pháp – Đánh giá",
+      "Bảng câu hỏi – Trả lời – Tổng kết",
+      "Chẩn đoán – Điều trị – Theo dõi",
+      "Dặn dò – Kê đơn – Tái khám",
+      "Mở đầu – Kết luận"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Công cụ giáo dục sức khỏe răng miệng có thể bao gồm:",
+    "answers": [
+      "Áp phích, tranh vẽ, video minh họa",
+      "Đèn trám quang trùng hợp",
+      "Bộ dụng cụ nhổ răng",
+      "Gương khám miệng",
+      "X-quang kỹ thuật số"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Một nguyên nhân quan trọng khiến giáo dục sức khỏe răng miệng không hiệu quả là:",
+    "answers": [
+      "Thiếu sự tham gia của cộng đồng",
+      "Không có tài liệu tiếng Anh",
+      "Giảng viên trình độ cao",
+      "Thời lượng quá nhiều",
+      "Không có bảng điểm"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Vạch đen trên đầu dò WHO dùng trong CPI có độ dài:",
+    "answers": [
+      "3.5 – 5.5 mm",
+      "2 – 3 mm",
+      "5 – 7 mm",
+      "0.5 – 1.5 mm",
+      "6 – 8 mm"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Cách đánh giá chỉ số CPI là lấy:",
+    "answers": [
+      "Giá trị cao nhất trong vùng",
+      "Trung bình cộng",
+      "Giá trị thấp nhất",
+      "Điểm răng giữa",
+      "Điểm của răng số 1"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Trẻ em nên được giáo dục sức khỏe răng miệng từ:",
+    "answers": [
+      "Mầm non (3–5 tuổi)",
+      "Lớp 6",
+      "Sau 12 tuổi",
+      "Chỉ khi mọc đủ răng vĩnh viễn",
+      "Không cần"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Loại bàn chải khuyến nghị cho chăm sóc răng miệng ban đầu là:",
+    "answers": [
+      "Lông mềm, đầu nhỏ",
+      "Lông cứng, đầu to",
+      "Đầu xoay điện",
+      "Bàn chải kim loại",
+      "Bàn chải than hoạt tính"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Giáo dục sức khỏe răng miệng KHÔNG nên thực hiện bằng cách:",
+    "answers": [
+      "Tuyên truyền rập khuôn thiếu tương tác",
+      "Sử dụng mô hình miệng giả",
+      "Thảo luận nhóm nhỏ",
+      "Dạy chải răng trực tiếp",
+      "Cho học sinh thực hành"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Vai trò của nước bọt trong chăm sóc răng miệng là:",
+    "answers": [
+      "Trung hòa acid và bảo vệ mô mềm",
+      "Làm tăng vi khuẩn gây sâu răng",
+      "Gây loãng men răng",
+      "Làm hỏng trám răng",
+      "Giảm khả năng nhai"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Nội dung cốt lõi nhất trong giáo dục nha học đường là:",
+    "answers": [
+      "Phòng bệnh và thay đổi hành vi chăm sóc răng miệng",
+      "Dạy cách nhổ răng đúng",
+      "Phân loại nhóm răng",
+      "Xử lý viêm tủy",
+      "Chụp X-quang"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Trong mô hình hành vi sức khỏe răng miệng, yếu tố 'niềm tin' thuộc giai đoạn nào?",
+    "answers": [
+      "Tiền hành động",
+      "Duy trì",
+      "Tái hành động",
+      "Từ bỏ",
+      "Hành động"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Đánh giá hiệu quả giáo dục sức khỏe răng miệng cần dựa vào:",
+    "answers": [
+      "Sự thay đổi hành vi và chỉ số răng miệng",
+      "Số lượng tài liệu phát",
+      "Thời gian giảng",
+      "Điểm danh lớp học",
+      "Tài trợ từ Bộ Y tế"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Tần suất chải răng tối thiểu mỗi ngày là:",
+    "answers": [
+      "2 lần/ngày",
+      "1 lần/ngày",
+      "3 lần/tuần",
+      "Sau mỗi bữa ăn",
+      "Mỗi tối trước ngủ"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "CPI không áp dụng trong trường hợp:",
+    "answers": [
+      "Người không còn ≥2 răng trong một vùng",
+      "Người có túi nha chu",
+      "Người có chảy máu nướu",
+      "Người có răng giả cố định",
+      "Người lớn tuổi"
+    ],
+    "correct_answer": 0
+  },
+   {
+    "question": "Trong phương pháp chải răng Bass biến đổi, góc đặt bàn chải lý tưởng là:",
+    "answers": [
+      "45 độ hướng vào rãnh lợi",
+      "90 độ vuông góc với mặt răng",
+      "60 độ nghiêng vào nướu",
+      "30 độ hướng lên trên",
+      "Nằm ngang trên mặt nhai"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Mã CPI = 3 có ý nghĩa gì trong thực hành lâm sàng?",
+    "answers": [
+      "Túi nha chu nông (4–5 mm), cần hướng dẫn vệ sinh và lấy vôi",
+      "Mô nướu bình thường, chỉ cần theo dõi",
+      "Có vôi răng, chưa có túi nha chu",
+      "Túi nha chu sâu, cần điều trị khẩn cấp",
+      "Chỉ chảy máu nhẹ, không cần điều trị"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Yếu tố KHÔNG thuộc mô hình hành vi sức khỏe răng miệng là:",
+    "answers": [
+      "Chỉ số BMI",
+      "Kiến thức",
+      "Thái độ",
+      "Niềm tin",
+      "Hành vi"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Theo WHO, chỉ số CPI KHÔNG dùng cho răng nào sau đây:",
+    "answers": [
+      "Răng mọc lệch nghiêng >30 độ",
+      "Răng nanh hàm dưới",
+      "Răng cửa hàm trên",
+      "Răng cối nhỏ",
+      "Răng chưa mọc hết"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Trong giáo dục sức khỏe răng miệng, nguyên tắc 'học đi đôi với hành' nghĩa là:",
+    "answers": [
+      "Kết hợp thực hành như chải răng, dùng chỉ nha khoa",
+      "Giảng lý thuyết kỹ càng trước",
+      "Giao bài tập về nhà",
+      "Chỉ kiểm tra bằng trắc nghiệm",
+      "Quan sát thay vì làm"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Cách ghi mã CPI nếu vùng chỉ có 1 răng bị lung lay độ 3 là:",
+    "answers": [
+      "X – không đủ điều kiện chấm điểm",
+      "4 – túi sâu",
+      "1 – có chảy máu",
+      "2 – có vôi răng",
+      "0 – mô nướu bình thường"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Trong dạy học nha học đường, một tiêu chí đánh giá hiệu quả giáo dục là:",
+    "answers": [
+      "Giảm tỷ lệ sâu răng sau 6–12 tháng",
+      "Tăng số học sinh học lý thuyết",
+      "Số lượng tài liệu được phát",
+      "Thời lượng bài giảng",
+      "Mức độ giải trí của hoạt động"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Khi đánh giá một sextant, nếu chỉ có 1 răng cửa di chuyển cấp độ 2, thì:",
+    "answers": [
+      "Không ghi CPI vì không đủ răng",
+      "Ghi CPI = 4",
+      "Ghi CPI = 2",
+      "Ghi CPI = 1",
+      "Ghi CPI = 0"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Răng nào KHÔNG bao giờ là răng đại diện cho CPI?",
+    "answers": [
+      "Răng số 13",
+      "Răng số 17",
+      "Răng số 11",
+      "Răng số 31",
+      "Răng số 44"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Chải răng ngay sau ăn có thể gây hại trong trường hợp:",
+    "answers": [
+      "Vừa dùng thức ăn/đồ uống có tính acid",
+      "Sau bữa cơm nhiều tinh bột",
+      "Sau ăn trứng",
+      "Sau ăn thịt đỏ",
+      "Sau ăn cá"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Tác dụng quan trọng nhất của việc chải răng đúng cách là:",
+    "answers": [
+      "Loại bỏ mảng bám vi khuẩn trước khi hình thành cao răng",
+      "Tạo mùi thơm miệng",
+      "Giảm đau tủy răng",
+      "Tăng tốc độ mọc răng",
+      "Kích thích lợi phát triển"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Một trong các nội dung quan trọng của mô hình hành vi là:",
+    "answers": [
+      "Chuyển đổi từ nhận thức sang hành động",
+      "Tạo áp lực trong truyền thông",
+      "Thay đổi cấu trúc răng",
+      "Tự học lý thuyết",
+      "Không kiểm soát đầu ra"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Trong thực hành, chỉ số CPI thường bỏ qua các răng:",
+    "answers": [
+      "Mất do nguyên nhân không nha chu",
+      "Có răng sữa cạnh bên",
+      "Đang điều trị nội nha",
+      "Đang trám tạm",
+      "Có thân răng dài bất thường"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "CPI đánh giá mô nha chu dựa vào các yếu tố:",
+    "answers": [
+      "Chảy máu, vôi răng và độ sâu túi",
+      "Tụt lợi và tiêu xương",
+      "Đau khi nhai",
+      "Sâu răng và lung lay",
+      "Khớp cắn ngược"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Nguyên tắc xây dựng thông điệp sức khỏe răng miệng hiệu quả là:",
+    "answers": [
+      "Ngắn gọn, dễ nhớ, dễ thực hiện",
+      "Chi tiết, chuyên sâu, khoa học",
+      "Mang tính đe dọa cao",
+      "Cố định, không cần cập nhật",
+      "Được trình bày phức tạp"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Sextant 3 trong CPI bao gồm các răng:",
+    "answers": [
+      "Răng 26–27 (hàm trên trái)",
+      "Răng 31–41",
+      "Răng 46–47",
+      "Răng 36–37",
+      "Răng cửa dưới"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Trong giáo dục nha học đường, nhóm học sinh dễ tiếp nhận hành vi mới nhất là:",
+    "answers": [
+      "Mẫu giáo và tiểu học",
+      "Trung học cơ sở",
+      "Trung học phổ thông",
+      "Sinh viên",
+      "Người trưởng thành"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Yếu tố nào sau đây ảnh hưởng trực tiếp đến chỉ số CPI?",
+    "answers": [
+      "Lực thăm dò không đúng tiêu chuẩn",
+      "Số lần ăn/ngày",
+      "Số lượng răng khôn",
+      "Giới tính người khám",
+      "Tình trạng nhồi nhét thức ăn"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Một chương trình giáo dục răng miệng hiệu quả nên kéo dài:",
+    "answers": [
+      "Tối thiểu 6 tháng để có hiệu ứng hành vi",
+      "1 tuần để đạt đủ kiến thức",
+      "2 ngày để học cấp tốc",
+      "Chỉ 1 buổi để tránh nhàm chán",
+      "Không cần tái giảng"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Vai trò của cán bộ y tế trong giáo dục răng miệng là:",
+    "answers": [
+      "Truyền thông – Đánh giá – Hỗ trợ hành vi đúng",
+      "Chẩn đoán và điều trị nội nha",
+      "Cắm implant và chỉnh nha",
+      "Giám sát dùng thuốc kháng sinh",
+      "Cung cấp chỉ nha khoa miễn phí"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Chỉ số CPI có thể kết hợp với chỉ số nào để đánh giá toàn diện tình trạng răng miệng?",
+    "answers": [
+      "DMFT",
+      "BMI",
+      "TPI",
+      "XQG",
+      "OHI-G"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Trẻ em sử dụng kem đánh răng có fluoride nồng độ nào là phù hợp?",
+    "answers": [
+      "1000 ppm cho trẻ ≥ 6 tuổi",
+      "1500 ppm mọi độ tuổi",
+      "500 ppm dưới 2 tuổi",
+      "Không nên dùng fluoride",
+      "2500 ppm cho trẻ sâu răng"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Trong CPI, nếu vùng có răng số 16 bị mất thì răng đại diện tiếp theo là:",
+    "answers": [
+      "Răng số 17 (nếu còn)",
+      "Răng số 15",
+      "Không ghi CPI",
+      "Ghi X",
+      "Răng đối diện"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Tỉ lệ người có túi ≥ 6 mm theo điều tra CPI là dấu hiệu của:",
+    "answers": [
+      "Nha chu nặng lan tỏa",
+      "Viêm lợi đơn thuần",
+      "Sâu răng nhẹ",
+      "Rối loạn mọc răng",
+      "Trám răng sai kỹ thuật"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Tăng chỉ số CPI theo độ tuổi phản ánh điều gì?",
+    "answers": [
+      "Tích lũy bệnh lý nha chu theo thời gian",
+      "Giảm chăm sóc cá nhân",
+      "Rối loạn men răng",
+      "Giảm tuyến nước bọt",
+      "Tăng tiêu xương do chấn thương"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Phương pháp vệ sinh kẽ răng hiệu quả nhất là:",
+    "answers": [
+      "Dùng chỉ nha khoa đúng cách",
+      "Chải răng mạnh",
+      "Súc miệng nước muối",
+      "Xỉa răng bằng tăm tre",
+      "Dùng bàn chải điện"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Rào cản tâm lý lớn nhất khi giáo dục răng miệng cho người lớn tuổi là:",
+    "answers": [
+      "Ngại thay đổi thói quen lâu năm",
+      "Không có dụng cụ",
+      "Không nghe được",
+      "Không đọc được tài liệu",
+      "Không được hỗ trợ tài chính"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Điểm khác biệt giữa giáo dục sức khỏe răng miệng chủ động và thụ động là:",
+    "answers": [
+      "Có sự tham gia của người học trong chủ động",
+      "Thụ động dài hơn",
+      "Thụ động sử dụng video nhiều hơn",
+      "Chủ động không có kiểm tra lại",
+      "Thụ động dễ thực hiện hơn"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Răng lung lay cấp độ III theo phân loại Miller có đặc điểm:",
+    "answers": [
+      "Di động >1mm theo chiều ngang và theo chiều dọc",
+      "Di động <1mm theo chiều ngang",
+      "Không di động nhưng tụt lợi",
+      "Lung lay khi nhai cứng",
+      "Di chuyển nghiêng ra ngoài cung hàm"
+    ],
+    "correct_answer": 0
+  }
+]

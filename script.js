@@ -50,7 +50,10 @@ document.addEventListener('DOMContentLoaded', () => {
         'de21_GiaoDucSucKhoe.json',
         'de22_GiaoDucSucKhoe.json',
         'de23_ChiSoNhaChu.json',
-        'de24_ChiSoNhaChu.json'
+        'de24_ChiSoNhaChu.json',
+        'de25_tongHop23_24_25.json',
+        'de26_tongHop23_24_25.json'
+        
     ];
     // --- KẾT THÚC CẬP NHẬT ---
 
