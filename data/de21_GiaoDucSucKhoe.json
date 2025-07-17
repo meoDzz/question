@@ -1,222 +1,222 @@
 [
   {
     "question": "Giáo dục sức khỏe răng miệng là gì?",
-    "answers": [
+    "options": [
       "Quá trình cung cấp kiến thức và kỹ năng giúp người dân tự chăm sóc răng miệng",
       "Tuyên truyền về vệ sinh cá nhân nói chung",
       "Khám răng định kỳ tại nha khoa",
       "Chỉ điều trị các bệnh lý răng miệng",
       "Hướng dẫn người bệnh sử dụng thuốc súc miệng"
     ],
-    "correct_answer": 0
+    "answer": 0
   },
   {
     "question": "Mục tiêu chính của giáo dục sức khỏe răng miệng là:",
-    "answers": [
+    "options": [
       "Giảm tỉ lệ sâu răng và nha chu",
       "Tăng số lượng bác sĩ nha",
       "Phát triển ngành công nghiệp kem đánh răng",
       "Giảm chi phí điều trị nội nha",
       "Chỉ thực hiện trong trường học"
     ],
-    "correct_answer": 0
+    "answer": 0
   },
   {
     "question": "Đối tượng cần ưu tiên trong giáo dục sức khoẻ răng miệng là:",
-    "answers": [
+    "options": [
       "Trẻ em",
       "Người trưởng thành",
       "Người cao tuổi",
       "Nhân viên y tế",
       "Cả trẻ em và người cao tuổi"
     ],
-    "correct_answer": 4
+    "answer": 4
   },
   {
     "question": "Một trong các phương pháp giáo dục sức khỏe răng miệng là:",
-    "answers": [
+    "options": [
       "Tuyên truyền qua tranh ảnh, áp phích",
       "Khám tổng quát định kỳ",
       "Cấp phát thuốc miễn phí",
       "Chụp X-quang răng",
       "Trám răng phòng ngừa"
     ],
-    "correct_answer": 0
+    "answer": 0
   },
   {
     "question": "Giáo dục sức khỏe răng miệng có thể được thực hiện ở đâu?",
-    "answers": [
+    "options": [
       "Trường học",
       "Cộng đồng",
       "Nha khoa",
       "Nhà riêng",
       "Tất cả các nơi trên"
     ],
-    "correct_answer": 4
+    "answer": 4
   },
   {
     "question": "Yếu tố quan trọng nhất trong thay đổi hành vi chăm sóc răng miệng là:",
-    "answers": [
+    "options": [
       "Kiến thức",
       "Thái độ",
       "Thói quen",
       "Ý thức tự giác",
       "Ảnh hưởng xã hội"
     ],
-    "correct_answer": 3
+    "answer": 3
   },
   {
     "question": "Biện pháp phòng bệnh răng miệng cơ bản nhất là:",
-    "answers": [
+    "options": [
       "Đánh răng đúng cách",
       "Uống thuốc bổ sung fluor",
       "Dùng chỉ nha khoa",
       "Cạo vôi răng định kỳ",
       "Trám răng ngừa sâu"
     ],
-    "correct_answer": 0
+    "answer": 0
   },
   {
     "question": "Giáo dục sức khỏe răng miệng thuộc lĩnh vực:",
-    "answers": [
+    "options": [
       "Y tế dự phòng",
       "Nha khoa điều trị",
       "Chẩn đoán hình ảnh",
       "Phẫu thuật chỉnh hình",
       "Tư vấn tâm lý"
     ],
-    "correct_answer": 0
+    "answer": 0
   },
   {
     "question": "Trong giáo dục sức khỏe răng miệng, hình thức nào sau đây là nhóm?",
-    "answers": [
+    "options": [
       "Tổ chức hội thảo tại trường",
       "Cá nhân tự học ở nhà",
       "Xem video trên mạng",
       "Đi khám răng định kỳ",
       "Đọc tờ rơi y tế"
     ],
-    "correct_answer": 0
+    "answer": 0
   },
   {
     "question": "Hành vi chăm sóc răng miệng đúng cần hình thành từ:",
-    "answers": [
+    "options": [
       "Tuổi nhỏ",
       "Sau tuổi trưởng thành",
       "Khi có bệnh lý răng miệng",
       "Sau khi được điều trị nội nha",
       "Từ người lớn tuổi"
     ],
-    "correct_answer": 0
+    "answer": 0
   },
   {
     "question": "Chải răng đúng cách giúp phòng tránh:",
-    "answers": [
+    "options": [
       "Sâu răng và viêm lợi",
       "Tiêu xương hàm",
       "Viêm tủy cấp",
       "Lệch khớp cắn",
       "Răng mọc lệch"
     ],
-    "correct_answer": 0
+    "answer": 0
   },
   {
     "question": "Một trong những nội dung chính của giáo dục sức khoẻ răng miệng là:",
-    "answers": [
+    "options": [
       "Tạo động cơ cho cá nhân thực hiện chăm sóc răng miệng",
       "Khám răng định kỳ hằng tháng",
       "Điều trị bệnh lý nha chu",
       "Hướng dẫn nhổ răng tại nhà",
       "Hướng dẫn trám răng"
     ],
-    "correct_answer": 0
+    "answer": 0
   },
   {
     "question": "Tần suất chải răng được khuyến cáo là:",
-    "answers": [
+    "options": [
       "Ít nhất 2 lần mỗi ngày",
       "Mỗi tuần 1 lần",
       "Trước khi đi ngủ",
       "Mỗi khi ăn xong",
       "Chỉ buổi sáng"
     ],
-    "correct_answer": 0
+    "answer": 0
   },
   {
     "question": "Một chương trình giáo dục sức khỏe răng miệng hiệu quả cần:",
-    "answers": [
+    "options": [
       "Lồng ghép trong hoạt động cộng đồng",
       "Chỉ triển khai trong bệnh viện",
       "Chỉ hướng tới người trưởng thành",
       "Chủ yếu qua mạng xã hội",
       "Phát tờ rơi là đủ"
     ],
-    "correct_answer": 0
+    "answer": 0
   },
   {
     "question": "Tuyên truyền răng miệng nên được thực hiện bởi:",
-    "answers": [
+    "options": [
       "Nhân viên y tế và giáo viên",
       "Chỉ nha sĩ",
       "Chính quyền địa phương",
       "Người bệnh tự chia sẻ",
       "Bác sĩ phẫu thuật"
     ],
-    "correct_answer": 0
+    "answer": 0
   },
   {
     "question": "Một biểu hiện hành vi chăm sóc răng miệng tốt là:",
-    "answers": [
+    "options": [
       "Sử dụng chỉ nha khoa hằng ngày",
       "Đánh răng sau mỗi bữa ăn",
       "Đi khám răng mỗi năm một lần",
       "Dùng kem đánh răng có fluor",
       "Cả a, b và d đều đúng"
     ],
-    "correct_answer": 4
+    "answer": 4
   },
   {
     "question": "Chương trình giáo dục sức khỏe răng miệng trong trường học giúp:",
-    "answers": [
+    "options": [
       "Hình thành thói quen chăm sóc từ sớm",
       "Giảm nhu cầu nha khoa điều trị",
       "Tăng nhận thức học sinh",
       "Cả 3 câu trên đều đúng",
       "Không tác động lâu dài"
     ],
-    "correct_answer": 3
+    "answer": 3
   },
   {
     "question": "Súc miệng sau khi ăn giúp:",
-    "answers": [
+    "options": [
       "Làm sạch thức ăn thừa",
       "Giảm nguy cơ sâu răng",
       "Giảm mảng bám",
       "Tươi mát hơi thở",
       "Tất cả các đáp án trên"
     ],
-    "correct_answer": 4
+    "answer": 4
   },
   {
     "question": "Fluor có vai trò gì trong phòng bệnh răng miệng?",
-    "answers": [
+    "options": [
       "Tăng độ cứng men răng",
       "Giúp răng sáng bóng",
       "Khử mùi hôi miệng",
       "Chống viêm lợi",
       "Gây tê răng"
     ],
-    "correct_answer": 0
+    "answer": 0
   },
   {
     "question": "Thời điểm tốt nhất để chải răng là:",
-    "answers": [
+    "options": [
       "Sau khi ăn và trước khi ngủ",
       "Trước khi ăn sáng",
       "Giữa buổi sáng",
       "Sau buổi trưa",
       "Trước khi đi học"
     ],
-    "correct_answer": 0
+    "answer": 0
   }
 ]
