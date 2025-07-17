@@ -1,7 +1,7 @@
 [
   {
     "question": "Trong các mô hình thay đổi hành vi sức khỏe, mô hình nào được ứng dụng rộng rãi nhất trong giáo dục sức khỏe răng miệng hiện nay?",
-    "answers": [
+    "options": [
       "Mô hình niềm tin sức khỏe (HBM)",
       "Mô hình hành vi theo lý thuyết xã hội học",
       "Mô hình giai đoạn thay đổi hành vi (TTM)",
@@ -9,11 +9,11 @@
       "Mô hình học thuyết nhu cầu của Maslow",
       "Mô hình cải biến kiến thức của Bloom"
     ],
-    "correct_answer": 0
+    "answer": 0
   },
   {
     "question": "Yếu tố nào sau đây KHÔNG thuộc thành phần chính của mô hình niềm tin sức khỏe (HBM)?",
-    "answers": [
+    "options": [
       "Cảm nhận nguy cơ",
       "Cảm nhận mức độ nghiêm trọng",
       "Cảm nhận lợi ích",
@@ -21,11 +21,11 @@
       "Cảm nhận sự tự tin bản thân",
       "Tình trạng tài chính cá nhân"
     ],
-    "correct_answer": 5
+    "answer": 5
   },
   {
     "question": "Trong giáo dục sức khỏe răng miệng, giai đoạn khó khăn nhất để can thiệp là:",
-    "answers": [
+    "options": [
       "Tiền suy nghĩ (pre-contemplation)",
       "Suy nghĩ (contemplation)",
       "Chuẩn bị (preparation)",
@@ -33,33 +33,33 @@
       "Duy trì (maintenance)",
       "Tái phát (relapse)"
     ],
-    "correct_answer": 0
+    "answer": 0
   },
   {
     "question": "Điều nào sau đây là MỆNH ĐỀ SAI trong lập kế hoạch truyền thông giáo dục sức khỏe răng miệng?",
-    "answers": [
+    "options": [
       "Xác định mục tiêu rõ ràng",
       "Lựa chọn kênh truyền thông đại chúng duy nhất",
       "Phân tích nhu cầu đối tượng đích",
       "Đánh giá hiệu quả sau can thiệp",
       "Tổ chức thực hiện theo lộ trình"
     ],
-    "correct_answer": 1
+    "answer": 1
   },
   {
     "question": "Theo tài liệu, nội dung nào sau đây là phần mở rộng nâng cao trong giáo dục sức khỏe răng miệng cấp cộng đồng?",
-    "answers": [
+    "options": [
       "Can thiệp đa tầng (trường học, gia đình, truyền thông)",
       "Chỉ phát tờ rơi",
       "Chỉ tổ chức khám nha miễn phí",
       "Giới thiệu nha sĩ tư nhân",
       "Thực hiện điều trị chuyên sâu không giáo dục"
     ],
-    "correct_answer": 0
+    "answer": 0
   },
   {
     "question": "Chỉ số nào được sử dụng phổ biến để đánh giá hiệu quả chương trình chăm sóc răng miệng học đường?",
-    "answers": [
+    "options": [
       "DMFT",
       "CPI",
       "OHI-S",
@@ -67,11 +67,11 @@
       "PI (plaque index)",
       "API (approximal plaque index)"
     ],
-    "correct_answer": 0
+    "answer": 0
   },
   {
     "question": "Trong việc đánh giá một chương trình giáo dục răng miệng, chỉ số nào phản ánh MẢNG BÁM răng nhiều nhất?",
-    "answers": [
+    "options": [
       "PI (Plaque Index)",
       "OHI-S",
       "DMFT",
@@ -79,11 +79,11 @@
       "BOP",
       "CPI"
     ],
-    "correct_answer": 0
+    "answer": 0
   },
   {
     "question": "Điều nào sau đây đúng khi thiết kế chương trình giáo dục răng miệng cho vùng dân tộc thiểu số?",
-    "answers": [
+    "options": [
       "Phải phù hợp văn hóa và ngôn ngữ địa phương",
       "Không cần hình ảnh minh họa",
       "Chỉ cần video có phụ đề",
@@ -91,11 +91,11 @@
       "Chuyển giao trực tuyến là đủ",
       "Tập trung hoàn toàn vào học sinh nam"
     ],
-    "correct_answer": 0
+    "answer": 0
   },
   {
     "question": "Một chương trình có hiệu quả cao khi áp dụng các nguyên tắc giáo dục sau, NGOẠI TRỪ:",
-    "answers": [
+    "options": [
       "Tham gia chủ động của người học",
       "Giảng viên độc quyền truyền đạt kiến thức",
       "Nội dung phù hợp trình độ người học",
@@ -103,11 +103,11 @@
       "Đánh giá thường xuyên",
       "Tăng cường thực hành lặp lại"
     ],
-    "correct_answer": 1
+    "answer": 1
   },
   {
     "question": "Trong chiến lược truyền thông – giáo dục sức khỏe, yếu tố 'kênh truyền thông' được hiểu là:",
-    "answers": [
+    "options": [
       "Phương tiện chuyển tải thông tin đến người nhận",
       "Nội dung thông điệp",
       "Người phát tin",
@@ -115,44 +115,44 @@
       "Phản hồi từ cộng đồng",
       "Lịch trình truyền thông"
     ],
-    "correct_answer": 0
+    "answer": 0
   },
   {
     "question": "Giáo dục sức khỏe răng miệng cho trẻ 3–5 tuổi nên tập trung vào:",
-    "answers": [
+    "options": [
       "Hình ảnh trực quan, kể chuyện và thực hành đơn giản",
       "Bài giảng dài và lý thuyết chuyên sâu",
       "Phân tích các chỉ số nha chu",
       "Cảnh báo tác hại của fluor dư thừa",
       "Phân tích dữ liệu sức khỏe răng miệng"
     ],
-    "correct_answer": 0
+    "answer": 0
   },
   {
     "question": "Mục tiêu cuối cùng của giáo dục sức khỏe răng miệng không chỉ là kiến thức mà là:",
-    "answers": [
+    "options": [
       "Thay đổi hành vi bền vững",
       "Tăng số người khám nha",
       "Giảm chi phí y tế",
       "Nâng cao kỹ thuật nha khoa",
       "Tuyên truyền rộng rãi"
     ],
-    "correct_answer": 0
+    "answer": 0
   },
   {
     "question": "Yếu tố nào sau đây KHÔNG phải là rào cản trong giáo dục răng miệng cộng đồng?",
-    "answers": [
+    "options": [
       "Thiếu nhân lực y tế",
       "Thái độ thờ ơ từ cộng đồng",
       "Sự hỗ trợ của chính quyền",
       "Khó khăn về ngôn ngữ/văn hóa",
       "Thiếu tài liệu phù hợp"
     ],
-    "correct_answer": 2
+    "answer": 2
   },
   {
     "question": "Một chiến dịch giáo dục răng miệng muốn thay đổi hành vi cần tối thiểu trải qua bao nhiêu giai đoạn?",
-    "answers": [
+    "options": [
       "5",
       "3",
       "2",
@@ -160,11 +160,11 @@
       "1",
       "6"
     ],
-    "correct_answer": 0
+    "answer": 0
   },
   {
     "question": "Trong các loại hình truyền thông sức khỏe, loại nào giúp thay đổi nhận thức sâu nhất?",
-    "answers": [
+    "options": [
       "Truyền thông trực tiếp (tương tác)",
       "Tờ rơi",
       "Phim hoạt hình",
@@ -172,61 +172,61 @@
       "Bài đăng mạng xã hội",
       "Thông báo loa phát thanh"
     ],
-    "correct_answer": 0
+    "answer": 0
   },
   {
     "question": "Tại sao cần đánh giá sau chương trình giáo dục răng miệng?",
-    "answers": [
+    "options": [
       "Để đo lường hiệu quả, điều chỉnh nội dung và cải tiến chương trình",
       "Để xin tài trợ lần sau",
       "Để thống kê số người tham gia",
       "Để chia thưởng nhân viên",
       "Không bắt buộc, chỉ hình thức"
     ],
-    "correct_answer": 0
+    "answer": 0
   },
   {
     "question": "Điều nào sau đây đúng về fluor trong giáo dục nha học đường?",
-    "answers": [
+    "options": [
       "Fluor trong nước uống và kem đánh răng đều hỗ trợ ngừa sâu răng",
       "Chỉ fluor dạng uống mới có hiệu quả",
       "Fluor gây nhiễm độc nếu dùng ít",
       "Không nên dùng fluor cho trẻ nhỏ",
       "Chỉ nha sĩ mới có thể chỉ định fluor"
     ],
-    "correct_answer": 0
+    "answer": 0
   },
   {
     "question": "Lý do chính khiến một chương trình giáo dục thất bại là:",
-    "answers": [
+    "options": [
       "Không phù hợp với đối tượng đích",
       "Thiếu tài trợ",
       "Không đủ tài liệu in ấn",
       "Không có báo cáo",
       "Không có truyền hình đưa tin"
     ],
-    "correct_answer": 0
+    "answer": 0
   },
   {
     "question": "Tài liệu giáo dục răng miệng cần được thiết kế sao cho:",
-    "answers": [
+    "options": [
       "Ngắn gọn, dễ hiểu, nhiều hình ảnh minh họa",
       "Chứa toàn bộ thuật ngữ y học",
       "Chỉ toàn văn bản dài",
       "Ưu tiên kỹ thuật nha khoa sâu",
       "Viết theo văn bản pháp quy"
     ],
-    "correct_answer": 0
+    "answer": 0
   },
   {
     "question": "Một ví dụ điển hình về thay đổi hành vi răng miệng thành công ở cấp quốc gia là:",
-    "answers": [
+    "options": [
       "Chương trình chải răng có giám sát tại Nhật Bản",
       "Chiến dịch giảm giá kem đánh răng ở Mỹ",
       "Thay đổi khẩu hiệu quảng cáo ở Pháp",
       "Chương trình sâu răng học đường ở Ấn Độ không hiệu quả",
       "Đẩy mạnh điều trị nội nha tại Anh"
     ],
-    "correct_answer": 0
+    "answer": 0
   }
 ]
