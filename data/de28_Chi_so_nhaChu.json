@@ -1,0 +1,442 @@
+[
+  {
+    "question": "Câu 1: Một chỉ số nha khoa lý tưởng cần phải:",
+    "options": [
+      "A. Dễ dùng và tốn nhiều thời gian",
+      "B. Khó tính toán để chuyên sâu",
+      "C. Được bệnh nhân từ chối sử dụng",
+      "D. Không nhạy cảm với thay đổi nhỏ",
+      "E. Rõ ràng, đáng tin cậy, dễ chấp nhận"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu 2: Chỉ số nào được coi là 'không hoàn nguyên'?",
+    "options": [
+      "A. Chỉ số viêm nướu",
+      "B. Chỉ số mảng bám",
+      "C. Chỉ số sâu răng",
+      "D. Chỉ số chảy máu nướu",
+      "E. Tất cả đều sai"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 3: Chỉ số tích lũy là:",
+    "options": [
+      "A. Đo tình trạng hiện tại",
+      "B. Đo sự hiện diện mảng bám",
+      "C. Đo điều kiện không thể thay đổi",
+      "D. Đo tổng thể tình trạng quá khứ và hiện tại",
+      "E. Chỉ dùng trong lâm sàng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu 4: Trong điều tra dịch tễ, chỉ số nha chu có thể dùng để:",
+    "options": [
+      "A. Đánh giá bệnh nhân cá nhân",
+      "B. Tính tỷ lệ mắc bệnh cộng đồng",
+      "C. Lựa chọn phương pháp điều trị cá nhân",
+      "D. Không có ứng dụng rõ ràng",
+      "E. Tất cả đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 5: Chỉ số nướu GI của Loe và Silness không đánh giá:",
+    "options": [
+      "A. Màu sắc nướu",
+      "B. Chảy máu khi thăm khám",
+      "C. Viêm nướu",
+      "D. Mất bám dính",
+      "E. Độ săn chắc"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu 6: GI được đánh giá trên bao nhiêu mặt răng/mỗi răng?",
+    "options": [
+      "A. 2 mặt",
+      "B. 4 mặt",
+      "C. 3 mặt",
+      "D. 6 mặt",
+      "E. Chỉ 1 mặt"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 7: Chỉ số GI đánh giá theo thang điểm:",
+    "options": [
+      "A. 0–5",
+      "B. 0–4",
+      "C. 0–3",
+      "D. 1–5",
+      "E. 1–3"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 8: Điểm GI từ 2.1–3.0 tương ứng với:",
+    "options": [
+      "A. Không viêm",
+      "B. Viêm nướu nhẹ",
+      "C. Viêm nướu trung bình",
+      "D. Viêm nướu nặng",
+      "E. Mất răng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu 9: Chỉ số PI của Russell đánh giá:",
+    "options": [
+      "A. Sâu răng",
+      "B. Mức độ nhiễm fluor",
+      "C. Tình trạng bệnh nha chu",
+      "D. Sai khớp cắn",
+      "E. Không thuộc nha khoa"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 10: Thang điểm PI Russell nhảy từ 2 → 6 nhằm:",
+    "options": [
+      "A. Phân biệt viêm nướu và viêm nha chu",
+      "B. Cho dễ nhớ",
+      "C. Tăng độ chính xác thống kê",
+      "D. Giảm độ sai lệch giữa người khảo sát",
+      "E. Không có lý do"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu 11: Chỉ số OHI-S gồm mấy thành phần?",
+    "options": [
+      "A. 1 - Chỉ số cao răng",
+      "B. 2 - Mảng bám và cao răng",
+      "C. 3 - Mảng bám, viêm nướu, chảy máu",
+      "D. 4 - VSRM, CPI, PI, GI",
+      "E. Chỉ số viêm nướu và túi nha chu"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 12: Tác giả của chỉ số OHI-S là:",
+    "options": [
+      "A. Loe và Silness",
+      "B. Russell",
+      "C. Greene và Vermillion",
+      "D. Dean",
+      "E. WHO"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 13: OHI-S sử dụng bao nhiêu răng chỉ số?",
+    "options": [
+      "A. 2 răng",
+      "B. 4 răng",
+      "C. 6 răng",
+      "D. 8 răng",
+      "E. 10 răng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 14: Trong chỉ số OHI-S, răng cối được khám ở mặt nào?",
+    "options": [
+      "A. Mặt nhai",
+      "B. Mặt trong răng hàm dưới, mặt ngoài răng hàm trên",
+      "C. Mặt xa",
+      "D. Mặt gần",
+      "E. Tất cả các mặt"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 15: Trong OHI-S, răng đang bọc mão sẽ:",
+    "options": [
+      "A. Được khám như bình thường",
+      "B. Không khám và không thay thế",
+      "C. Được thay bằng răng tương ứng còn lại",
+      "D. Ghi nhận giá trị 0",
+      "E. Ghi nhận là mất răng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 16: Trong chỉ số mảng bám DI-S, điểm 2 nghĩa là:",
+    "options": [
+      "A. Không có mảng bám",
+      "B. Có mảng <1/3 bề mặt răng",
+      "C. Có mảng >1/3 và <2/3 bề mặt răng",
+      "D. Có mảng >2/3 bề mặt răng",
+      "E. Mảng bám toàn bộ mặt răng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 17: Trong chỉ số cao răng CI-S, điểm 3 nghĩa là:",
+    "options": [
+      "A. Không có cao răng",
+      "B. Cao răng dưới nướu ít",
+      "C. Cao răng >2/3 bề mặt răng và nhiều cao dưới nướu",
+      "D. Cao răng bám cổ răng <1/3",
+      "E. Cao răng phủ mặt nhai"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 18: Điểm VSRM tốt tương ứng với chỉ số OHI-S bao nhiêu?",
+    "options": [
+      "A. 0–0.6",
+      "B. 1.3–3.0",
+      "C. 3.1–6.0",
+      "D. 0–1.2",
+      "E. >3.1"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu 19: Tình trạng 'không viêm' theo GI là:",
+    "options": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3",
+      "E. 4"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu 20: Theo Russell, điểm PI 0–0.2 nghĩa là:",
+    "options": [
+      "A. Viêm nướu nhẹ",
+      "B. Viêm nướu nặng",
+      "C. Giai đoạn cuối",
+      "D. Bình thường",
+      "E. Mất răng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu 21: CPI-TN dùng để:",
+    "options": [
+      "A. Đánh giá chỉ số fluor",
+      "B. Xác định mô hình điều trị nha chu cho cá nhân",
+      "C. Tính toán nhu cầu điều trị nha chu trong cộng đồng",
+      "D. Đánh giá viêm nướu mức độ nhẹ",
+      "E. Đánh giá khớp cắn"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 22: Chỉ số CPI-TN sử dụng các răng chỉ số nào?",
+    "options": [
+      "A. Răng cửa hàm dưới",
+      "B. Răng nanh và răng cửa",
+      "C. R16, R11, R26, R36, R31, R46",
+      "D. Tất cả các răng còn tồn tại",
+      "E. Chỉ răng số 6"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 23: Khi không có răng chỉ số ở một sextant, CPI-TN xử lý thế nào?",
+    "options": [
+      "A. Ghi giá trị 0",
+      "B. Bỏ qua sextant đó",
+      "C. Khám tất cả răng còn lại và ghi chỉ số cao nhất",
+      "D. Lấy chỉ số thấp nhất",
+      "E. Ghi là mất răng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 24: CPI-TN, mức điểm 1 có ý nghĩa:",
+    "options": [
+      "A. Túi nha chu sâu > 5.5 mm",
+      "B. Chảy máu nướu khi thăm khám",
+      "C. Cao răng dưới nướu",
+      "D. Mô nha chu hoàn toàn bình thường",
+      "E. Tất cả đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 25: Theo CPI-TN, điểm số 2 nghĩa là:",
+    "options": [
+      "A. Chỉ có chảy máu",
+      "B. Có cao răng và mảng bám nhưng túi < 3.5 mm",
+      "C. Túi từ 3.5–5.5 mm",
+      "D. Túi > 5.5 mm",
+      "E. Mất răng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 26: Điểm số 3 trong CPI-TN tương ứng với:",
+    "options": [
+      "A. Không cần điều trị",
+      "B. Cần hướng dẫn vệ sinh răng miệng",
+      "C. Túi nha chu từ 3.5–5.5 mm",
+      "D. Răng lung lay cấp độ 2",
+      "E. Có mảng bám nhẹ"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 27: Ưu điểm của CPI-TN là:",
+    "options": [
+      "A. Chỉ dùng trong nghiên cứu",
+      "B. Phức tạp, mất thời gian",
+      "C. Đơn giản, nhanh, thống nhất quốc tế",
+      "D. Đánh giá được viêm nha chu mạn",
+      "E. Đánh giá chính xác mô nha chu ở từng vị trí"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 28: Nhược điểm của CPI-TN là:",
+    "options": [
+      "A. Không dùng được trong cộng đồng",
+      "B. Không ghi nhận vị trí nướu, không đánh giá phá hủy mô nha chu trong quá khứ",
+      "C. Không đáng tin cậy",
+      "D. Tốn nhiều thời gian",
+      "E. Gây đau cho bệnh nhân"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 29: Dean’s index đánh giá:",
+    "options": [
+      "A. Mức độ sâu răng",
+      "B. Viêm nướu",
+      "C. Fluorosis",
+      "D. Chảy máu nướu",
+      "E. Sai khớp cắn"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 30: Điểm PI = 6 theo Russell là:",
+    "options": [
+      "A. Viêm nướu nhẹ",
+      "B. Không viêm",
+      "C. Viêm nướu trung bình",
+      "D. Viêm nha chu có túi",
+      "E. Giai đoạn cuối"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu 31: Chỉ số nào đo mức độ sai lệch khớp cắn?",
+    "options": [
+      "A. DMFT",
+      "B. OHI-S",
+      "C. Occlusal Index",
+      "D. Gingival Index",
+      "E. CI-S"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 32: Mục đích chính của chỉ số chảy máu nướu là:",
+    "options": [
+      "A. Đo độ lún răng",
+      "B. Đo độ đau khi nhai",
+      "C. Phát hiện tình trạng viêm nướu sớm",
+      "D. Đo thời gian chảy máu",
+      "E. Đo độ lệch khớp cắn"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 33: Chỉ số PI cao có thể cho thấy:",
+    "options": [
+      "A. Tình trạng khớp cắn sai",
+      "B. Nồng độ fluor cao",
+      "C. Bệnh nha chu tiến triển",
+      "D. Viêm nướu nhẹ",
+      "E. Răng mọc không đều"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 34: Chỉ số DI-S cao phản ánh:",
+    "options": [
+      "A. Ít mảng bám",
+      "B. Mảng bám nhiều",
+      "C. Cao răng nặng",
+      "D. Túi nha chu sâu",
+      "E. Không viêm"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 35: Điểm CI-S = 0 có nghĩa là:",
+    "options": [
+      "A. Cao răng bám >2/3 mặt răng",
+      "B. Có cao răng dưới nướu",
+      "C. Không có cao răng",
+      "D. Răng lung lay",
+      "E. Viêm nha chu"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 36: Đặc điểm của chỉ số đơn giản là:",
+    "options": [
+      "A. Đánh giá tổng thể hiện tại và quá khứ",
+      "B. Đo một tình trạng duy nhất như có/không mảng bám",
+      "C. Ghi nhận tất cả thay đổi mô nha chu",
+      "D. Ghi chú đặc điểm khớp cắn",
+      "E. Chỉ sử dụng trong lâm sàng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 37: Thang điểm GI độ 2 thể hiện:",
+    "options": [
+      "A. Không viêm",
+      "B. Viêm nhẹ, không chảy máu",
+      "C. Viêm vừa, có chảy máu khi thăm khám",
+      "D. Viêm nặng, chảy máu tự phát",
+      "E. Tình trạng không liên quan"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 38: Trong nghiên cứu dịch tễ học, chỉ số lý tưởng nên có đặc điểm:",
+    "options": [
+      "A. Khó dùng, đắt đỏ",
+      "B. Thay đổi theo người đo",
+      "C. Dễ đo, đáng tin cậy, chấp nhận được",
+      "D. Phức tạp về kỹ thuật",
+      "E. Chỉ định riêng cho nha sĩ"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 39: Chỉ số nào đánh giá Fluorosis theo thời gian phát triển?",
+    "options": [
+      "A. Thylstrup–Fejerskov Index",
+      "B. Root Caries Index",
+      "C. OHI-S",
+      "D. CPITN",
+      "E. Malalignment Index"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu 40: Chỉ số nào đo lường trực tiếp nhu cầu phục hồi răng?",
+    "options": [
+      "A. DMFT",
+      "B. Restorative Index",
+      "C. Gingival Index",
+      "D. Periodontal Index",
+      "E. CI-S"
+    ],
+    "answer": 1
+  }
+]

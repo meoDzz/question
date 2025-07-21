@@ -1,0 +1,442 @@
+[
+  {
+    "question": "Câu 1: Viêm tủy răng là:",
+    "options": [
+      "A. Viêm mô nha chu quanh chóp răng",
+      "B. Viêm của mô tủy, một phản ứng với tác nhân kích thích từ môi trường",
+      "C. Viêm mô quanh răng do chấn thương",
+      "D. Tình trạng hoại tử hoàn toàn tủy răng",
+      "E. Tình trạng không liên quan đến sâu răng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 2: Nguyên nhân phổ biến nhất gây viêm tủy răng là:",
+    "options": [
+      "A. Chấn thương răng",
+      "B. Hóa chất nha khoa",
+      "C. Vi khuẩn từ sâu răng",
+      "D. Lực chỉnh nha",
+      "E. Mòn răng sinh lý"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 3: Một trong các đường vi khuẩn xâm nhập gây viêm tủy là:",
+    "options": [
+      "A. Qua xoang hàm",
+      "B. Qua túi nha chu",
+      "C. Qua ống tuyến nước bọt",
+      "D. Qua mô mềm quanh răng",
+      "E. Qua tủy ngược dòng từ não"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 4: Phân loại bệnh lý tủy theo AAE 2013 KHÔNG bao gồm:",
+    "options": [
+      "A. Tủy bình thường",
+      "B. Viêm tủy có khả năng hồi phục",
+      "C. Viêm tủy cấp tính",
+      "D. Viêm tủy không hồi phục có triệu chứng",
+      "E. Viêm tủy không hồi phục không triệu chứng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 5: Viêm tủy không hồi phục không triệu chứng có đặc điểm:",
+    "options": [
+      "A. Đau dữ dội tự phát",
+      "B. Gõ ngang rất đau",
+      "C. Không có triệu chứng cơ năng",
+      "D. Răng lung lay nhiều",
+      "E. Thường gặp ở trẻ nhỏ"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 6: Trong viêm tủy không hồi phục không triệu chứng, thường phát hiện nhờ:",
+    "options": [
+      "A. Đổi màu răng và X-quang",
+      "B. Đau về đêm",
+      "C. Sưng vùng mô mềm",
+      "D. Lỗ dò",
+      "E. Tất cả đều đúng"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu 7: Yếu tố gợi ý viêm tủy không hồi phục không triệu chứng là:",
+    "options": [
+      "A. Răng không phản ứng với thử lạnh nhưng đau dữ dội",
+      "B. Có miếng trám cũ và không có triệu chứng",
+      "C. Đau khi uống nước lạnh",
+      "D. Răng lung lay độ 3",
+      "E. Tủy đáp ứng rõ với thử nghiệm điện"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 8: Biến chứng có thể xảy ra nếu viêm tủy không hồi phục không được điều trị kịp thời:",
+    "options": [
+      "A. Hoại tử tủy",
+      "B. Viêm quanh chóp có triệu chứng",
+      "C. Hình thành áp-xe",
+      "D. Lan rộng sang mô quanh răng",
+      "E. Tất cả đều đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu 9: Dấu hiệu nào giúp phân biệt viêm tủy có khả năng hồi phục với không hồi phục?",
+    "options": [
+      "A. Đau khi gõ răng",
+      "B. Đau kéo dài sau khi loại bỏ kích thích",
+      "C. Đau khi cắn",
+      "D. Răng bị đổi màu",
+      "E. Tủy âm tính với thử nghiệm"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 10: Viêm tủy không hồi phục không triệu chứng có thể xảy ra trong trường hợp nào?",
+    "options": [
+      "A. Răng mới mọc",
+      "B. Răng có phục hồi sâu nhưng không đau",
+      "C. Răng chưa đóng chóp",
+      "D. Răng đã điều trị nội nha",
+      "E. Răng sữa"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 11: Đặc điểm mô học của viêm tủy không hồi phục là:",
+    "options": [
+      "A. Mô tủy bình thường",
+      "B. Mô tủy bị xơ hóa nhẹ",
+      "C. Mô tủy viêm nặng, không thể hồi phục",
+      "D. Tủy tăng sinh",
+      "E. Buồng tủy mở rộng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 12: Trong viêm tủy không hồi phục không triệu chứng, vùng quanh chóp:",
+    "options": [
+      "A. Luôn có thấu quang rộng",
+      "B. Có thấu quang lớn và ổ mủ",
+      "C. Thường bình thường hoặc chỉ dãn nhẹ dây chằng",
+      "D. Luôn luôn có gãy xương ổ răng",
+      "E. Có hiện tượng tiêu chóp rõ rệt"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 13: Yếu tố nào KHÔNG là nguyên nhân của viêm tủy không hồi phục?",
+    "options": [
+      "A. Sâu răng tiến triển",
+      "B. Tạo xoang không đúng kỹ thuật",
+      "C. Gãy chân răng do chấn thương",
+      "D. Mòn răng sinh lý nhẹ",
+      "E. Nhiễm trùng từ túi nha chu"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu 14: Thử nghiệm nào hữu ích trong chẩn đoán viêm tủy không hồi phục?",
+    "options": [
+      "A. Test tê chọn lọc",
+      "B. Thử gõ dọc",
+      "C. Thử lạnh",
+      "D. Soi đèn",
+      "E. Tất cả đều đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu 15: Trong viêm tủy không hồi phục không triệu chứng, thử tủy điện cho kết quả:",
+    "options": [
+      "A. Âm tính hoàn toàn",
+      "B. Dương tính nhẹ",
+      "C. Có thể dương tính tùy vị trí",
+      "D. Luôn dương tính mạnh",
+      "E. Không giá trị trong chẩn đoán"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 16: Một dạng đặc biệt của viêm tủy không hồi phục không triệu chứng là:",
+    "options": [
+      "A. Viêm tủy phì đại",
+      "B. Tủy hoại tử",
+      "C. Tủy bình thường",
+      "D. Viêm quanh cuống",
+      "E. Răng chưa đóng chóp"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu 17: Tủy phì đại thường gặp ở:",
+    "options": [
+      "A. Người già",
+      "B. Răng cửa vĩnh viễn",
+      "C. Răng sữa và răng cối vĩnh viễn chưa đóng chóp",
+      "D. Răng đã điều trị tủy",
+      "E. Răng nanh hàm trên"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 18: Đặc điểm mô tủy trong viêm tủy phì đại là:",
+    "options": [
+      "A. Không có mạch máu",
+      "B. Tủy bị hoại tử",
+      "C. Mô hạt viêm tăng sinh, chảy máu nhiều khi chạm",
+      "D. Có ngà thứ cấp",
+      "E. Không có bất kỳ thay đổi nào"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 19: Hình ảnh X-quang trong viêm tủy không hồi phục không triệu chứng thường:",
+    "options": [
+      "A. Có thấu quang lớn ở quanh chóp",
+      "B. Tiêu chóp rõ",
+      "C. Bình thường hoặc dãn nhẹ dây chằng quanh chóp",
+      "D. Có đường gãy thân răng",
+      "E. Luôn thấy nội tiêu"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 20: Trong phân loại AAE 2013, tình trạng “tủy đã điều trị” nghĩa là:",
+    "options": [
+      "A. Tủy răng đang trong giai đoạn viêm",
+      "B. Răng đã được nội nha hoặc tủy bị hủy",
+      "C. Răng chưa điều trị gì",
+      "D. Răng sắp được lấy tủy",
+      "E. Viêm quanh cuống có triệu chứng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 21: Trong viêm tủy không hồi phục không triệu chứng, yếu tố có thể giúp phân biệt với hoại tử tủy là:",
+    "options": [
+      "A. Phản ứng với thử điện âm tính",
+      "B. Phản ứng đau tức khi thử lạnh",
+      "C. Không có phản ứng đau tự phát",
+      "D. Tủy không phản ứng với nhiệt nóng",
+      "E. Răng đổi màu sẫm"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 22: Răng có viêm tủy không hồi phục không triệu chứng vẫn có thể:",
+    "options": [
+      "A. Hoàn toàn hồi phục sau vài ngày",
+      "B. Không có bất kỳ phản ứng nào với thử nghiệm",
+      "C. Đáp ứng dương tính với thử lạnh, nhưng đau kéo dài",
+      "D. Có biểu hiện lung lay độ 3",
+      "E. Không cần điều trị nếu không đau"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 23: Trong lâm sàng, đặc điểm nào KHÔNG phù hợp với viêm tủy không hồi phục không triệu chứng?",
+    "options": [
+      "A. Không có đau tự phát",
+      "B. Tủy vẫn còn sống",
+      "C. Đau kéo dài sau kích thích nhiệt",
+      "D. Răng không nhạy cảm với nhiệt",
+      "E. Không có triệu chứng khi ăn nhai"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu 24: Dấu hiệu nào sau đây có giá trị chẩn đoán phân biệt viêm tủy không hồi phục và hoại tử tủy?",
+    "options": [
+      "A. Có túi nha chu sâu",
+      "B. Không đổi màu răng",
+      "C. Phản ứng dương tính khi thử nhiệt",
+      "D. Hơi thở hôi",
+      "E. Có lỗ dò"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 25: Một bệnh nhân không có triệu chứng nhưng thử nghiệm nhiệt cho kết quả đau âm ỉ kéo dài sau khi ngưng kích thích. Chẩn đoán phù hợp nhất là:",
+    "options": [
+      "A. Tủy bình thường",
+      "B. Viêm tủy có thể hồi phục",
+      "C. Viêm tủy không hồi phục không triệu chứng",
+      "D. Hoại tử tủy",
+      "E. Viêm quanh cuống có triệu chứng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 26: Viêm tủy không hồi phục không triệu chứng có thể KHÔNG đi kèm với đặc điểm nào sau đây?",
+    "options": [
+      "A. Lỗ sâu lớn",
+      "B. Miếng trám sâu sát buồng tủy",
+      "C. Sưng vùng mô mềm quanh răng",
+      "D. Phản ứng kéo dài với nhiệt",
+      "E. Không đau tự phát"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 27: Trong một ca nghi ngờ viêm tủy không hồi phục không triệu chứng, thử nghiệm điện tủy cho kết quả âm tính. Bước tiếp theo hợp lý là:",
+    "options": [
+      "A. Điều trị chỉnh nha",
+      "B. Ghi nhận là răng đã hoại tử",
+      "C. Kiểm tra lại dụng cụ và tái thử nghiệm",
+      "D. Nhổ răng",
+      "E. Chỉ định kháng sinh"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 28: Viêm tủy không hồi phục không triệu chứng nếu không điều trị có thể tiến triển thành:",
+    "options": [
+      "A. Viêm quanh cuống không triệu chứng",
+      "B. Hoại tử tủy",
+      "C. Viêm quanh cuống có triệu chứng",
+      "D. Áp-xe cấp",
+      "E. Tất cả đều đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu 29: Câu nào sau đây SAI về viêm tủy không hồi phục không triệu chứng?",
+    "options": [
+      "A. Là tình trạng thường không gây đau",
+      "B. Tủy có phản ứng kéo dài với nhiệt",
+      "C. Không cần điều trị nếu không có triệu chứng",
+      "D. X-quang có thể không có dấu hiệu bất thường",
+      "E. Là chỉ định điều trị nội nha"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 30: Khi chẩn đoán viêm tủy không hồi phục không triệu chứng, xét nghiệm nào là quan trọng nhất?",
+    "options": [
+      "A. Công thức máu toàn phần",
+      "B. Xét nghiệm CRP",
+      "C. Thử nghiệm kích thích nhiệt và điện",
+      "D. Soi chóp kỹ thuật số",
+      "E. Test phát hiện fluor"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 31: Viêm tủy không hồi phục không triệu chứng có thể phát hiện qua:",
+    "options": [
+      "A. Hình ảnh tiêu chóp lớn",
+      "B. Phản ứng với nhiệt đau kéo dài và X-quang bình thường",
+      "C. Miệng có mùi hôi rõ rệt",
+      "D. Răng đau dữ dội về đêm",
+      "E. Tủy không phản ứng với thử nghiệm điện"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 32: Trong phân loại AAE 2013, nếu tủy bị hoại tử và răng chưa điều trị nội nha thì được phân loại là:",
+    "options": [
+      "A. Tủy sống bình thường",
+      "B. Viêm tủy có khả năng hồi phục",
+      "C. Viêm tủy không hồi phục",
+      "D. Hoại tử tủy",
+      "E. Răng đã điều trị"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu 33: Câu nào sau đây ĐÚNG về phản ứng tủy trong viêm tủy không hồi phục không triệu chứng?",
+    "options": [
+      "A. Không có đáp ứng với thử nghiệm nào",
+      "B. Có đáp ứng nhất thời với thử nghiệm điện, nhưng không với nhiệt",
+      "C. Đáp ứng kéo dài sau khi kích thích nhiệt",
+      "D. Chỉ đau khi gõ",
+      "E. Răng đau dữ dội ngay cả khi nghỉ"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 34: Răng được chẩn đoán viêm tủy không hồi phục không triệu chứng cần được:",
+    "options": [
+      "A. Theo dõi định kỳ 6 tháng",
+      "B. Chỉ định lấy cao răng",
+      "C. Điều trị nội nha",
+      "D. Nhổ ngay",
+      "E. Phục hồi thẩm mỹ"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 35: Điều trị viêm tủy không hồi phục không triệu chứng không đúng là:",
+    "options": [
+      "A. Điều trị tủy",
+      "B. Che tủy gián tiếp",
+      "C. Mở buồng tủy",
+      "D. Lấy bỏ mô tủy",
+      "E. Trám bít ống tủy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 36: Viêm tủy không hồi phục không triệu chứng KHÔNG đặc trưng bởi:",
+    "options": [
+      "A. Đau tự phát",
+      "B. Không có dấu hiệu sưng",
+      "C. Không nhạy cảm với gõ",
+      "D. Không biểu hiện toàn thân",
+      "E. Thường không có lỗ dò"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu 37: Dấu hiệu X-quang nào có thể gặp trong viêm tủy không hồi phục không triệu chứng?",
+    "options": [
+      "A. Thấu quang quanh chóp rộng",
+      "B. Mất xương ổ răng",
+      "C. Buồng tủy rộng và không đổi",
+      "D. Có thể hoàn toàn bình thường",
+      "E. Tiêu chóp chân răng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu 38: Phản ứng đau kéo dài sau thử nhiệt là chỉ dấu của:",
+    "options": [
+      "A. Tủy bình thường",
+      "B. Viêm tủy có khả năng hồi phục",
+      "C. Viêm tủy không hồi phục",
+      "D. Viêm quanh cuống có triệu chứng",
+      "E. Viêm nha chu nặng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 39: Chẩn đoán xác định viêm tủy không hồi phục không triệu chứng dựa vào:",
+    "options": [
+      "A. Xét nghiệm huyết học",
+      "B. Đánh giá mô học",
+      "C. Lâm sàng, thử nghiệm tủy và X-quang",
+      "D. Chụp CT sọ mặt",
+      "E. Sinh thiết mô mềm quanh răng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 40: Chọn câu ĐÚNG nhất về viêm tủy không hồi phục không triệu chứng:",
+    "options": [
+      "A. Là một thể nhẹ nên không cần điều trị",
+      "B. Thường tự khỏi nếu vệ sinh tốt",
+      "C. Có thể dẫn đến biến chứng nếu không được xử trí",
+      "D. Không thể phát hiện qua lâm sàng",
+      "E. Chỉ xảy ra ở người lớn tuổi"
+    ],
+    "answer": 2
+  }
+]
