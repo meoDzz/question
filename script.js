@@ -56,7 +56,9 @@ document.addEventListener('DOMContentLoaded', () => {
         'de27_GDSK_rangMieng.json',
         'de28_Chi_so_nhaChu.json',
         'de29_chamSocSucKhoe.json',
-        'de30_benhLyTuy.json'
+        'de30_benhLyTuy.json',
+        'de31_viem_quanh_chop.json',
+        'de32_tram_composite.json'
         
     ];
     // --- KẾT THÚC CẬP NHẬT ---

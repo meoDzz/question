@@ -1,0 +1,444 @@
+[
+  {
+    "question": "1. Mục tiêu của việc tạo bờ xoang trám composite là gì?",
+    "options": [
+      "Tăng tính thẩm mỹ",
+      "Loại bỏ men không có ngà nâng đỡ",
+      "Tạo các góc nhọn để giữ vật liệu",
+      "Làm miếng trám dễ bong ra",
+      "Tránh tạo góc nhọn ở các góc xoang"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "2. Yếu tố nào dưới đây giúp tăng khả năng lưu giữ của miếng trám composite?",
+    "options": [
+      "Lỗ nhỏ",
+      "Xoang hình cái bát",
+      "Tạo thành vát men",
+      "Để xoang khô hoàn toàn",
+      "Tạo góc vuông giữa men và ngà"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "3. Vật liệu trám GIC có đặc điểm nào sau đây?",
+    "options": [
+      "Chịu mài mòn rất tốt",
+      "Cần khô tuyệt đối khi trùng hợp",
+      "Có khả năng phóng thích fluor",
+      "Đông cứng hoàn toàn sau 1 giờ",
+      "Không ảnh hưởng pH khi mới trám"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "4. Khi trám composite, yếu tố nào sau đây ảnh hưởng đến co trùng hợp?",
+    "options": [
+      "Loại xi măng nền",
+      "C-factor",
+      "Số lần chiếu đèn",
+      "Độ pH của nước súc miệng",
+      "Tốc độ làm khô xoang"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "5. Co trùng hợp nhiều nhất xảy ra ở loại composite nào?",
+    "options": [
+      "Composite vi thể",
+      "Composite hạt độn lớn",
+      "Composite lai",
+      "GIC",
+      "Amalgam"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "6. Biện pháp nào giúp hạn chế co trùng hợp khi trám composite?",
+    "options": [
+      "Đặt từng lớp ≤ 2mm",
+      "Chiếu đèn một lần toàn bộ",
+      "Giữ xoang ướt hoàn toàn",
+      "Lót đáy bằng Eugenate",
+      "Không cần etching"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "7. Tác động sinh học nào có thể xảy ra khi trám composite sai kỹ thuật?",
+    "options": [
+      "Không ảnh hưởng gì",
+      "Kích thích tủy răng",
+      "Tăng khoáng hóa men",
+      "Giảm khả năng cảm giác",
+      "Làm răng sáng hơn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "8. Nguyên nhân nào sau đây có thể gây hở bờ miếng trám composite?",
+    "options": [
+      "Chiếu đèn đúng thời gian",
+      "Co do trùng hợp",
+      "Etching đúng kỹ thuật",
+      "Bề mặt xoang trơn láng",
+      "Sử dụng Glyceryl đúng cách"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "9. Vai trò của việc thoa lớp Glyceryl sau chiếu đèn là gì?",
+    "options": [
+      "Tăng độ trắng cho răng",
+      "Chống mài mòn lớp bề mặt",
+      "Tăng độ dính của vật liệu",
+      "Làm khô xoang tốt hơn",
+      "Bảo vệ men răng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "10. Trong quy trình etching, thời gian etch men là bao lâu trong kỹ thuật total etch?",
+    "options": [
+      "5-10 giây",
+      "10-15 giây",
+      "15-30 giây",
+      "30-60 giây",
+      "Không cần etch men"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "11. Composite có đặc điểm vật lý nào sau đây?",
+    "options": [
+      "Giòn, dễ vỡ",
+      "Độ chịu nén cao",
+      "Không cản quang",
+      "Màu không ổn định",
+      "Tính đàn hồi cao"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "12. Đặc điểm nào sau đây KHÔNG đúng với GIC?",
+    "options": [
+      "Phóng thích fluor",
+      "Cần nước để trùng hợp",
+      "Đông cứng hoàn toàn sau 3 ngày",
+      "Có thể dùng làm lót Eugenate",
+      "Chịu mài mòn kém"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "13. Điều gì xảy ra nếu trộn GIC sai tỷ lệ bột/nước?",
+    "options": [
+      "Tăng khả năng chịu lực",
+      "Giảm độ hòa tan",
+      "Tăng độ bền dán",
+      "Gây hòa tan và rạn vỡ GIC",
+      "Không ảnh hưởng gì"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "14. Etching ngà răng bằng H3PO4 có áp dụng trong kỹ thuật nào?",
+    "options": [
+      "Self Etch",
+      "Selective Etch",
+      "Total Etch",
+      "Không kỹ thuật nào",
+      "Cả 2 kỹ thuật đầu"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "15. Khi đáy xoang cách trần tủy < 0.5mm, cần thực hiện gì?",
+    "options": [
+      "Không làm gì",
+      "Etch kỹ hơn",
+      "Che tủy",
+      "Bôi verni",
+      "Làm khô xoang mạnh"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "16. Tại sao không nên lót đáy bằng Eugenate khi trám composite?",
+    "options": [
+      "Vì dễ tan trong nước",
+      "Gây kích thích tủy",
+      "Cản trở trùng hợp composite",
+      "Tăng co trùng hợp",
+      "Gây mùi khó chịu"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "17. Chất monomer không trùng hợp hết có thể gây?",
+    "options": [
+      "Tăng độ bền",
+      "Kích thích mô tủy",
+      "Tăng tính thẩm mỹ",
+      "Giảm độ bám dính",
+      "Làm răng mềm hơn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "18. Vì sao không nên thổi xoang quá khô khi sử dụng GIC?",
+    "options": [
+      "Làm giảm khả năng dán",
+      "Gây co rút vật liệu",
+      "GIC cần độ ẩm để trùng hợp",
+      "Dễ gây bọt khí",
+      "Không ảnh hưởng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "19. C-factor trong trám composite là gì?",
+    "options": [
+      "Tỉ số giữa diện tích bề mặt dán và không dán",
+      "Tổng thời gian chiếu đèn",
+      "Tỉ lệ giữa lượng bột và nước",
+      "Tỉ lệ giữa monomer và filler",
+      "Lực co sau trùng hợp"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "20. Hướng dẫn chiếu đèn khi đặt từng lớp composite là?",
+    "options": [
+      "Chiếu 10 giây/lớp",
+      "Chiếu 20 giây/lớp",
+      "Chiếu 30 giây/lớp",
+      "Chiếu 60 giây/lớp",
+      "Không cần chiếu mỗi lớp"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "21. Vì sao cần thổi khô sau khi chà bond trong kỹ thuật bonding?",
+    "options": [
+      "Để loại bỏ bụi",
+      "Để bay hết dung môi",
+      "Làm se bề mặt ngà",
+      "Kích hoạt monomer",
+      "Để tăng ánh sáng xuyên qua"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "22. Bond universal yêu cầu động tác nào trong quá trình sử dụng?",
+    "options": [
+      "Thổi mạnh ngay khi đặt",
+      "Chà liên tục 20 giây",
+      "Ngâm tĩnh trong 1 phút",
+      "Không cần thổi khô",
+      "Để bay hơi tự nhiên"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "23. Chiếu kết thúc khi trám composite cần thực hiện gì?",
+    "options": [
+      "Chiếu 10 giây bằng ánh sáng xanh",
+      "Chiếu với Glyceryl và kéo dài 40 giây",
+      "Chiếu không cần gel che phủ",
+      "Không cần chiếu nếu đã chiếu từng lớp",
+      "Thổi hơi lạnh trong quá trình chiếu"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "24. Vì sao không nên lấy bond quá sớm từ chai đựng?",
+    "options": [
+      "Làm mất hoạt tính chất keo",
+      "Gây loãng dung môi",
+      "Bay mất dung môi trước khi sử dụng",
+      "Giảm độ bám dính",
+      "Tăng độ nhớt"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "25. Nguyên tắc sửa soạn xoang trám composite là gì?",
+    "options": [
+      "Tạo hình dạng Black cổ điển",
+      "Tối đa hóa xâm lấn",
+      "Xâm lấn tối thiểu, tạo hình cái bát, vát men",
+      "Tạo các góc vuông sắc nét",
+      "Không cần sửa xoang nếu nhỏ"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "26. Vì sao cần cô lập tốt khi trám composite?",
+    "options": [
+      "Tránh nhiễm nước bọt ảnh hưởng dán dính",
+      "Tránh nhiễm vi khuẩn",
+      "Tránh đổi màu vật liệu",
+      "Giữ miếng trám lâu hơn",
+      "Tránh kích ứng mô mềm"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "27. Tác dụng của verni khi dùng với GIC là gì?",
+    "options": [
+      "Tăng thẩm mỹ",
+      "Ngăn mất nước trong giai đoạn đầu",
+      "Tạo màu trắng hơn",
+      "Tăng độ chịu nén",
+      "Làm giảm đau sau trám"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "28. Giai đoạn đầu của GIC có pH như thế nào?",
+    "options": [
+      "Trung tính",
+      "Kiềm nhẹ",
+      "Rất acid",
+      "Không đổi",
+      "Tăng dần theo thời gian"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "29. Vì sao composite có thể gây kích thích tủy?",
+    "options": [
+      "Do ánh sáng chiếu đèn",
+      "Do thành phần amin và monomer không trùng hợp hết",
+      "Do có fluor",
+      "Do độ mài mòn cao",
+      "Do nhiệt độ vật liệu"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "30. Composite nào sau đây có độ co trùng hợp thấp nhất?",
+    "options": [
+      "Composite vi thể",
+      "Composite hạt độn lớn",
+      "Composite lai",
+      "GIC",
+      "Composite không trùng hợp"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "31. Khi nào cần lót đáy xoang trám?",
+    "options": [
+      "Xoang sâu sát tủy",
+      "Xoang nông",
+      "Tất cả các xoang",
+      "Khi sử dụng self-etch",
+      "Khi không có đê cao su"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "32. Vật liệu nào không nên dùng để che tủy khi trám composite?",
+    "options": [
+      "Ca(OH)2",
+      "GIC",
+      "Eugenate",
+      "Vitrebond",
+      "IRM"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "33. Vì sao không dùng H3PO4 để etch ngà trong self-etch?",
+    "options": [
+      "Ngà không cần xử lý",
+      "H3PO4 gây mất liên kết ngà",
+      "Gây đau buốt ngà",
+      "Không hiệu quả với hệ thống dán này",
+      "Tạo hình thể không phù hợp"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "34. Sau khi trám composite, bước cuối cùng là gì?",
+    "options": [
+      "Đánh bóng",
+      "Chiếu đèn lại",
+      "Rửa lại xoang",
+      "Làm sạch máng trám",
+      "Bôi verni"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "35. Etching men trong kỹ thuật selective etch kéo dài bao lâu?",
+    "options": [
+      "5 giây",
+      "10 giây",
+      "15-30 giây",
+      "30-60 giây",
+      "Không cần etch"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "36. Nếu quên chiếu đèn sau khi đặt composite, hậu quả là gì?",
+    "options": [
+      "Không ảnh hưởng",
+      "Composite vẫn đông tự nhiên",
+      "Vật liệu không trùng hợp",
+      "Tủy bị kích thích",
+      "Gây đổi màu răng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "37. Tại sao phải mài chỉnh sau khi trám composite?",
+    "options": [
+      "Cho đẹp hơn",
+      "Tránh cộm khớp và bể miếng trám",
+      "Loại bỏ phần thừa vật liệu",
+      "Giúp trám lâu bền hơn",
+      "Tạo khớp cắn sâu"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "38. Chêm và đặt khuôn trám giúp gì?",
+    "options": [
+      "Tăng lực chiếu đèn",
+      "Cô lập vùng trám",
+      "Tạo tiếp xúc điểm đúng và hình thể trám tốt",
+      "Tăng kết dính",
+      "Tạo xoang mới"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "39. Vì sao không etch ngà trong self-etch?",
+    "options": [
+      "Gây mòn men",
+      "Gây giảm liên kết ngà",
+      "Ngà không cần xử lý trong hệ thống này",
+      "Ngà bị mài mòn",
+      "Men yếu đi"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "40. Khi đặt vật liệu composite, vì sao nên đặt từng lớp mỏng?",
+    "options": [
+      "Để dễ kiểm soát màu",
+      "Giảm co trùng hợp",
+      "Tăng thời gian làm việc",
+      "Giảm giá thành vật liệu",
+      "Giúp vật liệu cứng nhanh"
+    ],
+    "answer": 1
+  }
+
+
+]

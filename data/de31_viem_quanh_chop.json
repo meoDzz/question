@@ -1,0 +1,443 @@
+[
+  {
+    "question": "1. Vùng quanh chóp răng bao gồm những cấu trúc nào?",
+    "options": [
+      "Xương ổ răng",
+      "Dây chằng nha chu",
+      "Tủy răng",
+      "Lỗ chóp chân răng",
+      "Xoang hàm",
+      "Cement"
+    ],
+    "answer": 5
+  },
+  {
+    "question": "2. Nguyên nhân chính gây viêm mô quanh chóp là gì?",
+    "options": [
+      "Viêm lợi",
+      "Nhiễm khuẩn từ tủy răng",
+      "Chấn thương răng",
+      "Đánh răng sai cách",
+      "Sai sót trong điều trị nội nha"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "3. Viêm quanh chóp có triệu chứng điển hình có biểu hiện nào sau đây?",
+    "options": [
+      "Răng đổi màu nhưng không đau",
+      "Đau khi cắn hoặc gõ dọc",
+      "Không có phản ứng khi thử tủy",
+      "Sưng vùng nướu có lỗ dò",
+      "Không có bất thường trên X-quang"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "4. Đâu là phương pháp điều trị chính cho viêm quanh chóp răng nguyên nhân?",
+    "options": [
+      "Cạo vôi răng",
+      "Nội nha",
+      "Sử dụng thuốc giảm đau",
+      "Nhổ răng ngay lập tức",
+      "Chỉ dẫn lưu ổ viêm"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "5. Dấu hiệu nào dưới đây là đặc trưng của viêm quanh chóp cấp tính có ổ mủ?",
+    "options": [
+      "Răng trồi cao và đau khi cắn",
+      "Răng đổi màu",
+      "Có khối sưng vùng nướu nhưng chưa có lỗ dò",
+      "Thử tủy dương tính",
+      "Không có triệu chứng toàn thân"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "6. Viêm quanh chóp không triệu chứng thường có biểu hiện nào?",
+    "options": [
+      "Răng đau tự phát dữ dội",
+      "Không đau, không nhạy cảm khi cắn",
+      "Sưng nướu có lỗ dò",
+      "Thử tủy dương tính",
+      "Cảm giác khác lạ khi gõ"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "7. Đặc điểm X-quang của viêm quanh chóp không triệu chứng là?",
+    "options": [
+      "Không thấy bất kỳ thay đổi nào",
+      "Vùng thấu quang quanh chóp",
+      "Gãy chân răng",
+      "Mất xương toàn bộ hàm",
+      "Tăng cản quang quanh chóp"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "8. Điều trị đầu tiên cần thực hiện khi có khối sưng vùng nướu do áp xe quanh chóp là?",
+    "options": [
+      "Nhổ răng ngay lập tức",
+      "Chụp phim toàn cảnh",
+      "Dẫn lưu ổ mủ",
+      "Dùng corticosteroid",
+      "Chích thuốc tê"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "9. Khi nào nên sử dụng kháng sinh toàn thân trong điều trị viêm quanh chóp?",
+    "options": [
+      "Trong mọi trường hợp viêm",
+      "Khi có triệu chứng toàn thân như sốt",
+      "Chỉ khi viêm cấp",
+      "Khi răng đổi màu",
+      "Khi bệnh nhân yêu cầu"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "10. Thử tủy âm tính có ý nghĩa gì trong chẩn đoán viêm quanh chóp?",
+    "options": [
+      "Tủy còn sống",
+      "Không liên quan gì",
+      "Tủy đã hoại tử",
+      "Cần kiểm tra lại sau 1 tuần",
+      "Thử sai kỹ thuật"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "11. Viêm quanh chóp có triệu chứng thường gặp nhất khi gõ như thế nào?",
+    "options": [
+      "Gõ dọc đau nhiều",
+      "Gõ ngang đau nhiều",
+      "Gõ không đau",
+      "Gõ ngang đau hơn gõ dọc",
+      "Không khác biệt khi gõ"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "12. Trong viêm quanh chóp không triệu chứng, kết quả thử tủy thường là?",
+    "options": [
+      "Âm tính",
+      "Dương tính nhẹ",
+      "Âm tính hoặc dương tính",
+      "Không xác định được",
+      "Dương tính mạnh"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "13. Đặc điểm X-quang điển hình của áp xe quanh chóp cấp là gì?",
+    "options": [
+      "Thấu quang quanh chóp rõ ràng",
+      "Không có tổn thương xương",
+      "Xương đặc cứng",
+      "Thấu quang quanh chóp giới hạn không rõ",
+      "Cản quang lan tỏa"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "14. Điều trị áp xe quanh chóp mạn chủ yếu là gì?",
+    "options": [
+      "Dùng kháng sinh dài ngày",
+      "Nội nha và loại bỏ nguyên nhân",
+      "Trám bít lỗ dò",
+      "Phẫu thuật nạo mô mềm",
+      "Cắt dây chằng quanh răng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "15. Trong điều trị nội nha, mục tiêu quan trọng nhất là gì?",
+    "options": [
+      "Tẩy trắng răng",
+      "Loại bỏ hoàn toàn mô hoại tử trong ống tủy",
+      "Cắt chóp chân răng",
+      "Bôi thuốc giảm đau",
+      "Đắp Eugenate"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "16. Trong viêm quanh chóp cấp, triệu chứng toàn thân có thể bao gồm?",
+    "options": [
+      "Đau đầu",
+      "Sốt và mệt mỏi",
+      "Ngủ nhiều",
+      "Tiêu chảy",
+      "Mất ngủ kéo dài"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "17. Thử tủy cho kết quả âm tính thường gợi ý điều gì?",
+    "options": [
+      "Tủy còn sống",
+      "Tủy bị kích thích",
+      "Tủy đã hoại tử",
+      "Thử sai cách",
+      "Tủy viêm mạn"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "18. Khi điều trị nội nha thất bại, lựa chọn tiếp theo là?",
+    "options": [
+      "Chỉ định nhổ răng ngay",
+      "Phẫu thuật cắt chóp",
+      "Tiếp tục dùng kháng sinh",
+      "Tẩy trắng trong ống tủy",
+      "Nạo mô nướu quanh cổ răng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "19. Viêm xương đặc là thể nào của bệnh lý quanh chóp?",
+    "options": [
+      "Thể cấp tính",
+      "Thể đặc biệt mạn tính",
+      "Thể viêm lợi lan tỏa",
+      "Thể tủy hóa xương",
+      "Thể hoại tử xương"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "20. Trong áp xe quanh chóp cấp, khối sưng thường có đặc điểm nào?",
+    "options": [
+      "Không rõ ràng",
+      "Rất cứng, đau nhiều",
+      "Không đau",
+      "Có màu xanh tím",
+      "Không liên quan đến răng nguyên nhân"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "21. Loại trừ viêm mô tế bào bằng cách nào trong chẩn đoán phân biệt?",
+    "options": [
+      "Dựa vào phim X-quang",
+      "Dựa vào thử tủy âm tính",
+      "Dựa vào có lỗ dò",
+      "Dựa vào triệu chứng toàn thân như sốt cao, bạch cầu tăng",
+      "Dựa vào đau khi nhai"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "22. Việc sử dụng kháng sinh không cần thiết trong trường hợp nào sau đây?",
+    "options": [
+      "Viêm quanh chóp có triệu chứng",
+      "Áp xe quanh chóp cấp có sưng lớn",
+      "Viêm quanh chóp không triệu chứng",
+      "Áp xe quanh chóp cấp kèm sốt",
+      "Viêm mô tế bào"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "23. Phương pháp nào giúp dẫn lưu dịch viêm vùng quanh chóp hiệu quả?",
+    "options": [
+      "Nhổ răng",
+      "Mở tủy cấp cứu",
+      "Đắp thuốc trực tiếp ngoài nướu",
+      "Chích rạch mô mềm",
+      "Trám tạm"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "24. Viêm quanh chóp không triệu chứng có thể bị nhầm lẫn với bệnh nào?",
+    "options": [
+      "Áp xe nha chu",
+      "Viêm lợi loét hoại tử",
+      "Viêm nướu phì đại",
+      "Sâu ngà sâu",
+      "Viêm mô tế bào"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "25. Vùng thấu quang quanh chóp trong X-quang cho biết điều gì?",
+    "options": [
+      "Phản ứng lành thương",
+      "Xương ổ răng bị phá hủy",
+      "Tủy đang phục hồi",
+      "Không có bệnh lý",
+      "Do bóng đổ"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "26. Triệu chứng nào sau đây KHÔNG đặc trưng cho viêm mô quanh chóp răng?",
+    "options": [
+      "Đau dữ dội tự phát",
+      "Răng trồi cao",
+      "Có mảng bám vôi răng nặng",
+      "Khối sưng vùng nướu",
+      "Kết quả thử tủy âm tính"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "27. Triệu chứng nào sau đây KHÔNG đặc trưng cho viêm mô quanh chóp răng?",
+    "options": [
+      "Đau dữ dội tự phát",
+      "Răng trồi cao",
+      "Có mảng bám vôi răng nặng",
+      "Khối sưng vùng nướu",
+      "Kết quả thử tủy âm tính"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "28. Triệu chứng nào sau đây KHÔNG đặc trưng cho viêm mô quanh chóp răng?",
+    "options": [
+      "Đau dữ dội tự phát",
+      "Răng trồi cao",
+      "Có mảng bám vôi răng nặng",
+      "Khối sưng vùng nướu",
+      "Kết quả thử tủy âm tính"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "29. Triệu chứng nào sau đây KHÔNG đặc trưng cho viêm mô quanh chóp răng?",
+    "options": [
+      "Đau dữ dội tự phát",
+      "Răng trồi cao",
+      "Có mảng bám vôi răng nặng",
+      "Khối sưng vùng nướu",
+      "Kết quả thử tủy âm tính"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "30. Triệu chứng nào sau đây KHÔNG đặc trưng cho viêm mô quanh chóp răng?",
+    "options": [
+      "Đau dữ dội tự phát",
+      "Răng trồi cao",
+      "Có mảng bám vôi răng nặng",
+      "Khối sưng vùng nướu",
+      "Kết quả thử tủy âm tính"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "31. Triệu chứng nào sau đây KHÔNG đặc trưng cho viêm mô quanh chóp răng?",
+    "options": [
+      "Đau dữ dội tự phát",
+      "Răng trồi cao",
+      "Có mảng bám vôi răng nặng",
+      "Khối sưng vùng nướu",
+      "Kết quả thử tủy âm tính"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "32. Triệu chứng nào sau đây KHÔNG đặc trưng cho viêm mô quanh chóp răng?",
+    "options": [
+      "Đau dữ dội tự phát",
+      "Răng trồi cao",
+      "Có mảng bám vôi răng nặng",
+      "Khối sưng vùng nướu",
+      "Kết quả thử tủy âm tính"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "33. Triệu chứng nào sau đây KHÔNG đặc trưng cho viêm mô quanh chóp răng?",
+    "options": [
+      "Đau dữ dội tự phát",
+      "Răng trồi cao",
+      "Có mảng bám vôi răng nặng",
+      "Khối sưng vùng nướu",
+      "Kết quả thử tủy âm tính"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "34. Triệu chứng nào sau đây KHÔNG đặc trưng cho viêm mô quanh chóp răng?",
+    "options": [
+      "Đau dữ dội tự phát",
+      "Răng trồi cao",
+      "Có mảng bám vôi răng nặng",
+      "Khối sưng vùng nướu",
+      "Kết quả thử tủy âm tính"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "35. Triệu chứng nào sau đây KHÔNG đặc trưng cho viêm mô quanh chóp răng?",
+    "options": [
+      "Đau dữ dội tự phát",
+      "Răng trồi cao",
+      "Có mảng bám vôi răng nặng",
+      "Khối sưng vùng nướu",
+      "Kết quả thử tủy âm tính"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "36. Triệu chứng nào sau đây KHÔNG đặc trưng cho viêm mô quanh chóp răng?",
+    "options": [
+      "Đau dữ dội tự phát",
+      "Răng trồi cao",
+      "Có mảng bám vôi răng nặng",
+      "Khối sưng vùng nướu",
+      "Kết quả thử tủy âm tính"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "37. Triệu chứng nào sau đây KHÔNG đặc trưng cho viêm mô quanh chóp răng?",
+    "options": [
+      "Đau dữ dội tự phát",
+      "Răng trồi cao",
+      "Có mảng bám vôi răng nặng",
+      "Khối sưng vùng nướu",
+      "Kết quả thử tủy âm tính"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "38. Triệu chứng nào sau đây KHÔNG đặc trưng cho viêm mô quanh chóp răng?",
+    "options": [
+      "Đau dữ dội tự phát",
+      "Răng trồi cao",
+      "Có mảng bám vôi răng nặng",
+      "Khối sưng vùng nướu",
+      "Kết quả thử tủy âm tính"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "39. Triệu chứng nào sau đây KHÔNG đặc trưng cho viêm mô quanh chóp răng?",
+    "options": [
+      "Đau dữ dội tự phát",
+      "Răng trồi cao",
+      "Có mảng bám vôi răng nặng",
+      "Khối sưng vùng nướu",
+      "Kết quả thử tủy âm tính"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "40. Triệu chứng nào sau đây KHÔNG đặc trưng cho viêm mô quanh chóp răng?",
+    "options": [
+      "Đau dữ dội tự phát",
+      "Răng trồi cao",
+      "Có mảng bám vôi răng nặng",
+      "Khối sưng vùng nướu",
+      "Kết quả thử tủy âm tính"
+    ],
+    "answer": 2
+  }
+]
