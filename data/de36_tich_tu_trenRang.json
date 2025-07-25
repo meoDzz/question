@@ -1,0 +1,222 @@
+[
+  {
+    "question": "21. Vai trò chính của màng thụ đắc trong quá trình hình thành mảng bám là gì?",
+    "options": [
+      "Cung cấp chất khoáng",
+      "Bảo vệ răng khỏi acid",
+      "Tạo bề mặt cho vi khuẩn bám dính",
+      "Chống lại vi khuẩn xâm nhập",
+      "Tăng độ pH trong khoang miệng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "22. Lý do màng thụ đắc không thể bị loại bỏ bằng nước súc miệng là gì?",
+    "options": [
+      "Do tính chất nhầy cao",
+      "Do bám quá sâu dưới nướu",
+      "Vì là màng hữu cơ bám chắc vào men răng",
+      "Chứa nhiều lipid không tan",
+      "Được tiết ra liên tục từ tuyến nước bọt"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "23. Tại sao mảng bám răng được xem là một cộng đồng vi sinh vật tổ chức cao?",
+    "options": [
+      "Chỉ gồm một loại vi khuẩn",
+      "Tất cả vi khuẩn cùng hình dạng",
+      "Vi khuẩn tương tác, trao đổi chất và chống lại môi trường",
+      "Không thể tách biệt các lớp",
+      "Không chứa chất nền ngoại bào"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "24. Tại sao Fusobacterium nucleatum được gọi là 'vi khuẩn cầu nối' trong mảng bám?",
+    "options": [
+      "Vì nằm ở giữa màng thụ đắc và vi khuẩn hiếu khí",
+      "Giúp tạo liên kết giữa các vi khuẩn đầu và sau",
+      "Là vi khuẩn sống bám gần nướu",
+      "Có khả năng di động mạnh",
+      "Tiết enzyme phân giải men răng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "25. Polysaccharide ngoại bào của vi khuẩn trong mảng bám chủ yếu có vai trò gì?",
+    "options": [
+      "Làm sạch răng",
+      "Cung cấp năng lượng cho mô nướu",
+      "Tạo cấu trúc giúp mảng bám dính chắc",
+      "Làm mềm mảng bám",
+      "Trung hòa acid"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "26. Vi khuẩn Actinomyces naeslundii thường xuất hiện ở giai đoạn nào trong quá trình hình thành mảng bám?",
+    "options": [
+      "Ngay sau khi đánh răng",
+      "Giai đoạn khởi đầu",
+      "Giai đoạn trưởng thành",
+      "Giai đoạn viêm cấp",
+      "Sau 24 giờ"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "27. Vì sao mảng bám không thể bị loại bỏ hoàn toàn bằng súc miệng thông thường?",
+    "options": [
+      "Vì chứa lipid không tan",
+      "Do có màng ngoại bào bền vững",
+      "Vì nằm sâu trong tủy răng",
+      "Vì do vi khuẩn tiết ra collagenase",
+      "Chống lại lực cơ học"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "28. Trong phân loại mảng bám, nhóm 'không đặc hiệu' có đặc điểm gì?",
+    "options": [
+      "Liên quan đến một loại vi khuẩn cụ thể",
+      "Không gây bệnh",
+      "Gồm nhiều loại vi khuẩn và gây viêm theo tổng số",
+      "Chỉ gây sâu răng",
+      "Tập trung tại mặt nhai"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "29. Tại sao mảng bám dưới nướu thường nguy hiểm hơn mảng bám trên nướu?",
+    "options": [
+      "Vì dễ làm hôi miệng hơn",
+      "Vì khó thấy và chứa vi khuẩn kỵ khí gây viêm sâu",
+      "Vì gây mất răng ngay lập tức",
+      "Vì không thể loại bỏ được",
+      "Vì tạo men axit mạnh"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "30. Glycoprotein trong nước bọt có vai trò gì trong mảng bám?",
+    "options": [
+      "Ngăn vi khuẩn bám dính",
+      "Tạo độ nhớt cho nước bọt",
+      "Là thành phần nền của màng thụ đắc",
+      "Làm răng sáng bóng",
+      "Bảo vệ tủy răng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "31. Vì sao dextran được xem là polysaccharide quan trọng trong mảng bám?",
+    "options": [
+      "Cung cấp năng lượng cho vi khuẩn",
+      "Giúp vi khuẩn di chuyển",
+      "Tạo cấu trúc giúp kết dính giữa các vi khuẩn",
+      "Tiêu diệt bạch cầu",
+      "Gây viêm tủy cấp"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "32. Trong vi sinh mảng bám, vùng kế cận răng chứa nhiều loại vi khuẩn nào nhất?",
+    "options": [
+      "Gram âm kỵ khí",
+      "Gram dương hình cầu và trực khuẩn",
+      "Xoắn khuẩn",
+      "Vi khuẩn di động",
+      "Vi nấm"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "33. Chất nào sau đây không nằm trong thành phần gian bào của mảng bám?",
+    "options": [
+      "Dextran",
+      "Albumin",
+      "DNA ngoại bào",
+      "Keratin",
+      "Calci phosphat"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "34. Vi khuẩn nào có thể xuất hiện cả trong mảng bám trên và dưới nướu?",
+    "options": [
+      "Fusobacterium nucleatum",
+      "Streptococcus mutans",
+      "Actinomyces israelii",
+      "Veillonella spp.",
+      "Lactobacillus casei"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "35. Dạng tồn tại của mảng bám nào dễ gây bệnh nhất?",
+    "options": [
+      "Mảng bám trên nướu",
+      "Mảng bám không dính",
+      "Mảng bám dưới nướu",
+      "Mảng bám khô",
+      "Mảng bám từ thực phẩm"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "36. Vì sao mảng bám được xem là yếu tố cần kiểm soát hằng ngày?",
+    "options": [
+      "Vì hình thành chậm và dễ xử lý",
+      "Vì dễ gây sâu răng và viêm nướu nếu không kiểm soát",
+      "Vì có thể nhìn thấy bằng mắt thường",
+      "Vì không ảnh hưởng đến cấu trúc răng",
+      "Vì mảng bám gây mòn men răng trực tiếp"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "37. Đặc điểm nổi bật của vi khuẩn sống trong biofilm so với vi khuẩn planktonic là gì?",
+    "options": [
+      "Có sức đề kháng với kháng sinh cao hơn",
+      "Di chuyển nhanh hơn",
+      "Không sinh độc tố",
+      "Không tương tác với nhau",
+      "Không thể nhân lên"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "38. Loại polysaccharide nào sau đây là ngoại bào và giúp hình thành cấu trúc mảng bám?",
+    "options": [
+      "Cellulose",
+      "Lactose",
+      "Dextran",
+      "Amylose",
+      "Fructan"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "39. Mảng bám răng được xem là nguyên nhân ban đầu của bệnh nào?",
+    "options": [
+      "Viêm quanh chóp",
+      "Viêm tuyến nước bọt",
+      "Viêm nướu và viêm nha chu",
+      "Viêm tủy cấp",
+      "Loét niêm mạc miệng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "40. Vi khuẩn nào sau đây thường không hiện diện trong giai đoạn sớm của mảng bám?",
+    "options": [
+      "Streptococcus sanguis",
+      "Actinomyces naeslundii",
+      "Porphyromonas gingivalis",
+      "Streptococcus mitis",
+      "Streptococcus oralis"
+    ],
+    "answer": 2
+  }
+]

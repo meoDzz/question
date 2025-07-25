@@ -58,7 +58,11 @@ document.addEventListener('DOMContentLoaded', () => {
         'de29_chamSocSucKhoe.json',
         'de30_benhLyTuy.json',
         'de31_viem_quanh_chop.json',
-        'de32_tram_composite.json'
+        'de32_tram_composite.json',
+        'de33_vnhtll_part1.json',
+        'de34_vnhtll_part2.json',
+        'de35_tich_tu_trenRang.json',
+        'de36_tich_tu_trenRang.json'
         
     ];
     // --- KẾT THÚC CẬP NHẬT ---

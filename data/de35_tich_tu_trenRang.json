@@ -1,0 +1,222 @@
+[
+  {
+    "question": "1. Màng thụ đắc (acquired pellicle) được hình thành chủ yếu từ đâu?",
+    "options": [
+      "Thức ăn còn sót lại",
+      "Chất khoáng từ nước uống",
+      "Glycoprotein từ nước bọt",
+      "Vi khuẩn hoại sinh",
+      "Men răng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "2. Thời gian để màng thụ đắc hình thành sau khi làm sạch răng là bao lâu?",
+    "options": [
+      "2–5 phút",
+      "15–30 phút",
+      "1 giờ",
+      "Ngay lập tức",
+      "3–6 giờ"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "3. Màng thụ đắc có đặc điểm nào sau đây?",
+    "options": [
+      "Gây hôi miệng rõ rệt",
+      "Có cấu trúc cứng",
+      "Vô khuẩn trong giai đoạn đầu",
+      "Có thể loại bỏ bằng nước súc miệng",
+      "Chứa nhiều vi khuẩn kỵ khí"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "4. Mảng bám răng (dental biofilm) gồm thành phần chính nào?",
+    "options": [
+      "Vi khuẩn sống và chết",
+      "Calci phosphat",
+      "Chất béo từ thức ăn",
+      "Tế bào biểu mô bong tróc",
+      "Tinh bột lên men"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "5. Vi khuẩn đầu tiên bám dính lên màng thụ đắc thường là gì?",
+    "options": [
+      "Porphyromonas gingivalis",
+      "Treponema denticola",
+      "Streptococcus và Actinomyces",
+      "Lactobacillus",
+      "Fusobacterium nucleatum"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "6. Thành phần chiếm khoảng 30% chất gian bào của mảng bám là gì?",
+    "options": [
+      "Protein",
+      "Polysaccharide (chủ yếu dextran)",
+      "Lipid",
+      "Glycoprotein",
+      "DNA ngoại bào"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "7. Trong mảng bám trên nướu, vi khuẩn nào chiếm ưu thế?",
+    "options": [
+      "Vi khuẩn kỵ khí gram âm",
+      "Trực khuẩn gram âm",
+      "Cầu khuẩn gram dương",
+      "Xoắn khuẩn",
+      "Nấm Candida"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "8. Đặc điểm chính của mảng bám dưới nướu là gì?",
+    "options": [
+      "Chứa chủ yếu vi khuẩn hiếu khí",
+      "Không liên quan đến bệnh nha chu",
+      "Chứa nhiều vi khuẩn kỵ khí và độc lực cao",
+      "Dễ loại bỏ bằng súc miệng",
+      "Chỉ gồm thức ăn thừa"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "9. Mảng bám đặc hiệu có ý nghĩa gì trong bệnh nha chu?",
+    "options": [
+      "Gồm vi khuẩn ngẫu nhiên",
+      "Liên quan đến vi khuẩn gây bệnh đặc hiệu",
+      "Gây sâu răng chủ yếu",
+      "Không ảnh hưởng mô nha chu",
+      "Không có vi khuẩn gây bệnh"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "10. Vi khuẩn nào đóng vai trò cầu nối trong mảng bám trưởng thành?",
+    "options": [
+      "Streptococcus mutans",
+      "Actinomyces viscosus",
+      "Fusobacterium nucleatum",
+      "Veillonella spp.",
+      "Treponema spp."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "11. Bựa răng (materia alba) có thể loại bỏ bằng cách nào?",
+    "options": [
+      "Dùng chỉ nha khoa",
+      "Dùng thuốc súc miệng mạnh",
+      "Tia nước hoặc khí",
+      "Không thể loại bỏ",
+      "Lấy cao răng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "12. Đặc điểm nào đúng với mảng bám răng?",
+    "options": [
+      "Không có tổ chức vi khuẩn",
+      "Bám rất lỏng lẻo vào răng",
+      "Không gây viêm nướu",
+      "Gây sâu răng và viêm nướu",
+      "Chỉ xuất hiện khi có cao răng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "13. Mảng bám răng có thể loại bỏ hoàn toàn bằng cách nào?",
+    "options": [
+      "Súc miệng nước muối",
+      "Đánh răng đúng cách và lấy cao răng định kỳ",
+      "Tự rửa bằng nước",
+      "Ăn uống điều độ",
+      "Uống kháng sinh"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "14. Trung bình có bao nhiêu vi khuẩn trong 1mg mảng bám?",
+    "options": [
+      "2×10⁴",
+      "2×10⁶",
+      "2×10⁸",
+      "2×10¹⁰",
+      "2×10¹²"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "15. Nguồn dưỡng chất chủ yếu cho mảng bám trên nướu là gì?",
+    "options": [
+      "Mạch máu nướu",
+      "Nước bọt",
+      "Thức ăn",
+      "Mô tủy",
+      "Dịch nướu"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "16. Chất vô cơ nào thường thấy trong mảng bám răng?",
+    "options": [
+      "Calci và phosphat",
+      "Chì và kẽm",
+      "Sắt và đồng",
+      "Thủy ngân",
+      "Mangan và coban"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "17. Mảnh vụn thức ăn khác với mảng bám ở điểm nào?",
+    "options": [
+      "Không chứa vi khuẩn",
+      "Có màu trắng",
+      "Dễ rửa trôi và không bám chặt",
+      "Tạo viêm nướu mạnh",
+      "Chỉ xuất hiện ở nướu"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "18. Protein trong thành phần gian bào mảng bám chủ yếu là?",
+    "options": [
+      "Hemoglobin",
+      "Albumin",
+      "Collagen",
+      "Elastin",
+      "Keratin"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "19. Lipid trong mảng bám phần lớn có nguồn gốc từ đâu?",
+    "options": [
+      "Thức ăn",
+      "Vi khuẩn và nước bọt",
+      "Tế bào chết",
+      "Mô liên kết",
+      "Men răng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "20. Mục tiêu chính của việc kiểm soát mảng bám là gì?",
+    "options": [
+      "Ngăn hình thành cao răng",
+      "Ngăn ngừa sâu răng và bệnh nha chu",
+      "Giúp trắng răng",
+      "Giảm mùi hôi miệng",
+      "Tăng tiết nước bọt"
+    ],
+    "answer": 1
+  }
+]
