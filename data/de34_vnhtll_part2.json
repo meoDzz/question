@@ -1,222 +1,222 @@
 [
   {
-    "question": "21. Trong VNHTLL, vùng tổn thương có đặc điểm màu sắc gì?",
+    "question": "1. Viêm nướu hoại tử lở loét (VNHTLL) thường gặp ở nhóm đối tượng nào?",
     "options": [
-      "Đỏ sẫm và bóng",
-      "Hồng nhạt và dai",
-      "Trắng đục dạng màng giả",
-      "Vàng nhạt",
-      "Xanh xám"
+      "Trẻ em dưới 5 tuổi",
+      "Người cao tuổi có bệnh lý tim mạch",
+      "Thanh niên có stress, hút thuốc, vệ sinh răng miệng kém",
+      "Phụ nữ mang thai",
+      "Người bị sâu răng mạn tính"
     ],
     "answer": 2
   },
   {
-    "question": "22. Chức năng chính của bạch cầu đa nhân trung tính (BCĐNTT) trong VNHTLL là?",
+    "question": "2. Triệu chứng cơ bản đặc trưng của VNHTLL là gì?",
     "options": [
-      "Tạo mô hạt",
-      "Thực bào vi khuẩn và mô hoại tử",
-      "Sản xuất kháng thể IgA",
-      "Hoạt hóa bổ thể",
-      "Tạo mạng fibrin"
+      "Chảy máu nướu không đau",
+      "Viêm loét, hoại tử nhú nướu, đau nhiều, hôi miệng",
+      "Tăng tiết nước bọt",
+      "Răng lung lay nhiều",
+      "Sưng mặt kèm sốt"
     ],
     "answer": 1
   },
   {
-    "question": "23. Biểu hiện toàn thân có thể gặp trong VNHTLL là gì?",
+    "question": "3. Vị trí tổn thương đầu tiên trong VNHTLL là?",
     "options": [
-      "Sốt nhẹ, mệt mỏi",
-      "Tiêu chảy",
-      "Phát ban ngoài da",
-      "Viêm hạch bạch huyết vùng",
-      "Khó thở"
+      "Bờ nướu",
+      "Rãnh nướu",
+      "Nhú nướu",
+      "Niêm mạc má",
+      "Nướu dính"
     ],
-    "answer": 0
+    "answer": 2
   },
   {
-    "question": "24. Lý do không nên làm thủ thuật nha chu triệt để ngay trong giai đoạn cấp là?",
+    "question": "4. Vi khuẩn chính gây ra VNHTLL là gì?",
     "options": [
-      "Không hiệu quả",
-      "Gây đau dữ dội và lan rộng tổn thương",
-      "Tăng nguy cơ viêm tủy",
-      "Ảnh hưởng thuốc kháng sinh",
-      "Không kiểm soát được mô mềm"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "25. VNHTLL có liên quan chặt chẽ với bệnh toàn thân nào sau đây?",
-    "options": [
-      "Hạ đường huyết",
-      "HIV/AIDS",
-      "Thiếu vitamin C",
-      "Thiếu máu thiếu sắt",
-      "Viêm gan siêu vi"
+      "Streptococcus mutans",
+      "Treponema spp. và Fusobacterium nucleatum",
+      "Actinomyces israelii",
+      "Porphyromonas gingivalis",
+      "Candida albicans"
     ],
     "answer": 1
   },
   {
-    "question": "26. Một yếu tố đặc biệt quan trọng giúp phân biệt VNHTLL với viêm nướu tróc vảy là gì?",
+    "question": "5. Đặc điểm mô học nào là đặc trưng trong VNHTLL?",
     "options": [
-      "Đau dữ dội",
-      "Có mảng giả hoại tử",
-      "Xuất huyết tự nhiên",
-      "Loét khu trú ở nhú nướu",
-      "Lan ra mô mềm khác"
+      "Tăng sinh biểu mô gai",
+      "Tế bào lympho chiếm ưu thế",
+      "Lớp bạch cầu đa nhân trung tính (BCĐNTT) dày đặc",
+      "Lắng đọng calci trong mô nướu",
+      "Xơ hóa mô liên kết"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "6. Triệu chứng hôi miệng trong VNHTLL là do đâu?",
+    "options": [
+      "Sâu răng",
+      "Thức ăn thừa",
+      "Hợp chất sulfur dễ bay hơi từ vi khuẩn kỵ khí",
+      "Mảng bám răng",
+      "Suy giảm men tiêu hóa"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "7. Trong điều trị VNHTLL cấp tính, bước đầu tiên cần thực hiện là gì?",
+    "options": [
+      "Cho uống kháng sinh",
+      "Điều trị triệt để túi nha chu",
+      "Giảm đau và vệ sinh nhẹ nhàng vùng tổn thương",
+      "Cạo vôi răng toàn bộ",
+      "Nhổ răng bị tổn thương"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "8. Loại thuốc nào thường dùng để sát khuẩn tại chỗ cho bệnh nhân VNHTLL?",
+    "options": [
+      "Hydrogen peroxide 3%",
+      "NaCl 0.9%",
+      "Chlorhexidine 0.12%",
+      "Nước muối sinh lý",
+      "Betadine"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "9. Kháng sinh thường được sử dụng trong điều trị VNHTLL là gì?",
+    "options": [
+      "Erythromycin",
+      "Penicillin + Metronidazole",
+      "Clindamycin",
+      "Doxycycline",
+      "Cefalexin"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "10. Khi nào nên bắt đầu can thiệp nha chu triệt để ở bệnh nhân VNHTLL?",
+    "options": [
+      "Ngay sau khi chẩn đoán",
+      "Sau 1 tuần điều trị triệu chứng cấp",
+      "Khi bệnh nhân không còn sốt",
+      "Sau khi cạo vôi lần đầu",
+      "Khi triệu chứng loét đã lan rộng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "11. Dấu hiệu nào sau đây KHÔNG phải của VNHTLL?",
+    "options": [
+      "Hoại tử nhú nướu",
+      "Răng lung lay nhiều",
+      "Chảy máu tự phát",
+      "Hôi miệng nặng",
+      "Đau dữ dội vùng nướu"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "12. Yếu tố nào sau đây KHÔNG phải yếu tố nguy cơ của VNHTLL?",
+    "options": [
+      "Stress",
+      "Thiếu ngủ kéo dài",
+      "Suy dinh dưỡng",
+      "Chăm sóc răng miệng tốt",
+      "Hút thuốc lá"
     ],
     "answer": 3
   },
   {
-    "question": "27. Thời điểm đánh giá lại tổng quát sau điều trị VNHTLL là bao lâu?",
+    "question": "13. VNHTLL có thể tiến triển thành tình trạng nào nếu không điều trị?",
     "options": [
-      "1 tuần",
-      "2 tuần",
-      "3–4 tuần",
-      "6 tuần",
-      "1 ngày"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "28. Trong VNHTLL, dấu hiệu nào cho thấy nhiễm trùng đang lan rộng?",
-    "options": [
-      "Đau giảm",
-      "Hôi miệng nhẹ",
-      "Sưng lan lên má, sốt cao",
-      "Giảm chảy máu",
-      "Loét nông hơn"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "29. Hành vi nào sau đây nên tránh khi bệnh nhân đang điều trị VNHTLL?",
-    "options": [
-      "Đánh răng nhẹ nhàng",
-      "Súc miệng Chlorhexidine",
-      "Hút thuốc lá",
-      "Ăn thức ăn mềm",
-      "Tái khám đúng lịch"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "30. VNHTLL được xếp vào nhóm bệnh nào trong phân loại nha chu 2018?",
-    "options": [
-      "Viêm nướu do mảng bám",
-      "Bệnh nha chu không mảng bám",
-      "Bệnh nha chu liên quan miễn dịch",
-      "Viêm nha chu hoại tử",
-      "Tình trạng hệ thống ảnh hưởng nha chu"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "31. Bệnh nhân có tiền sử tái phát VNHTLL nên được quản lý như thế nào?",
-    "options": [
-      "Chỉ điều trị khi có triệu chứng",
-      "Theo dõi định kỳ, kiểm soát yếu tố nguy cơ",
-      "Không cần điều trị vì sẽ tự khỏi",
-      "Uống kháng sinh dự phòng hàng tháng",
-      "Chỉ vệ sinh răng miệng tại nhà"
+      "Viêm quanh răng nhẹ",
+      "Viêm nha chu hoại tử có mất bám dính",
+      "Viêm tủy răng cấp",
+      "Áp xe niêm mạc má",
+      "Viêm tuyến nước bọt"
     ],
     "answer": 1
   },
   {
-    "question": "32. Dạng tổn thương nào phổ biến nhất trong VNHTLL?",
-    "options": [
-      "Loét dạng tròn đều",
-      "Loét có bờ nham nhở và phủ giả mạc",
-      "Sưng đỏ dạng u hạt",
-      "Mụn nước lan rộng",
-      "Tăng sản mô nướu"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "33. Thức ăn nào sau đây nên tránh khi đang bị VNHTLL?",
-    "options": [
-      "Sữa chua",
-      "Cháo loãng",
-      "Đồ ăn cay nóng",
-      "Trái cây mềm",
-      "Nước ép rau củ"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "34. Trong giai đoạn hồi phục, mục tiêu chính là gì?",
-    "options": [
-      "Làm sạch sâu túi nha chu",
-      "Tái tạo mô liên kết",
-      "Duy trì vệ sinh, kiểm soát yếu tố nguy cơ và đánh giá toàn thân",
-      "Tăng sức đề kháng bằng vaccine",
-      "Tăng lượng kháng sinh"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "35. Loại mô nào bị tổn thương chính trong VNHTLL?",
-    "options": [
-      "Mô tủy",
-      "Mô nha chu",
-      "Biểu mô phủ nướu và mô liên kết",
-      "Men răng",
-      "Xương ổ răng"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "36. Sau khi điều trị cấp, nên đánh giá lại tổng trạng và thực hiện gì?",
-    "options": [
-      "Cạo vôi và hướng dẫn vệ sinh",
-      "Chỉ uống thuốc thêm",
-      "Không cần làm gì nếu hết đau",
-      "Tẩy trắng răng",
-      "Nhổ răng liên quan"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "37. VNHTLL thường xuất hiện ở răng nào?",
+    "question": "14. Viêm nướu hoại tử lở loét thường KHÔNG xuất hiện ở đâu?",
     "options": [
       "Răng cửa dưới",
       "Răng hàm trên",
-      "Răng nanh",
-      "Răng sữa",
-      "Răng khôn mọc lệch"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "38. Dấu hiệu toàn thân cần chú ý ở bệnh nhân VNHTLL?",
-    "options": [
-      "Khó ngủ",
-      "Tăng huyết áp",
-      "Sốt, mệt mỏi, viêm hạch",
-      "Giảm khứu giác",
-      "Phát ban da"
+      "Niêm mạc má",
+      "Nhú nướu",
+      "Rìa nướu"
     ],
     "answer": 2
   },
   {
-    "question": "39. Vì sao stress được xem là yếu tố quan trọng trong VNHTLL?",
+    "question": "15. Vai trò của hydrogen peroxide 3% trong điều trị VNHTLL là gì?",
     "options": [
-      "Gây rối loạn nội tiết",
-      "Gây mất ngủ",
-      "Giảm sức đề kháng miễn dịch và tăng cortisol",
-      "Làm giảm tiết nước bọt",
-      "Làm tăng mảng bám"
+      "Tẩy trắng răng",
+      "Kháng viêm mạnh",
+      "Giúp loại bỏ mô hoại tử và sát khuẩn nhẹ",
+      "Gây co mạch",
+      "Kích thích mọc mô mới"
     ],
     "answer": 2
   },
   {
-    "question": "40. Dấu hiệu nào là tiên lượng tốt sau điều trị VNHTLL?",
+    "question": "16. Cần tái khám sau bao lâu trong điều trị VNHTLL giai đoạn cấp?",
     "options": [
-      "Mất dính nướu tăng",
-      "Không còn đau, giảm hôi miệng, mô nướu hồi phục",
-      "Tăng chảy máu khi chải răng",
-      "Loét lan rộng ra má",
-      "Tiếp tục có giả mạc hoại tử"
+      "1 ngày",
+      "2–3 ngày",
+      "1 tuần",
+      "10 ngày",
+      "2 tuần"
     ],
     "answer": 1
+  },
+  {
+    "question": "17. Dấu hiệu nào giúp phân biệt VNHTLL với Herpes miệng?",
+    "options": [
+      "Hôi miệng dữ dội",
+      "Tổn thương đối xứng 2 bên",
+      "Chảy máu nướu nhẹ",
+      "Đau khi nhai",
+      "Sưng má đi kèm"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "18. Cơ chế miễn dịch nào tham gia trong VNHTLL?",
+    "options": [
+      "Tế bào T gây độc",
+      "Tăng đáp ứng miễn dịch dịch thể",
+      "Tế bào viêm cấp và bạch cầu trung tính chiếm ưu thế",
+      "Kháng thể IgE chủ đạo",
+      "Đáp ứng chậm qua trung gian tế bào"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "19. Sát khuẩn nào KHÔNG phù hợp trong điều trị VNHTLL?",
+    "options": [
+      "Nước muối ấm",
+      "Hydrogen peroxide 3%",
+      "Chlorhexidine 0.12%",
+      "Nước súc miệng có cồn mạnh",
+      "Povidone iodine"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "20. Mục tiêu điều trị ban đầu trong VNHTLL là gì?",
+    "options": [
+      "Khôi phục mô nướu hoàn toàn",
+      "Điều trị triệt để bệnh nha chu",
+      "Giảm đau, giảm viêm, kiểm soát nhiễm trùng",
+      "Chích rạch vùng viêm",
+      "Nhổ răng liên quan"
+    ],
+    "answer": 2
   }
 ]
