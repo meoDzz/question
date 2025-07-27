@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Câu hỏi 41: Nguyên nhân sinh lý nào sau đây thường gây ngất xanh?",
+    "options": ["Đau dữ dội", "Mất máu nhiều", "Kích thích phó giao cảm", "Nhiễm trùng", "Uống nhiều nước"],
+    "answer": 2
+  },
+  {
+    "question": "Câu hỏi 42: Ngất xanh còn được gọi là gì trong y văn?",
+    "options": ["Ngất phản xạ", "Ngất động mạch", "Ngất do thiếu oxy", "Ngất do mất máu"],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 43: Trong cơn ngất xanh, triệu chứng nào xuất hiện đầu tiên?",
+    "options": ["Đổ mồ hôi", "Mất ý thức", "Tái xanh mặt", "Tăng huyết áp"],
+    "answer": 2
+  },
+  {
+    "question": "Câu hỏi 44: Cơ chế chính gây ngất xanh là gì?",
+    "options": ["Giảm lưu lượng máu não", "Tăng huyết áp", "Tăng nhịp tim", "Tăng glucose máu"],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 45: Tư thế xử trí ban đầu khi bệnh nhân ngất là gì?",
+    "options": ["Đặt bệnh nhân nằm đầu thấp", "Ngồi dậy ngay", "Cho uống nước", "Gọi xe cấp cứu"],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 46: Triệu chứng nào sau đây KHÔNG thuộc ngất xanh?",
+    "options": ["Tái xanh", "Mất tri giác thoáng qua", "Co giật kéo dài", "Hạ huyết áp"],
+    "answer": 2
+  },
+  {
+    "question": "Câu hỏi 47: Yếu tố nào sau đây làm tăng nguy cơ ngất trong nha khoa?",
+    "options": ["Gây tê", "Đau", "Tâm lý lo lắng", "Tất cả các ý trên"],
+    "answer": 3
+  },
+  {
+    "question": "Câu hỏi 48: Dấu hiệu sinh tồn nào giảm khi bị ngất xanh?",
+    "options": ["Huyết áp", "Nhịp thở", "Nhiệt độ", "Đường huyết"],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 49: Thời gian mất tri giác do ngất xanh thường kéo dài bao lâu?",
+    "options": ["Vài giây đến 1 phút", "5–10 phút", "15–20 phút", "Trên 30 phút"],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 50: Nguyên tắc quan trọng nhất khi xử trí ngất xanh là gì?",
+    "options": ["Phục hồi tưới máu não", "Gọi cấp cứu", "Cho bệnh nhân uống nước", "Cố định bệnh nhân"],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 51: Khi bệnh nhân có dấu hiệu ngất, nha sĩ nên làm gì đầu tiên?",
+    "options": ["Ngừng điều trị và hỗ trợ tư thế", "Tiếp tục điều trị nhẹ", "Tiêm thuốc trợ tim", "Cho uống nước đường"],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 52: Ngất xanh thường xảy ra ở đối tượng nào nhiều nhất?",
+    "options": ["Thanh thiếu niên", "Người cao tuổi", "Trẻ sơ sinh", "Phụ nữ có thai"],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 53: Trạng thái nào sau đây phân biệt ngất với động kinh?",
+    "options": ["Hồi phục nhanh sau ngất", "Co giật", "Cắn lưỡi", "Mất tri giác kéo dài"],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 54: Tác dụng của việc nâng chân bệnh nhân bị ngất là gì?",
+    "options": ["Tăng máu hồi lưu não", "Giảm đau", "Ổn định nhịp tim", "Tăng huyết áp đột ngột"],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 55: Ngất xanh có thể tái phát nếu bệnh nhân tiếp xúc lại với?",
+    "options": ["Kích thích gây lo âu", "Khí lạnh", "Tiếng ồn lớn", "Ánh sáng mạnh"],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 56: Sự co thắt mạch máu ngoại vi trong ngất xanh có tác dụng gì?",
+    "options": ["Làm tái mặt", "Tăng nhịp tim", "Hạ đường huyết", "Tăng nhiệt độ da"],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 57: Để dự phòng ngất khi tiêm gây tê, cần:",
+    "options": ["Giải thích và trấn an bệnh nhân", "Tiêm nhanh", "Để bệnh nhân tự nằm", "Cho bệnh nhân xem kim tiêm"],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 58: Điều nào sau đây KHÔNG nên làm khi bệnh nhân ngất?",
+    "options": ["Tát vào mặt bệnh nhân", "Đặt nằm đầu thấp", "Đảm bảo thông khí", "Theo dõi dấu hiệu sinh tồn"],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 59: Ngất xanh có thể gây nguy hiểm nếu?",
+    "options": ["Ngã gây chấn thương", "Mất tri giác trên 30 phút", "Bệnh nhân không hồi phục", "Tất cả các ý trên"],
+    "answer": 3
+  },
+  {
+    "question": "Câu hỏi 60: Biện pháp nào giúp phục hồi nhanh sau ngất xanh?",
+    "options": ["Cho bệnh nhân nằm ngửa và nâng chân", "Cho bệnh nhân đứng dậy nhanh", "Ép tim ngoài lồng ngực", "Gây nôn"],
+    "answer": 0
+  }
+]

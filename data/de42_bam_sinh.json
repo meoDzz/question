@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Nguyên nhân phổ biến nhất gây dị tật bẩm sinh là gì?",
+    "options": [
+      "Yếu tố di truyền",
+      "Tác nhân vật lý",
+      "Tác nhân hóa học",
+      "Không rõ nguyên nhân"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Hội chứng Down là hậu quả của bất thường nào?",
+    "options": [
+      "Đột biến điểm",
+      "Thừa nhiễm sắc thể 21",
+      "Mất đoạn nhiễm sắc thể X",
+      "Bất hoạt nhiễm sắc thể Y"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong các tác nhân sau, tác nhân nào là tác nhân sinh dị dạng?",
+    "options": [
+      "Vitamin C",
+      "Thalidomide",
+      "Nước khoáng",
+      "Sắt"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Dị tật bẩm sinh ảnh hưởng đến bao nhiêu phần trăm trẻ sơ sinh?",
+    "options": [
+      "1%",
+      "3%",
+      "5%",
+      "10%"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hội chứng Edwards là do bất thường nào gây ra?",
+    "options": [
+      "Tam bội nhiễm sắc thể 13",
+      "Tam bội nhiễm sắc thể 18",
+      "Tam bội nhiễm sắc thể 21",
+      "Lệch bội nhiễm sắc thể X"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong các yếu tố sau, yếu tố nào không phải nguyên nhân gây dị tật bẩm sinh?",
+    "options": [
+      "Di truyền",
+      "Nhiễm virus",
+      "Tập thể dục",
+      "Thuốc men"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Chẩn đoán trước sinh có thể thực hiện qua phương pháp nào?",
+    "options": [
+      "Siêu âm",
+      "Xét nghiệm máu mẹ",
+      "Chọc ối",
+      "Tất cả đều đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Hội chứng Turner chỉ xảy ra ở giới tính nào?",
+    "options": [
+      "Nam",
+      "Nữ",
+      "Cả hai",
+      "Không xác định"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Rubella trong thai kỳ có thể gây ra?",
+    "options": [
+      "Câm điếc",
+      "Đục thủy tinh thể",
+      "Tim bẩm sinh",
+      "Tất cả đều đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Chất nào sau đây được biết đến là gây dị tật nếu dùng trong thai kỳ?",
+    "options": [
+      "Aspirin",
+      "Thalidomide",
+      "Paracetamol",
+      "Vitamin D"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Dị tật tim bẩm sinh có thể phát hiện sớm qua?",
+    "options": [
+      "Xét nghiệm máu",
+      "Siêu âm tim thai",
+      "Chụp CT",
+      "Đo ECG"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Một dạng bất thường di truyền có thể dẫn đến?",
+    "options": [
+      "Hội chứng Down",
+      "Cảm cúm",
+      "Viêm họng",
+      "Tiêu chảy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Tỷ lệ trẻ bị dị tật bẩm sinh do di truyền đơn gene chiếm khoảng?",
+    "options": [
+      "1%",
+      "0.1%",
+      "0.5%",
+      "2%"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Hội chứng Patau là do bất thường nào?",
+    "options": [
+      "Tam bội nhiễm sắc thể 21",
+      "Tam bội nhiễm sắc thể 18",
+      "Tam bội nhiễm sắc thể 13",
+      "Lệch bội X"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Yếu tố nào sau đây không liên quan đến môi trường gây dị tật?",
+    "options": [
+      "Thuốc lá",
+      "Rượu",
+      "Nhiễm sắc thể",
+      "Phóng xạ"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Dị tật do rối loạn nhiễm sắc thể thường là?",
+    "options": [
+      "Bất thường cấu trúc",
+      "Thừa hoặc thiếu NST",
+      "Đột biến ti thể",
+      "Đột biến gen lặn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Cần thực hiện chẩn đoán trước sinh trong các trường hợp nào?",
+    "options": [
+      "Mẹ trên 35 tuổi",
+      "Có tiền sử sinh con dị tật",
+      "Nghi ngờ qua siêu âm",
+      "Tất cả các trường hợp trên"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Tần suất dị tật bẩm sinh do tác nhân vật lý cao nhất trong?",
+    "options": [
+      "Tam cá nguyệt thứ 1",
+      "Tam cá nguyệt thứ 2",
+      "Tam cá nguyệt thứ 3",
+      "Không thay đổi theo thời kỳ"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Hội chứng nào gây bất thường giới tính?",
+    "options": [
+      "Turner",
+      "Down",
+      "Edwards",
+      "Patau"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Chẩn đoán trước sinh giúp?",
+    "options": [
+      "Phát hiện sớm dị tật",
+      "Điều trị kịp thời",
+      "Tư vấn cho thai phụ",
+      "Tất cả đều đúng"
+    ],
+    "answer": 3
+  }
+]

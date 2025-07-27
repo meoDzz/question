@@ -1,0 +1,242 @@
+[
+  {
+    "question": "Trong ngất xanh, trung tâm nào bị tổn thương dẫn đến thiếu oxy?",
+    "options": [
+      "Trung tâm vận động",
+      "Trung tâm hô hấp",
+      "Trung tâm cảm giác",
+      "Trung tâm tuần hoàn"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "question": "Trong ngất xanh, điều trị cần thực hiện trong thời gian bao lâu để hiệu quả nhất?",
+    "options": [
+      "<2 phút",
+      "<3 phút",
+      "<5 phút",
+      "<10 phút"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Dấu hiệu không thuộc ngất trắng là:",
+    "options": [
+      "Ngừng tim phổi",
+      "Đồng tử giãn",
+      "Tim đập nhanh",
+      "Mạch không bắt được"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Thuốc nào sau đây có thể sử dụng khi xử trí xỉu?",
+    "options": [
+      "Ibuprofen",
+      "Camphona",
+      "Amoxicillin",
+      "Lidocaine"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "question": "Tổn thương dây thần kinh có thể dẫn đến triệu chứng nào sau đây?",
+    "options": [
+      "Chảy máu nhiều",
+      "Viêm mủ",
+      "Tê bì vùng môi",
+      "Nhiễm trùng xoang"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Tổn thương mô mềm có thể do:",
+    "options": [
+      "Dụng cụ bén nhọn sử dụng sai cách",
+      "Bệnh nhân sốc phản vệ",
+      "Tác động sai vào xoang",
+      "Đè lên dây thần kinh"
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "question": "Tổn thương thần kinh nào có thể gây dị cảm lưỡi?",
+    "options": [
+      "Dây thần kinh răng dưới",
+      "Dây thần kinh cằm",
+      "Dây thần kinh lưỡi",
+      "Dây thần kinh ổ mắt"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Tổn thương xoang hàm hay gặp ở vùng răng nào?",
+    "options": [
+      "Răng cửa",
+      "Răng nanh",
+      "Răng cối nhỏ và cối lớn trên",
+      "Răng khôn dưới"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Động tác sai có thể gây tổn thương xoang hàm là:",
+    "options": [
+      "Cầm máu sai",
+      "Đặt meche sai",
+      "Động tác bẫy",
+      "Tiêm tê không đúng"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Nghiệm pháp ngược trong thủng xoang hàm là:",
+    "options": [
+      "Bịt mũi hỉ mạnh thấy bọt máu ở ổ răng",
+      "Ngậm miệng dồn hơi ra mũi",
+      "Chụp phim X-quang xoang",
+      "Thử nghiệm bằng que thử hơi"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "question": "Nếu lỗ thủng xoang hàm >5mm, phương pháp xử trí là:",
+    "options": [
+      "Theo dõi",
+      "Đặt meche",
+      "Khâu lại",
+      "Phẫu thuật tạo hình đóng kín"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "question": "Một trong các kỹ thuật tạo vạt đóng kín xoang là:",
+    "options": [
+      "Vạt trượt ngoài trong",
+      "Vạt cắt chéo",
+      "Vạt niêm mạc tự do",
+      "Vạt áp má"
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "question": "Trong sốc phản vệ, dấu hiệu da thường gặp là:",
+    "options": [
+      "Phù nề mí mắt",
+      "Xanh tím toàn thân",
+      "Mày đay",
+      "Nổi mụn nước"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Adrenaline dùng trong sốc phản vệ thường tiêm theo đường nào đầu tiên?",
+    "options": [
+      "Tiêm tĩnh mạch",
+      "Tiêm dưới da",
+      "Uống",
+      "Hít khí dung"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "question": "Liều adrenaline cho trẻ em là bao nhiêu?",
+    "options": [
+      "0.3mg/kg",
+      "0.01mg/kg",
+      "1mg/kg",
+      "0.05mg/kg"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "question": "Cách phòng ngừa sốc phản vệ trong tiểu phẫu là:",
+    "options": [
+      "Không dùng thuốc tê",
+      "Tiêm adrenaline dự phòng",
+      "Khai thác tiền sử dị ứng kỹ",
+      "Dặn bệnh nhân không lo lắng"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Thời điểm tiêm adrenaline lặp lại trong sốc phản vệ là:",
+    "options": [
+      "3–5 phút",
+      "5–7 phút",
+      "10–15 phút",
+      "20–30 phút"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Một biến chứng có thể gặp khi dùng adrenaline quá liều là:",
+    "options": [
+      "Tăng tiết mồ hôi",
+      "Run tay",
+      "Buồn ngủ",
+      "Hạ đường huyết"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "question": "Trong xử trí ngất trắng, thuốc được chỉ định là:",
+    "options": [
+      "Kháng sinh",
+      "Thuốc an thần",
+      "Adrenaline",
+      "Corticoid"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Chức năng chính của xoa bóp tim ngoài lồng ngực là:",
+    "options": [
+      "Tạo huyết áp nhân tạo",
+      "Làm bệnh nhân tỉnh lại nhanh",
+      "Tăng oxy máu",
+      "Giảm đau ngực"
+    ],
+    "answer": [
+      0
+    ]
+  }
+]

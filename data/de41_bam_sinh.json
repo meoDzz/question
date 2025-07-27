@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Tỷ lệ bất thường nhiễm sắc thể chiếm khoảng bao nhiêu trong tổng số dị tật bẩm sinh?",
+    "options": [
+      "0.5%",
+      "1%",
+      "3%",
+      "10%"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Thời kỳ nào trong thai kỳ thai nhi nhạy cảm nhất với tác nhân gây dị dạng?",
+    "options": [
+      "Tuần 1–2",
+      "Tuần 3–8",
+      "Tuần 9–12",
+      "Sau tuần 12"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Dị tật bẩm sinh do di truyền thường liên quan đến?",
+    "options": [
+      "Đột biến gen",
+      "Thiếu máu",
+      "Nhiễm trùng",
+      "Suy dinh dưỡng"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Tác động của rượu lên thai nhi được gọi là gì?",
+    "options": [
+      "Hội chứng nghiện rượu bẩm sinh",
+      "Hội chứng Down",
+      "Hội chứng ngộ độc rượu bào thai",
+      "Rối loạn phát triển bào thai"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Hội chứng nào liên quan đến 3 NST số 13?",
+    "options": [
+      "Down",
+      "Patau",
+      "Turner",
+      "Edwards"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Tác nhân gây dị tật nào sau đây là virus?",
+    "options": [
+      "Rubella",
+      "Thalidomide",
+      "Rượu",
+      "Khói thuốc lá"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Thalidomide gây dị tật nào đặc trưng?",
+    "options": [
+      "Tật không não",
+      "Tật cánh tay cụt",
+      "Tim bẩm sinh",
+      "Đục thủy tinh thể"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Yếu tố nguy cơ di truyền nào làm tăng dị tật ở con?",
+    "options": [
+      "Quan hệ cận huyết",
+      "Tuổi mẹ dưới 20",
+      "Thiếu sắt",
+      "Sinh non"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Tác nhân nào sau đây được xem là cơ học gây dị tật?",
+    "options": [
+      "Chèn ép tử cung",
+      "Rubella",
+      "Hóa chất",
+      "Thiếu máu"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Hội chứng Turner có đặc điểm nào sau đây?",
+    "options": [
+      "Không có NST Y",
+      "Ba NST X",
+      "Dư NST 21",
+      "NST giới tính XY"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Dị tật nào có thể phát hiện qua chọc ối?",
+    "options": [
+      "Thừa NST",
+      "Nhiễm virus",
+      "Suy dinh dưỡng",
+      "Thiếu máu"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Khi nào nên siêu âm hình thái học thai nhi?",
+    "options": [
+      "Tuần 10–12",
+      "Tuần 18–22",
+      "Tuần 28–30",
+      "Tuần 35–37"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Thai phụ nào sau đây cần được tư vấn di truyền?",
+    "options": [
+      "Tiền sử sinh con dị tật",
+      "Thiếu sắt",
+      "Sinh mổ trước đó",
+      "Sảy thai một lần"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Tác nhân hóa học gây dị tật chủ yếu ảnh hưởng vào giai đoạn?",
+    "options": [
+      "Làm tổ",
+      "Phôi",
+      "Thai",
+      "Sau sinh"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong tam cá nguyệt thứ nhất, yếu tố nào nguy cơ cao gây dị tật?",
+    "options": [
+      "Sốt siêu vi",
+      "Đau đầu",
+      "Thiếu ngủ",
+      "Thiếu nước"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Nhiễm sắc thể giới tính bất thường gây ảnh hưởng đến?",
+    "options": [
+      "Tâm thần",
+      "Cơ quan sinh dục",
+      "Thận",
+      "Phổi"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Chẩn đoán sau sinh dị tật chủ yếu dựa vào?",
+    "options": [
+      "Khám hình thái",
+      "Chọc ối",
+      "Xét nghiệm máu mẹ",
+      "Siêu âm thai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Phương pháp nào KHÔNG phải chẩn đoán trước sinh?",
+    "options": [
+      "Xét nghiệm máu mẹ",
+      "Chọc ối",
+      "Khám hậu sản",
+      "Sinh thiết gai nhau"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Dị tật hệ thần kinh thường gặp nhất là?",
+    "options": [
+      "Tật vô sọ",
+      "Hẹp cột sống",
+      "Bán cầu não đôi",
+      "Tật giãn não thất"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Mức độ ảnh hưởng của tác nhân gây dị dạng phụ thuộc vào?",
+    "options": [
+      "Liều lượng – thời điểm – thời gian phơi nhiễm",
+      "Tuổi mẹ",
+      "Cân nặng thai",
+      "Nước ối"
+    ],
+    "answer": 0
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Câu hỏi 1: Xỉu là gì?",
+    "options": [
+      "Sự ngưng tim đột ngột",
+      "Trạng thái mất ý thức tạm thời do thiếu máu não",
+      "Rối loạn cảm xúc cấp tính",
+      "Co giật do sốt cao"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 2: Nguyên nhân thường gặp nhất gây ngất ở người trẻ là gì?",
+    "options": [
+      "Ngất do tim",
+      "Ngất phản xạ (ngất do cảm xúc)",
+      "Động kinh",
+      "Thiếu oxy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 3: Tư thế nào thường gặp nhất khi bị xỉu?",
+    "options": [
+      "Đang nằm",
+      "Đang ngồi",
+      "Đang đứng",
+      "Đang ngủ"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu hỏi 4: Biểu hiện nào sau đây thường xuất hiện trước khi xỉu?",
+    "options": [
+      "Đau ngực dữ dội",
+      "Buồn nôn, chóng mặt, mờ mắt",
+      "Đau đầu từng cơn",
+      "Ngứa toàn thân"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 5: Màu da bệnh nhân khi xỉu thường như thế nào?",
+    "options": [
+      "Tái nhợt",
+      "Đỏ bừng",
+      "Xanh xao",
+      "Vàng da"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 6: Biện pháp xử trí đầu tiên khi có người bị xỉu là gì?",
+    "options": [
+      "Gọi cấp cứu 115 ngay lập tức",
+      "Đặt nằm đầu thấp, nâng hai chân",
+      "Cho uống nước đường",
+      "Cho hít amoniac"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 7: Đặc điểm giúp phân biệt xỉu với động kinh là gì?",
+    "options": [
+      "Mất ý thức ngắn, hồi phục nhanh",
+      "Có co giật kéo dài",
+      "Tiểu tiện không kiểm soát",
+      "Cắn lưỡi"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 8: Khi bệnh nhân hồi phục sau xỉu, ta nên làm gì?",
+    "options": [
+      "Để đứng dậy ngay",
+      "Cho uống nước và nghỉ ngơi",
+      "Tiêm thuốc trợ tim",
+      "Bắt đầu vận động nhẹ"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 9: Xỉu có thể nguy hiểm khi nào?",
+    "options": [
+      "Kéo dài hơn 30 phút",
+      "Kèm đau ngực, hồi hộp, đánh trống ngực",
+      "Xảy ra khi đang đứng",
+      "Tái phát nhiều lần trong tuần"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 10: Biểu hiện nào sau đây không phù hợp với xỉu đơn thuần?",
+    "options": [
+      "Ý thức hồi phục nhanh",
+      "Không có cử động giật",
+      "Không nhớ gì về sự việc",
+      "Thường xảy ra sau cảm xúc mạnh"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu hỏi 11: Nguyên nhân nào sau đây là ngất do tim?",
+    "options": [
+      "Ngất do phản xạ",
+      "Ngất do cảm xúc",
+      "Rối loạn nhịp tim",
+      "Thiếu máu não tư thế"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu hỏi 12: Hồi phục sau xỉu thường mất bao lâu?",
+    "options": [
+      "Vài giây đến vài phút",
+      "Vài giờ",
+      "Vài ngày",
+      "Hơn một tuần"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 13: Triệu chứng đi kèm thường gặp nhất trước khi xỉu là?",
+    "options": [
+      "Đau ngực",
+      "Co giật",
+      "Hoa mắt, chóng mặt",
+      "Sốt cao"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu hỏi 14: Vị trí tốt nhất để bệnh nhân khi đang xỉu là?",
+    "options": [
+      "Ngồi ghế cao",
+      "Nằm ngửa, đầu thấp, nâng chân",
+      "Nằm sấp",
+      "Ngồi xếp bằng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 15: Yếu tố nào sau đây có thể gây xỉu?",
+    "options": [
+      "Tiếng động lớn",
+      "Thay đổi tư thế đột ngột",
+      "Ăn no",
+      "Hạ đường huyết"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 16: Trong sơ cứu xỉu, không nên làm điều gì?",
+    "options": [
+      "Đập mạnh vào mặt bệnh nhân",
+      "Đặt nằm đầu thấp",
+      "Nới lỏng quần áo",
+      "Cho ngửi dầu gió"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 17: Mạch và huyết áp khi xỉu thường như thế nào?",
+    "options": [
+      "Tăng",
+      "Bình thường",
+      "Giảm",
+      "Không đo được"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu hỏi 18: Đâu là dấu hiệu phân biệt xỉu với tai biến mạch máu não?",
+    "options": [
+      "Xỉu thường mất ý thức ngắn, hồi phục nhanh",
+      "Có liệt nửa người",
+      "Đau đầu dữ dội",
+      "Mất ngôn ngữ"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu hỏi 19: Sau khi hồi phục, bệnh nhân nên?",
+    "options": [
+      "Tiếp tục sinh hoạt bình thường ngay",
+      "Nghỉ ngơi và theo dõi thêm",
+      "Uống cà phê",
+      "Chạy bộ nhẹ"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu hỏi 20: Mục tiêu quan trọng nhất trong xử trí xỉu là gì?",
+    "options": [
+      "Gọi xe cấp cứu",
+      "Phục hồi máu lên não",
+      "Uống nước ngọt",
+      "Cho hít oxy"
+    ],
+    "answer": 1
+  }
+]

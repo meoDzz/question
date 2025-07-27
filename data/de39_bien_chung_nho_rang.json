@@ -1,0 +1,262 @@
+[
+  {
+    "question": "Nguyên nhân nào sau đây có thể gây ngất trong tiểu phẫu nhổ răng?",
+    "options": [
+      "Phản xạ dây thần kinh X",
+      "Tăng huyết áp cấp",
+      "Sợ hãi",
+      "Sốc phản vệ",
+      "Thiếu canxi máu"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "question": "Triệu chứng lâm sàng thường gặp khi xỉu là gì?",
+    "options": [
+      "Toát mồ hôi",
+      "Mặt tái xanh",
+      "Nôn mửa",
+      "Đỏ bừng mặt",
+      "Ngất hoàn toàn"
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "question": "Biện pháp xử trí xỉu trong phòng nha là gì?",
+    "options": [
+      "Cho bệnh nhân đứng dậy ngay",
+      "Nằm đầu thấp",
+      "Ngửi amoniac",
+      "Xoa cồn",
+      "Chích Cafeine"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Ngất xanh có đặc điểm nào sau đây?",
+    "options": [
+      "Ngưng thở",
+      "Da xanh tím",
+      "Tim ngừng đập",
+      "Huyết áp tăng rồi giảm",
+      "Mạch không bắt được"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "question": "Điều trị ngất xanh bao gồm:",
+    "options": [
+      "Thở oxy",
+      "Hô hấp nhân tạo",
+      "Mở khí quản",
+      "Tiêm kháng sinh",
+      "Chườm lạnh"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "question": "Ngất trắng có đặc điểm nào sau đây?",
+    "options": [
+      "Ngất hoàn toàn",
+      "Ngừng tim phổi",
+      "Đồng tử giãn",
+      "Tim đập nhanh",
+      "Phản xạ tăng"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "question": "Biện pháp xử trí ngất trắng hiệu quả nhất là:",
+    "options": [
+      "Chườm ấm",
+      "Xoa bóp tim",
+      "Tiêm Adrenaline vào tim",
+      "Cho uống nước",
+      "Thay đổi tư thế"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Dây thần kinh nào dễ bị tổn thương khi nhổ răng?",
+    "options": [
+      "Dây thần kinh răng dưới",
+      "Dây thần kinh cằm",
+      "Dây thần kinh lưỡi",
+      "Dây chẩm nhỏ",
+      "Dây chằng chân bướm"
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "question": "Triệu chứng của tổn thương thần kinh gồm:",
+    "options": [
+      "Tê bì",
+      "Dị cảm",
+      "Co giật",
+      "Liệt nhẹ",
+      "Hôn mê"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "question": "Tổn thương dây thần kinh hồi phục hoàn toàn sau bao lâu nếu nhẹ?",
+    "options": [
+      "1–2 ngày",
+      "1 tuần",
+      "6–8 tuần",
+      "3 tháng",
+      "Không thể hồi phục"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "question": "Nguyên nhân gây tổn thương xoang hàm trong nhổ răng là gì?",
+    "options": [
+      "Viêm xoang do răng",
+      "Nang quanh chóp",
+      "Động tác bẫy không đúng",
+      "Viêm nha chu",
+      "Mòn cổ răng"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Chẩn đoán thủng xoang hàm có thể dựa vào:",
+    "options": [
+      "Nghiệm pháp xuôi",
+      "Nghiệm pháp ngược",
+      "Phim X-quang",
+      "Soi hàm trên",
+      "Thử tủy"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "question": "Xử trí khi lỗ thủng xoang hàm <3mm là:",
+    "options": [
+      "Giữ cục máu đông",
+      "Khâu ngay",
+      "Không súc miệng mạnh",
+      "Dặn không xì mũi",
+      "Cắt vạt tạo hình"
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "question": "Vạt nào có thể được dùng để đóng kín xoang thủng >5mm?",
+    "options": [
+      "Vạt trượt ngoài trong",
+      "Vạt xoay trong ngoài",
+      "Vạt trượt gần xa",
+      "Vạt nướu tự do",
+      "Ghép xương"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Triệu chứng điển hình của sốc phản vệ là gì?",
+    "options": [
+      "Mày đay",
+      "Khó thở",
+      "Huyết áp tụt",
+      "Đau bụng dữ dội",
+      "Rối loạn tiêu hóa"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "question": "Liều Adrenaline cho người lớn khi sốc phản vệ là:",
+    "options": [
+      "1ml tiêm dưới da",
+      "0.5 – 1 ống (1mg/1ml)",
+      "0.01mg/kg",
+      "2ml tiêm tĩnh mạch",
+      "0.3ml/kg"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "question": "Tác dụng phụ sau khi tiêm Adrenaline có thể là:",
+    "options": [
+      "Rối loạn nhịp tim",
+      "Hạ huyết áp",
+      "Run tay",
+      "Đau đầu",
+      "Buồn ngủ"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Các nguyên tắc chung khi xử lý biến chứng gồm:",
+    "options": [
+      "Theo dõi tình trạng bệnh nhân",
+      "Dùng dụng cụ đúng cách",
+      "Chỉ định chụp phim XQ",
+      "Sát khuẩn phòng mổ",
+      "Không dùng thuốc giảm đau"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Thời gian tử vong có thể xảy ra nếu không xử trí ngất trắng là:",
+    "options": [
+      "1 phút",
+      "2 phút",
+      "4 phút",
+      "6 phút",
+      "10 phút"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Dấu hiệu nhận biết sớm sốc phản vệ là:",
+    "options": [
+      "Bồn chồn",
+      "Sợ hãi",
+      "Ngứa",
+      "Khó thở nhẹ",
+      "Sưng mí mắt"
+    ],
+    "answer": [
+      2
+    ]
+  }
+]

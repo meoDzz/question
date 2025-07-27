@@ -64,7 +64,13 @@ document.addEventListener('DOMContentLoaded', () => {
         'de35_tich_tu_trenRang.json',
         'de36_tich_tu_trenRang.json',
         'de37_tram_rang_composite.json',
-        'de38_tram_rang_composite.json'
+        'de38_tram_rang_composite.json',
+        'de39_bien_chung_nho_rang.json',
+        'de40_bien_chung_nho_rang.json',
+        'de41_bam_sinh.json',
+        'de41_ngat_xiu.json',
+        'de42_bam_sinh.json',
+        'de42_ngat_xiu.json'
         
     ];
     // --- KẾT THÚC CẬP NHẬT ---
