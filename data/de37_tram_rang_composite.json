@@ -1,0 +1,266 @@
+[
+  {
+    "question": "Những yếu tố nào ảnh hưởng đến việc chọn màu răng trong trám thẩm mỹ?",
+    "options": [
+      "Độ sáng (value)",
+      "Độ bão hòa (chroma)",
+      "Tông màu (hue)",
+      "Tính trong mờ",
+      "Loại composite sử dụng",
+      "Thời gian chiếu đèn"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "question": "Các bước cơ bản trong kỹ thuật trám răng bằng composite là gì?",
+    "options": [
+      "Vô cảm và chuẩn bị",
+      "Cô lập răng",
+      "Sửa soạn xoang",
+      "Đặt vật liệu amalgam",
+      "Bôi keo dán",
+      "Đặt composite"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Tác dụng của đường vát men trong sửa soạn xoang là gì?",
+    "options": [
+      "Tăng diện tích dán dính",
+      "Tạo tính thẩm mỹ cao hơn",
+      "Giảm nguy cơ nứt răng",
+      "Tăng khả năng chịu lực",
+      "Tạo vi lưu cơ học tốt hơn"
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "question": "Các loại vật liệu có thể dùng để lót đáy khi trám composite?",
+    "options": [
+      "Ca(OH)₂",
+      "GIC (Glass Ionomer Cement)",
+      "Amalgam",
+      "Composite lỏng",
+      "Eugenol"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "question": "Những sai sót thường gặp trong kỹ thuật trám composite là gì?",
+    "options": [
+      "Co do trùng hợp",
+      "Kích thích tủy",
+      "Khớp cắn thấp",
+      "Hở rìa miếng trám",
+      "Bọng khí trong miếng trám",
+      "Tăng tính dán dính"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "question": "Những dụng cụ nào dùng trong hoàn tất và đánh bóng composite?",
+    "options": [
+      "Mũi kim cương mịn",
+      "Đĩa giấy nhám nhiều cỡ",
+      "Đèn halogen",
+      "Đài cao su",
+      "Bột đánh bóng"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "question": "Các kỹ thuật đặt composite phổ biến gồm những gì?",
+    "options": [
+      "Incremental layer technique",
+      "Horizontal layering technique",
+      "Vertical condensation",
+      "U-shape layering technique",
+      "Oblique technique",
+      "Successive cusp build-up technique"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "question": "Các dụng cụ cần thiết khi cô lập răng gồm?",
+    "options": [
+      "Cuộn bông gòn",
+      "Ống hút nước bọt",
+      "Máy chiếu laser",
+      "Đê cao su",
+      "Xi lanh tiêm thuốc tê"
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "question": "Yêu cầu kỹ thuật khi chiếu đèn quang trùng hợp là gì?",
+    "options": [
+      "Chiếu ở nhiều góc độ",
+      "Khoảng cách đèn càng gần càng tốt",
+      "Chiếu từ xa để tránh nhiệt",
+      "Thời gian chiếu phụ thuộc vào độ dày lớp trám",
+      "Đèn phải chiếu vuông góc với bề mặt trám"
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "question": "Đặc điểm của composite là gì?",
+    "options": [
+      "Có tính thẩm mỹ cao",
+      "Có thể co do trùng hợp",
+      "Kết dính tốt với mô răng",
+      "Dẫn nhiệt tốt",
+      "Có đặc tính sinh học hoàn hảo"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Chức năng của keo dán men-ngà gồm?",
+    "options": [
+      "Tạo kết dính hóa học",
+      "Tạo kết dính cơ học",
+      "Làm giảm đau sau trám",
+      "Bảo vệ mô tủy",
+      "Tăng độ bóng cho miếng trám"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "question": "Mục đích sử dụng acid H₃PO₄ trong kỹ thuật trám là gì?",
+    "options": [
+      "Tăng kết dính giữa composite và răng",
+      "Làm sạch xoang trám",
+      "Mở các ống ngà",
+      "Tẩy trắng răng",
+      "Loại bỏ ngà mủn"
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "question": "Lưu ý khi rửa acid sau xoi mòn là gì?",
+    "options": [
+      "Dùng nước phun sương",
+      "Không dùng tia hơi có dầu",
+      "Không súc miệng sau xoi mòn",
+      "Làm khô tuyệt đối bằng hơi",
+      "Giữ độ ẩm phù hợp tùy loại keo dán"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Tại sao phải đặt composite từng lớp mỏng?",
+    "options": [
+      "Giảm hiện tượng co rút",
+      "Giúp composite đông đều hơn",
+      "Tăng tính thẩm mỹ",
+      "Tránh tạo bọt khí",
+      "Giúp tiết kiệm vật liệu"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "question": "Lý do sử dụng GIC trong trám composite?",
+    "options": [
+      "Tạo lớp lót ngăn kích thích tủy",
+      "Kết dính hóa học với ngà",
+      "Chịu lực tốt hơn composite",
+      "Giảm co rút composite",
+      "Tăng độ cứng cho xoang trám"
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "question": "Kỹ thuật chọn màu răng theo hệ thống Vita 3D Master bao gồm?",
+    "options": [
+      "Chọn độ sáng",
+      "Chọn độ bão hòa",
+      "Chọn tông màu",
+      "Ghi nhận màu sắc",
+      "So màu bằng laser"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "question": "Cách xử lý sau khi xoi mòn men và ngà?",
+    "options": [
+      "Không xịt khô bằng khí có dầu",
+      "Không súc miệng",
+      "Cô lập lại răng",
+      "Đảm bảo độ ẩm phù hợp",
+      "Chiếu đèn ngay sau xoi mòn"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Hiệu ứng Opalescence là gì?",
+    "options": [
+      "Hiệu ứng ánh sáng đặc biệt",
+      "Do cấu trúc tinh thể nhỏ tạo nên",
+      "Tạo màu răng giống thật",
+      "Chỉ xảy ra ở ngà răng",
+      "Gây đổi màu men răng"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "question": "Vai trò của việc đánh bóng sau trám là gì?",
+    "options": [
+      "Tăng độ bền miếng trám",
+      "Giảm bám dính vi khuẩn",
+      "Tăng tính thẩm mỹ",
+      "Tránh kích thích tủy",
+      "Tăng khả năng chịu lực"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Những vị trí có thể thực hiện vát men loại dài là?",
+    "options": [
+      "Thành nhai",
+      "Thành nướu",
+      "Thành bên",
+      "Rìa cắn",
+      "Mặt trong"
+    ],
+    "answer": [
+      0
+    ]
+  }
+]

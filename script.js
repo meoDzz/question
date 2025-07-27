@@ -62,7 +62,9 @@ document.addEventListener('DOMContentLoaded', () => {
         'de33_vnhtll_part1.json',
         'de34_vnhtll_part2.json',
         'de35_tich_tu_trenRang.json',
-        'de36_tich_tu_trenRang.json'
+        'de36_tich_tu_trenRang.json',
+        'de37_tram_rang_composite.json',
+        'de38_tram_rang_composite.json'
         
     ];
     // --- KẾT THÚC CẬP NHẬT ---

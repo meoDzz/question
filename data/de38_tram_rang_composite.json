@@ -1,0 +1,242 @@
+[
+  {
+    "question": "Composite kết dính với men răng chủ yếu bằng cách nào?",
+    "options": [
+      "Tác động nhiệt",
+      "Kết dính cơ học và hóa học",
+      "Liên kết ion",
+      "Hấp phụ bề mặt"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "question": "Chất nào sau đây không nên dùng để lót đáy khi trám composite?",
+    "options": [
+      "GIC",
+      "Ca(OH)₂",
+      "Eugenol",
+      "Glass ionomer"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Thành phần nào dùng để xoi mòn men và ngà răng?",
+    "options": [
+      "Ca(OH)₂",
+      "Acid HCl",
+      "Acid H₃PO₄ 37%",
+      "NaCl"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Thời gian xoi mòn men răng bằng H₃PO₄ 37% là bao lâu?",
+    "options": [
+      "5 giây",
+      "10 giây",
+      "15 giây",
+      "20 giây"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Vật liệu nào dùng để làm sạch bề mặt răng trước khi trám?",
+    "options": [
+      "GIC",
+      "Eugenol",
+      "Bột đá bọt",
+      "Composite lỏng"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Trong kỹ thuật trám, khi nào nên sử dụng comp lỏng?",
+    "options": [
+      "Là lớp nền phủ ngoài cùng",
+      "Khi cần tạo độ cứng cao",
+      "Ở lớp đầu tiên sát thành xoang",
+      "Để gắn khớp cắn"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Chiếu đèn quang trùng hợp nên thực hiện bao lâu cho mỗi lớp composite?",
+    "options": [
+      "5 giây",
+      "10 giây",
+      "20 giây",
+      "30 giây"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Đường vát men loại ngắn có đặc điểm nào sau đây?",
+    "options": [
+      "Góc 30°, bề rộng 2–3mm",
+      "Góc 90°, bề rộng 1mm",
+      "Góc 45°, bề rộng ~1mm",
+      "Góc 60°, bề rộng ~2mm"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Loại composite nào dùng để che màu lớp ngà quá sẫm?",
+    "options": [
+      "Composite ngà",
+      "Composite men",
+      "Opaque composite",
+      "Composite flow"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Tại sao không nên dùng eugenol khi trám bằng composite?",
+    "options": [
+      "Gây đau sau trám",
+      "Làm thay đổi màu răng",
+      "Ức chế quá trình trùng hợp nhựa",
+      "Làm tăng độ co rút"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Kỹ thuật đặt composite nào mô phỏng việc xây múi răng lần lượt?",
+    "options": [
+      "Horizontal technique",
+      "U-shape technique",
+      "Oblique technique",
+      "Successive cusp build-up technique"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "question": "Khi cô lập răng bằng bông, cần đặt ở đâu với hàm trên?",
+    "options": [
+      "Dưới lưỡi",
+      "Trước ống Stenon",
+      "Sau răng cửa dưới",
+      "Gần thành khẩu cái"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "question": "Tác dụng của GIC trong lót đáy là gì?",
+    "options": [
+      "Tăng độ cứng",
+      "Giảm co rút composite",
+      "Làm thay đổi màu răng",
+      "Gây trùng hợp"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "question": "Độ trong mờ của men răng là khoảng bao nhiêu?",
+    "options": [
+      "20%",
+      "40%",
+      "50%",
+      "70%"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "question": "Hiệu ứng Opal thấy rõ nhất ở đâu?",
+    "options": [
+      "Mặt nhai",
+      "Men răng vùng cổ",
+      "Đá mắt mèo",
+      "Lớp ngà trong"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Vì sao cần đánh bóng miếng trám sau khi hoàn tất?",
+    "options": [
+      "Làm đẹp",
+      "Giảm bám màu, mảng bám",
+      "Làm tăng độ cứng",
+      "Dễ chụp X-quang"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "question": "Thành phần chính trong keo dán giúp kết dính ngà là gì?",
+    "options": [
+      "Etchant",
+      "Monomer",
+      "Primer",
+      "Silane"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Chiều dày tối đa mỗi lớp composite khi trám là bao nhiêu?",
+    "options": [
+      "3 mm",
+      "2 mm",
+      "1 mm",
+      "4 mm"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "question": "Đặc điểm nào không đúng với composite?",
+    "options": [
+      "Có tính thẩm mỹ cao",
+      "Có co do trùng hợp",
+      "Dẫn điện tốt",
+      "Kết dính với mô cứng"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "question": "Kỹ thuật chọn màu răng sử dụng bảng nào sau đây?",
+    "options": [
+      "Vita 3D Master",
+      "RGB Table",
+      "Color Match Pro",
+      "Hue-Gide Scale"
+    ],
+    "answer": [
+      0
+    ]
+  }
+]
