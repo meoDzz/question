@@ -1,0 +1,541 @@
+[
+  {
+    "question": "Loại chấn thương xương hàm mặt phổ biến nhất trong tai nạn giao thông là:",
+    "options": [
+      "Gãy thân xương hàm dưới",
+      "Gãy mũi",
+      "Gãy ổ mắt",
+      "Gãy lồi cầu",
+      "Gãy xương gò má"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Trong các loại gãy xương hàm dưới, dạng gãy nào phổ biến nhất?",
+    "options": [
+      "Gãy góc hàm",
+      "Gãy đường giữa",
+      "Gãy thân xương",
+      "Gãy mỏm vẹt",
+      "Gãy lồi cầu"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gãy Lefort I còn gọi là:",
+    "options": [
+      "Gãy tầng mặt giữa thấp",
+      "Gãy nền sọ",
+      "Gãy ngang thân hàm",
+      "Gãy xương ổ mắt",
+      "Gãy thân xương hàm trên cao"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Dấu hiệu lâm sàng đặc trưng của gãy Lefort II:",
+    "options": [
+      "Tê môi dưới",
+      "Cắn lệch",
+      "Di động khối xương giữa mặt hình kim tự tháp",
+      "Chảy máu răng cửa",
+      "Hở khớp thái dương hàm"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gãy xương gò má có thể gây tổn thương dây thần kinh nào?",
+    "options": [
+      "Thần kinh mũi ngoài",
+      "Thần kinh hàm trên",
+      "Thần kinh ổ mắt dưới",
+      "Thần kinh cằm",
+      "Thần kinh lưỡi"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Triệu chứng đặc trưng của gãy xương mũi:",
+    "options": [
+      "Lõm mặt",
+      "Tê môi",
+      "Lệch trục mũi và chảy máu mũi",
+      "Sưng mi mắt",
+      "Lún cung mày"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "X-quang nào thường dùng để đánh giá gãy xương hàm dưới?",
+    "options": [
+      "Blondeau",
+      "Hirtz",
+      "Panorex (CTP)",
+      "Cephalometric",
+      "Water's view"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Dấu hiệu “thang bậc” là đặc trưng của:",
+    "options": [
+      "Gãy xương gò má",
+      "Gãy Lefort I",
+      "Gãy Lefort III",
+      "Gãy nền sọ",
+      "Gãy trần ổ mắt"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Di động cả khối mặt giữa bao gồm mũi, ổ mắt, xương gò má gặp trong:",
+    "options": [
+      "Lefort I",
+      "Lefort II",
+      "Lefort III",
+      "Gãy mũi",
+      "Gãy ổ mắt đơn thuần"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Chụp phim nào đánh giá tốt nhất gãy Lefort III?",
+    "options": [
+      "CT scan",
+      "Blondeau",
+      "Panorex",
+      "Cephalometric",
+      "MRI"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Phân loại gãy Lefort dựa trên:",
+    "options": [
+      "Cấu trúc giải phẫu bị ảnh hưởng",
+      "Hình thái đường gãy",
+      "Mức độ đau",
+      "Mức độ sưng nề",
+      "Vị trí mất răng"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Khi gãy lồi cầu hai bên, triệu chứng thường thấy là:",
+    "options": [
+      "Mất răng cửa",
+      "Mất cảm giác vùng cằm",
+      "Cắn hở phía sau",
+      "Cắn đối đầu",
+      "Cắn sâu"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Biến chứng nguy hiểm nhất của gãy Lefort III không điều trị là:",
+    "options": [
+      "Viêm xoang",
+      "Tổn thương mắt",
+      "Viêm màng não",
+      "Teo cơ nhai",
+      "Suy nhược thần kinh sọ"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong chấn thương xương hàm mặt, khi bệnh nhân không thể há miệng, nghĩ nhiều đến:",
+    "options": [
+      "Gãy thân hàm",
+      "Gãy góc hàm",
+      "Gãy lồi cầu",
+      "Gãy Lefort I",
+      "Gãy xương mũi"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Biến chứng lâu dài thường gặp nhất sau chấn thương xương hàm dưới:",
+    "options": [
+      "Nhiễm trùng",
+      "Lệch đường giữa",
+      "Cắn hở",
+      "Rối loạn khớp thái dương hàm",
+      "Sâu răng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Mục tiêu hàng đầu trong điều trị chấn thương xương hàm mặt:",
+    "options": [
+      "Làm đẹp thẩm mỹ",
+      "Phục hồi chức năng nhai, phát âm",
+      "Làm giảm đau",
+      "Cắt lọc mô hoại tử",
+      "Làm liền da nhanh"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong xử trí gãy Lefort I, bước quan trọng nhất là:",
+    "options": [
+      "Khâu môi",
+      "Gắn cố định xương ổ răng",
+      "Dẫn lưu ổ xoang",
+      "Nắn chỉnh khớp cắn",
+      "Phẫu thuật tạo hình ổ mắt"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Khi nghi ngờ gãy xương hàm dưới, khám cần thực hiện đầu tiên là:",
+    "options": [
+      "Chụp CT",
+      "Khám cảm giác vùng cằm",
+      "Ấn nắn đường hàm dưới",
+      "Gõ răng",
+      "Khám khớp cắn"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Biến dạng mặt, lệch cằm, cắn lệch nghi ngờ:",
+    "options": [
+      "Gãy thân hàm",
+      "Gãy góc hàm",
+      "Gãy đơn Lefort I",
+      "Gãy lồi cầu một bên",
+      "Cắn ngược"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Chỉ định mở đường mổ đường ngoài mặt thường dành cho:",
+    "options": [
+      "Gãy lồi cầu",
+      "Gãy xương mũi",
+      "Gãy xương gò má",
+      "Gãy Lefort I",
+      "Gãy ổ răng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong gãy Lefort II, vị trí đường gãy KHÔNG đi qua:",
+    "options": [
+      "Xương gò má",
+      "Bờ dưới ổ mắt",
+      "Bờ trên ổ mắt",
+      "Cánh mũi",
+      "Xương khẩu cái"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Biến chứng nguy hiểm nếu không điều trị đúng gãy Lefort III:",
+    "options": [
+      "Mất răng",
+      "Rối loạn nhai",
+      "Lún ổ mắt",
+      "Nhiễm trùng xoang",
+      "Viêm màng não"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Tổn thương dây thần kinh ổ mắt dưới có thể gặp trong:",
+    "options": [
+      "Lefort I",
+      "Lefort mũi đơn thuần",
+      "Gãy gò má",
+      "Gãy xương trán",
+      "Gãy mỏm vẹt"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gãy góc hàm nếu không cố định tốt có thể dẫn đến:",
+    "options": [
+      "Cắn chéo",
+      "Lệch đường giữa",
+      "Cắn sâu sau",
+      "Đau khớp thái dương hàm",
+      "Không rõ"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Gãy xương hàm mặt có biến chứng nào sau đây nếu chẩn đoán muộn?",
+    "options": [
+      "Tăng sản mô nướu",
+      "Cứng khớp hàm",
+      "Viêm lợi mãn",
+      "Sâu răng lan rộng",
+      "U tủy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Một trong những mục tiêu chính khi phẫu thuật cố định xương gãy là:",
+    "options": [
+      "Khâu da thẩm mỹ",
+      "Ngăn ngừa tụ máu",
+      "Phục hồi khớp cắn",
+      "Tăng chức năng thở",
+      "Giảm phù nề"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gãy Lefort III có thể gây tổn thương đến:",
+    "options": [
+      "Xoang hàm",
+      "Xoang trán",
+      "Ổ mắt",
+      "Hòm tai",
+      "Tất cả đều đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Kỹ thuật cố định trong gãy xương hàm dưới đơn giản nhất là:",
+    "options": [
+      "Phẫu thuật nắn chỉnh",
+      "Nẹp vít ngoài",
+      "Nẹp vít trong",
+      "Cố định hàm bằng cung mắt cáo",
+      "Cố định ngoài xương"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Tình trạng nào sau đây KHÔNG phải là dấu hiệu gãy Lefort II?",
+    "options": [
+      "Gãy đơn Lefort II dấu hiệu sai",
+      "...",
+      "...",
+      "...",
+      "..."
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Khi khám bệnh nhân chấn thương hàm mặt, bước đầu tiên là:",
+    "options": [
+      "Đánh giá đường thở và hô hấp",
+      "Đo huyết áp",
+      "Chụp CT sọ",
+      "Đặt nội khí quản",
+      "Tiêm kháng sinh"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Gãy lồi cầu hai bên có thể gây:",
+    "options": [
+      "Cắn sâu",
+      "Khít hàm",
+      "Lệch đường giữa",
+      "Cắn đối đầu",
+      "Mất đường cong Spee"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Lý do cần điều trị sớm gãy xương hàm:",
+    "options": [
+      "Giảm sưng",
+      "Ngăn nhiễm trùng",
+      "Duy trì thẩm mỹ",
+      "Phục hồi chức năng ăn nhai",
+      "Tất cả đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Đặc điểm phân biệt gãy Lefort I và Lefort II:",
+    "options": [
+      "Vị trí đường gãy",
+      "Số răng bị tổn thương",
+      "Tổn thương mắt",
+      "Mức độ đau",
+      "Di động vùng mũi"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Trong xử trí gãy xương hàm dưới, cố định bằng vít thường dùng khi:",
+    "options": [
+      "Gãy đơn giản",
+      "Gãy nhiều mảnh",
+      "Gãy ổ răng",
+      "Gãy mỏp vẹt",
+      "Gãy lồi cầu"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sau gãy xương hàm mặt, điều trị bảo tồn thường áp dụng khi:",
+    "options": [
+      "Gãy lệch lớn",
+      "Gãy có tổn thương thần kinh",
+      "Gãy không lệch",
+      "Gãy mất răng",
+      "Gãy nhiều mảnh"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Hạn chế há miệng sau chấn thương vùng lồi cầu có thể là do:",
+    "options": [
+      "Tổn thương cơ cắn",
+      "Viêm khớp thái dương hàm",
+      "Tổn thương thần kinh mặt",
+      "Gãy mỏp vẹt",
+      "Gãy ổ răng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Dây thần kinh bị ảnh hưởng trong gãy góc hàm thường là:",
+    "options": [
+      "Thần kinh hàm trên",
+      "Thần kinh ổ mắt dưới",
+      "Thần kinh lưỡi",
+      "Thần kinh cằm",
+      "Thần kinh mũi ngoài"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Mất cảm giác môi dưới gặp trong:",
+    "options": [
+      "Gãy thân hàm",
+      "Gãy mỏp vẹt",
+      "Gãy lồi cầu",
+      "Gãy gò má",
+      "Gãy ổ mắt"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Đường mổ nội miệng thường dùng để điều trị gãy:",
+    "options": [
+      "Tắc mũi mạn",
+      "Lệch trục mũi",
+      "Viêm xoang",
+      "Biến dạng mặt",
+      "Tất cả đúng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gãy mũi nếu không điều trị sớm có thể gây:",
+    "options": [
+      "Xoang hàm",
+      "Ổ mắt",
+      "Xương ổ răng",
+      "Cánh mũi",
+      "Đường giữa mặt"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Gãy Lefort I không ảnh hưởng đến:",
+    "options": [
+      "Không đáng tin cậy",
+      "Không đặc hiệu",
+      "Có thể bị che lấp bởi shock",
+      "Phụ thuộc cá nhân",
+      "Tất cả đúng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Mức độ đau không phải là yếu tố phân loại gãy Lefort vì:",
+    "options": [
+      "Gãy lồi cầu",
+      "Gãy xương gò má",
+      "Gãy xương hàm dưới",
+      "Gãy Lefort II",
+      "Gãy mũi"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Kết hợp cố định xương với nắn chỉnh khớp cắn là nguyên tắc điều trị:",
+    "options": [
+      "Hở khớp cắn",
+      "Đau khi nhai",
+      "Cắn lệch",
+      "Tê môi",
+      "Tất cả đều đúng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gãy xương hàm dưới có thể phát hiện qua triệu chứng nào sau đây:",
+    "options": [
+      "Gãy lồi cầu",
+      "Gãy ổ răng phức tạp",
+      "...",
+      "...",
+      "..."
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Phẫu thuật tạo hình thường được thực hiện trong trường hợp:",
+    "options": [
+      "Sau 72h",
+      "Sau khi hết sưng",
+      "Trong vòng 24h",
+      "Sau khi chụp phim",
+      "Không có thời gian cụ thể"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Khâu thẩm mỹ vùng mặt nên được tiến hành:",
+    "options": [
+      "Gãy xương ổ răng",
+      "Gãy xương trán",
+      "Gãy xương gò má",
+      "Gãy Lefort I",
+      "Gãy ổ mắt"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Dấu hiệu \"bậc thang\" khi sờ cung gò má gợi ý:",
+    "options": [
+      "Sai khớp cắn",
+      "Khít hàm",
+      "Lệch đường giữa",
+      "Đau khớp thái dương hàm",
+      "Tất cả đúng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gãy lồi cầu không được điều trị đúng có thể gây:",
+    "options": [
+      "Truyền máu sớm",
+      "Hội chẩn liên chuyên khoa",
+      "Chỉ định CT sọ mặt",
+      "Ưu tiên phẫu thuật hàm",
+      "Bắt đầu bằng khâu vết thương"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Trong chấn thương xương hàm, khi có tổn thương phối hợp sọ mặt, cần:",
+    "options": [
+      "Hướng đường gãy",
+      "Tổn thương cung gò má",
+      "Ảnh hưởng ổ mắt",
+      "Khả năng di động khối mặt",
+      "Tất cả đúng"
+    ],
+    "answer": 1
+  }
+]

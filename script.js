@@ -70,7 +70,10 @@ document.addEventListener('DOMContentLoaded', () => {
         'de41_bam_sinh.json',
         'de41_ngat_xiu.json',
         'de42_bam_sinh.json',
-        'de42_ngat_xiu.json'
+        'de42_ngat_xiu.json',
+        'de43_chan_thuong_mo_mem_full.json',
+        'de44_chan_thuong_xuong_full.json',
+        'de45_chan_thuong_xor.json'
         
     ];
     // --- KẾT THÚC CẬP NHẬT ---

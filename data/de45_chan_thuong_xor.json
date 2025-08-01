@@ -1,0 +1,332 @@
+[
+  {
+    "question": "Câu 1. Mất máu cấp độ 2 trong chấn thương hàm mặt tương đương với lượng máu mất:",
+    "options": [
+      "Dưới 750ml",
+      "750–1000ml",
+      "800–1500ml",
+      "1500–2000ml",
+      "Trên 2000ml"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 2. Trong xử trí chấn thương răng – xương ổ răng, điều quan trọng đầu tiên là:",
+    "options": [
+      "Khám tổng quát",
+      "Cố định lại khớp cắn",
+      "Chụp phim đánh giá",
+      "Loại trừ tổn thương đe dọa tính mạng",
+      "Gây tê"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu 3. Chấn thương thân răng gồm, NGOẠI TRỪ:",
+    "options": [
+      "Gãy men và ngà răng",
+      "Vỡ men răng",
+      "Gãy chân răng",
+      "Nứt men răng",
+      "Gãy men và ngà răng lộ tủy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 4. Chấn thương chân răng KHÔNG bao gồm:",
+    "options": [
+      "Gãy 1/3 chóp",
+      "Gãy vát chân răng",
+      "Gãy thân răng",
+      "Gãy 1/3 cổ",
+      "Gãy 1/3 giữa"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 5. Gãy men và ngà răng không lộ tủy thường được điều trị bằng:",
+    "options": [
+      "Lấy tuỷ ngay",
+      "Gắn chốt",
+      "Tái tạo lại mô răng theo hình thể giải phẫu",
+      "Nhổ răng",
+      "Chụp răng tạm"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 6. Lung lay răng sau chấn thương là biểu hiện của:",
+    "options": [
+      "Viêm quanh răng",
+      "Chấn thương dây chằng nha chu",
+      "Nhiễm trùng tủy",
+      "Gãy xương ổ răng",
+      "Viêm tủy răng cấp"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 7. Điều trị gãy chân răng 1/3 chóp:",
+    "options": [
+      "Luôn nhổ bỏ",
+      "Theo dõi nếu răng sống tủy",
+      "Điều trị nội nha bắt buộc",
+      "Cố định và điều trị kháng sinh",
+      "Không cần điều trị"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 8. Răng bị gãy chân 1/3 cổ thường được xử trí bằng:",
+    "options": [
+      "Hàn kín ống tủy",
+      "Cắt chóp",
+      "Nhổ bỏ phần thân răng",
+      "Gắn lại bằng composite",
+      "Chỉ theo dõi"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 9. Trong chấn thương làm trật khớp răng, xử trí phù hợp là:",
+    "options": [
+      "Nhổ răng",
+      "Lấy tuỷ",
+      "Nắn chỉnh và cố định răng",
+      "Theo dõi tự lành",
+      "Gắn chốt tái tạo thân"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 10. Trật răng có thể gặp các hướng sau, NGOẠI TRỪ:",
+    "options": [
+      "Trồi",
+      "Lún",
+      "Lệch môi/lưỡi",
+      "Xoay tròn quanh trục dọc",
+      "Sang bên"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu 11. Khi răng bị rơi ra ngoài ổ xương, xử trí KHÔNG nên làm là:",
+    "options": [
+      "Cắm lại ngay nếu có điều kiện",
+      "Rửa răng bằng nước sạch",
+      "Bỏ răng vào nước muối sinh lý",
+      "Cạo sạch chân răng trước khi trồng lại",
+      "Cố định sau khi cắm lại"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu 12. Gãy xương ổ răng thường đi kèm với:",
+    "options": [
+      "Gãy xương hàm dưới",
+      "Viêm quanh răng",
+      "Trật răng",
+      "Tụ máu lợi",
+      "Chấn thương khớp thái dương hàm"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 13. Gãy xương ổ răng một thành điều trị bằng:",
+    "options": [
+      "Cố định lại khối răng – xương",
+      "Nhổ toàn bộ răng trong vùng gãy",
+      "Gắn hàm giả tạm",
+      "Phẫu thuật chỉnh hình",
+      "Điều trị nội nha"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu 14. Vết nứt men răng sau chấn thương:",
+    "options": [
+      "Luôn cần trám lại",
+      "Không cần điều trị, chỉ theo dõi",
+      "Điều trị nội nha",
+      "Gắn chốt",
+      "Phẫu thuật tái tạo thân"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu 15. Theo dõi tủy răng định kỳ sau chấn thương là:",
+    "options": [
+      "Không cần thiết nếu răng còn sống",
+      "Thực hiện mỗi tháng",
+      "3 tháng một lần",
+      "Chỉ cần khi có triệu chứng",
+      "Chụp phim hàng năm"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 16. Biến chứng nguy hiểm của trật răng không xử trí kịp thời là:",
+    "options": [
+      "Viêm quanh cuống",
+      "Hoại tử tủy",
+      "Răng lỏng vĩnh viễn",
+      "Dính khớp xương",
+      "Tất cả đều đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu 17. Chấn thương khớp răng – xương ổ răng có thể ảnh hưởng đến chức năng nào?",
+    "options": [
+      "Phát âm",
+      "Nhai",
+      "Thẩm mỹ",
+      "Cảm giác",
+      "Tất cả đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu 18. Gãy vát chân răng thường khó điều trị do:",
+    "options": [
+      "Khó tiếp cận ống tủy",
+      "Không cố định được",
+      "Nhiễm trùng lan nhanh",
+      "Răng bị mất tủy hoàn toàn",
+      "Tủy bị hở toàn bộ"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu 19. Khi răng bị lung lay nhiều sau chấn thương, xử trí đầu tiên là:",
+    "options": [
+      "Nhổ răng",
+      "Lấy tủy",
+      "Cố định",
+      "Theo dõi 1 tuần",
+      "Gắn lại phần răng gãy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 20. Một răng bị gãy phần thân và lộ tủy, xử trí đúng là:",
+    "options": [
+      "Trám lại bằng vật liệu tạm",
+      "Tái tạo thẩm mỹ",
+      "Điều trị nội nha trước, sau đó tái tạo",
+      "Lấy tủy rồi nhổ",
+      "Theo dõi nếu không đau"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 21. Chấn thương xương ổ răng gây đau khi:",
+    "options": [
+      "Nhai",
+      "Sờ vùng ngoài xương ổ",
+      "Ấn vào răng",
+      "Gõ nhẹ răng",
+      "Tất cả đều đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu 22. Phân độ mất máu ĐỘ 3 tương đương:",
+    "options": [
+      "< 750ml",
+      "800–1500ml",
+      "1500–2000ml",
+      "2000–2500ml",
+      "Trên 3000ml"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 23. Điều kiện quan trọng khi cắm lại răng bị rơi ra là:",
+    "options": [
+      "Thời gian ngoài miệng < 60 phút",
+      "Răng sạch",
+      "Không có chấn thương xương ổ nặng",
+      "Được cố định chắc",
+      "Tất cả đều đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu 24. Cố định răng sau chấn thương nên duy trì trong khoảng:",
+    "options": [
+      "1 ngày",
+      "3 ngày",
+      "7–10 ngày",
+      "3–6 tuần",
+      "Trọn đời"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu 25. Động tác “nắn chỉnh răng về đúng vị trí ban đầu” nên được thực hiện:",
+    "options": [
+      "Trong vòng 6h",
+      "Sau 24h",
+      "Chỉ khi răng không đau",
+      "Sau khi chụp phim CT",
+      "Không có thời gian cụ thể"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu 26. Trật răng có thể gây ra:",
+    "options": [
+      "Viêm lợi",
+      "Sai khớp cắn",
+      "Mất tủy răng",
+      "Di lệch khớp thái dương hàm",
+      "Câu B và C đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu 27. Mục tiêu điều trị chấn thương khớp răng – xương ổ răng là:",
+    "options": [
+      "Thẩm mỹ vùng răng cửa",
+      "Duy trì chức năng",
+      "Phòng tránh viêm nhiễm",
+      "Ổn định mô quanh răng",
+      "Tất cả đều đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Câu 28. Gãy xương ổ răng toàn khối thường cần:",
+    "options": [
+      "Cố định nhiều răng cùng lúc",
+      "Nhổ tất cả răng bị gãy",
+      "Gắn lại thân răng",
+      "Điều trị chỉnh nha",
+      "Phẫu thuật hàm"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu 29. Gãy xương ổ răng có thể gây lún răng do:",
+    "options": [
+      "Đứt dây chằng nha chu",
+      "Mất ổ xương",
+      "Tổn thương cơ quanh răng",
+      "Ứ máu nhiều",
+      "Tất cả đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Câu 30. Tổn thương phối hợp thường gặp trong chấn thương khớp răng là:",
+    "options": [
+      "Gãy xương hàm dưới",
+      "Rách niêm mạc",
+      "Sai khớp cắn",
+      "Trật răng",
+      "Tất cả đều đúng"
+    ],
+    "answer": 4
+  }
+]

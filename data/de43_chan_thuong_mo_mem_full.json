@@ -1,0 +1,332 @@
+[
+  {
+    "question": "Loại vết thương nào sau đây thường chỉ ảnh hưởng lớp thượng bì và có thể tự lành không để lại sẹo?",
+    "options": [
+      "Vết thương rách",
+      "Vết thương bỏng",
+      "Vết thương xây xát nông",
+      "Vết thương xuyên thấu",
+      "Vết thương đụng dập sâu"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Vết thương đụng dập thường không gây:",
+    "options": [
+      "Xuất huyết dưới da",
+      "Tổn thương da bề mặt",
+      "Đổi màu da",
+      "Hình thành máu tụ",
+      "Đau khi ấn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vết thương xuyên thủng thường gặp nguy cơ gì?",
+    "options": [
+      "Hoại tử thần kinh trung ương",
+      "Tổn thương tuyến giáp",
+      "Có dị vật nằm sâu trong mô",
+      "Lộ tủy răng",
+      "Chảy máu từ ổ mắt"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Phân loại vết thương phần mềm KHÔNG bao gồm tiêu chí nào sau đây?",
+    "options": [
+      "Hình thái lâm sàng",
+      "Mức độ đau",
+      "Vị trí giải phẫu",
+      "Nguyên nhân tổn thương",
+      "Đặc điểm mô học"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong điều trị vết thương phần mềm hàm mặt, nguyên tắc nào sau đây là sai?",
+    "options": [
+      "Luôn phải cắt lọc rộng tổ chức để đảm bảo sạch",
+      "Khâu kín vết thương có thể thực hiện trong vòng 72 giờ",
+      "Không làm biến dạng các mốc giải phẫu",
+      "Theo dõi phát hiện sớm biến chứng",
+      "Sử dụng kháng sinh phù hợp"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Loại vết thương nào gây tổn thương toàn bộ lớp thượng bì và mô dưới da?",
+    "options": [
+      "Đụng dập",
+      "Xây xát",
+      "Rách",
+      "Bỏng nhẹ",
+      "Tụ máu"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Đặc điểm của vết thương xây xát:",
+    "options": [
+      "Do va chạm với vật cùn",
+      "Do chà xát với mặt thô ráp",
+      "Thường xuyên có tụ máu lớn",
+      "Luôn cần khâu phục hồi",
+      "Gây chảy máu nặng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Đặc điểm mô học của vết thương đụng dập:",
+    "options": [
+      "Hoại tử hoàn toàn da",
+      "Vỡ mạch máu lớn",
+      "Xuất huyết dưới da/niêm mạc",
+      "Rách sâu mô mềm",
+      "Có dị vật trong vết thương"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Vết thương rách có mất tổ chức thường cần:",
+    "options": [
+      "Băng ép chặt",
+      "Khâu ngay mà không cần cắt lọc",
+      "Cắt lọc và khâu phục hồi",
+      "Chỉ theo dõi tại chỗ",
+      "Dán keo sinh học"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Đặc điểm nào sau đây đúng với vết thương do súc vật cắn?",
+    "options": [
+      "Không nguy hiểm",
+      "Không cần rửa vết thương",
+      "Có nguy cơ nhiễm trùng cao",
+      "Không cần tiêm phòng uốn ván",
+      "Luôn do chó gây ra"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Điều trị vết thương bỏng nhẹ vùng mặt thường KHÔNG cần:",
+    "options": [
+      "Làm sạch dị vật",
+      "Kháng sinh bôi tại chỗ",
+      "Gây mê toàn thân",
+      "Theo dõi hoại tử",
+      "Chống nhiễm trùng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Mục tiêu của khâu phục hồi vết thương phần mềm:",
+    "options": [
+      "Tạo sẹo nhanh",
+      "Phục hồi hình dạng và chức năng",
+      "Tăng viêm lành mô",
+      "Đảm bảo tạo mạch mới",
+      "Ngăn nhiễm khuẩn toàn thân"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vị trí giải phẫu nào dễ tổn thương trong chấn thương hàm mặt?",
+    "options": [
+      "Trán",
+      "Môi",
+      "Mang tai",
+      "Má",
+      "Tất cả đều đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Vết thương thiếu hồng tổ chức thường gặp trong:",
+    "options": [
+      "Chấn thương nhẹ",
+      "Do cháy, bỏng",
+      "Phẫu thuật chỉnh hình",
+      "Sau tai biến mạch máu não",
+      "Tổn thương tủy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vết thương đụng dập có thể dẫn đến biến chứng nào nếu không xử lý đúng?",
+    "options": [
+      "Nhiễm trùng huyết",
+      "Hình thành máu tụ và hoại tử",
+      "U máu lành tính",
+      "Teo cơ",
+      "Viêm tuyến nước bọt"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong chấn thương phần mềm, biến dạng vùng mặt có thể do:",
+    "options": [
+      "Khâu sai trục giải phẫu",
+      "Băng ép quá chặt",
+      "Dán vết thương không đúng",
+      "Không dùng thuốc giảm đau",
+      "Thiếu vitamin D"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Khi xử trí vết thương rách, cần thực hiện bước nào đầu tiên?",
+    "options": [
+      "Khâu phục hồi",
+      "Gây tê hoặc gây mê",
+      "Cắt lọc mô hoại tử",
+      "Cố định hàm",
+      "Bôi thuốc tím"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Khâu kín vết thương phần mềm vùng mặt có thể thực hiện tối đa sau:",
+    "options": [
+      "6 giờ",
+      "12 giờ",
+      "24 giờ",
+      "48 giờ",
+      "72 giờ"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Việc không phát hiện dị vật sâu trong vết thương có thể dẫn đến:",
+    "options": [
+      "Viêm tủy",
+      "Sẹo thâm",
+      "Áp xe tái phát hoặc viêm mạn tính",
+      "Hôi miệng",
+      "Tụ máu quanh hàm"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Loại kháng sinh nào sau đây được khuyến nghị bôi tại chỗ trong vết thương phần mềm đơn thuần?",
+    "options": [
+      "Cephalexin",
+      "Gentamycin",
+      "Metronidazole",
+      "Ampicillin",
+      "Streptomycin"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Tổn thương phần mềm ở vùng môi cần đặc biệt lưu ý:",
+    "options": [
+      "Phục hồi niêm mạc ngoài",
+      "Giữ nguyên đường viền đỏ",
+      "Bỏ qua phần cơ vòng môi",
+      "Khâu sớm trong 6 giờ",
+      "Cắt lọc nhiều lần"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong tổn thương phần mềm vùng mang tai, cần chú ý tránh tổn thương:",
+    "options": [
+      "Tuyến giáp",
+      "Dây thần kinh mặt",
+      "Hạch dưới hàm",
+      "Ống tai ngoài",
+      "Dây thần kinh lưỡi"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Khâu phục hồi vùng mặt cần ưu tiên:",
+    "options": [
+      "Thẩm mỹ trước chức năng",
+      "Đường khâu song song trục cơ",
+      "Tái tạo chính xác mốc giải phẫu",
+      "Khâu vết thương càng chặt càng tốt",
+      "Dùng chỉ tiêu nhỏ nhất có thể"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Nếu mô dập nát không thể phục hồi, xử trí thích hợp nhất là:",
+    "options": [
+      "Dán keo sinh học",
+      "Cố định ngoài",
+      "Cắt lọc bảo tồn tối đa",
+      "Khâu giữ mô",
+      "Chỉ băng ép"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Yếu tố ảnh hưởng lớn đến kết quả liền thương vùng mặt là:",
+    "options": [
+      "Tuổi bệnh nhân",
+      "Tay nghề bác sĩ",
+      "Quá trình chăm sóc hậu phẫu",
+      "Thời gian khâu vết thương",
+      "Loại chỉ sử dụng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Loại vết thương nào thường gây đau rát do tổn thương đầu mút thần kinh ngoại biên?",
+    "options": [
+      "Vết rách sâu",
+      "Xây xát nông",
+      "Vết bỏng nặng",
+      "Đụng dập má",
+      "Nhiễm trùng lan tỏa"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Phát biểu nào sau đây sai về vết thương xây xát?",
+    "options": [
+      "Có thể không để lại sẹo",
+      "Luôn tổn thương đến lớp hạ bì",
+      "Thường tự lành trong 7–10 ngày",
+      "Gây cảm giác đau rát",
+      "Có thể chứa bụi bẩn, dị vật"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vết thương nào sau đây có nguy cơ để lại sẹo xấu cao nhất?",
+    "options": [
+      "Xây xát nhẹ",
+      "Đụng dập kín",
+      "Rách có mất tổ chức",
+      "Tụ máu nông",
+      "Trầy da vùng trán"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Mục tiêu xử trí tổn thương phần mềm hàm mặt là gì?",
+    "options": [
+      "Ngăn biến chứng xa",
+      "Phục hồi giải phẫu, chức năng và thẩm mỹ",
+      "Rút ngắn thời gian điều trị",
+      "Hạn chế chi phí",
+      "Chống chỉ định kháng sinh"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong xử trí vết thương phần mềm, theo dõi sau điều trị giúp:",
+    "options": [
+      "Ngăn tái phát ung thư",
+      "Phát hiện nhiễm trùng, bục chỉ",
+      "Tăng liền xương",
+      "Giảm chi phí",
+      "Giảm sẹo"
+    ],
+    "answer": 1
+  }
+]
