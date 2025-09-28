@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Thiết bị nào chịu trách nhiệm hiển thị hình ảnh ra màn hình?",
+    "options": [
+      "CPU",
+      "GPU",
+      "RAM",
+      "ROM"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "CPU và GPU khác nhau ở điểm chính nào?",
+    "options": [
+      "CPU xử lí tính toán chung, GPU xử lí đồ họa",
+      "CPU chỉ để lưu trữ, GPU chỉ để đọc",
+      "GPU thay thế được CPU",
+      "Cả hai đều không liên quan hiệu suất"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "RAM viết tắt của?",
+    "options": [
+      "Random Access Memory",
+      "Read After Memory",
+      "Run Access Module",
+      "Read And Manage"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "ROM viết tắt của?",
+    "options": [
+      "Read Only Memory",
+      "Random Open Module",
+      "Read Or Modify",
+      "Run On Memory"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "ROM có đặc điểm gì?",
+    "options": [
+      "Mất dữ liệu khi tắt nguồn",
+      "Lưu trữ vĩnh viễn",
+      "Lưu tạm thời",
+      "Không dùng trong khởi động máy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Loại bộ nhớ nào giúp CPU xử lí nhanh hơn bằng cách lưu dữ liệu tạm?",
+    "options": [
+      "HDD",
+      "SSD",
+      "RAM",
+      "USB"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Thiết bị nào dùng trong BIOS để khởi động hệ thống?",
+    "options": [
+      "GPU",
+      "RAM",
+      "ROM",
+      "SSD"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Ổ đĩa cứng HDD sử dụng công nghệ gì?",
+    "options": [
+      "Chip nhớ Flash",
+      "Đĩa từ quay",
+      "Bộ nhớ Cache",
+      "Card đồ họa"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Ổ SSD có ưu điểm nổi bật so với HDD?",
+    "options": [
+      "Giá rẻ hơn",
+      "Truy xuất nhanh hơn",
+      "Lưu trữ nhiều hơn",
+      "Dễ hỏng hơn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Ổ USB thuộc loại thiết bị lưu trữ nào?",
+    "options": [
+      "Trong",
+      "Ngoài",
+      "RAM",
+      "ROM"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Thiết bị nào KHÔNG thuộc nhóm lưu trữ ngoài?",
+    "options": [
+      "Ổ USB",
+      "Ổ cứng di động",
+      "HDD",
+      "Thẻ nhớ"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Kết nối SATA thường dùng cho?",
+    "options": [
+      "Ổ cứng HDD/SSD",
+      "USB",
+      "GPU",
+      "RAM"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Thiết bị nào thường có tốc độ truy xuất dữ liệu nhanh nhất?",
+    "options": [
+      "RAM",
+      "SSD",
+      "HDD",
+      "USB"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "CPU hoạt động kết hợp với bộ nhớ nào để xử lí lệnh hiệu quả?",
+    "options": [
+      "ROM",
+      "GPU",
+      "RAM",
+      "USB"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "GPU thường hỗ trợ tốt cho công việc nào?",
+    "options": [
+      "Soạn thảo văn bản",
+      "Xử lí hình ảnh, video, game",
+      "Khởi động hệ thống",
+      "Lưu trữ dữ liệu"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Khi máy tính bị tắt đột ngột, dữ liệu trong RAM sẽ?",
+    "options": [
+      "Được lưu vào HDD",
+      "Được lưu vào ROM",
+      "Bị mất",
+      "Vẫn giữ nguyên"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong các thiết bị sau, cái nào KHÔNG phải là bộ nhớ chính?",
+    "options": [
+      "RAM",
+      "ROM",
+      "Cache",
+      "HDD"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Ổ cứng di động khác với HDD ở điểm nào?",
+    "options": [
+      "Nằm trong máy tính",
+      "Kết nối qua USB, dễ di chuyển",
+      "Lưu trữ tạm thời",
+      "Chỉ đọc được"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Chức năng chính của ROM trong máy tính?",
+    "options": [
+      "Lưu trữ tạm thời",
+      "Lưu trữ lâu dài và khởi động hệ thống",
+      "Xử lí hình ảnh",
+      "Tăng tốc đồ họa"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Loại thiết bị nào giúp tăng khả năng lưu trữ nhưng không ảnh hưởng trực tiếp đến tốc độ xử lí của CPU?",
+    "options": [
+      "RAM",
+      "ROM",
+      "HDD/SSD",
+      "GPU"
+    ],
+    "answer": 2
+  }
+]

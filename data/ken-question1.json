@@ -1,0 +1,202 @@
+[
+  {
+    "question": "CPU là gì?",
+    "options": [
+      "Bộ nhớ chính",
+      "Bộ xử lí trung tâm",
+      "Ổ lưu trữ ngoài",
+      "Card màn hình"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Thiết bị nào có nhiệm vụ xử lí dữ liệu và thực thi lệnh?",
+    "options": [
+      "CPU",
+      "RAM",
+      "ROM",
+      "Ổ USB"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "GPU còn gọi là gì?",
+    "options": [
+      "Card âm thanh",
+      "Card đồ họa",
+      "Chip xử lí trung tâm",
+      "Ổ cứng thể rắn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "RAM là loại bộ nhớ gì?",
+    "options": [
+      "Chỉ đọc",
+      "Khả biến (volatile)",
+      "Bất biến (non-volatile)",
+      "Vĩnh viễn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "ROM dùng để làm gì?",
+    "options": [
+      "Lưu trữ tạm thời",
+      "Chỉ đọc, chứa lệnh khởi động",
+      "Xử lí dữ liệu",
+      "Tăng tốc độ GPU"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Khi tắt máy, dữ liệu trong RAM sẽ như thế nào?",
+    "options": [
+      "Mất đi",
+      "Vẫn còn nguyên",
+      "Chuyển sang ROM",
+      "Chuyển sang HDD"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "ROM khác RAM ở điểm nào?",
+    "options": [
+      "ROM lưu tạm, RAM lưu vĩnh viễn",
+      "ROM bất biến, RAM khả biến",
+      "RAM rẻ hơn ROM",
+      "RAM chỉ đọc, ROM đọc ghi"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Ổ cứng HDD lưu trữ dữ liệu bằng?",
+    "options": [
+      "Đĩa từ quay",
+      "Chip nhớ Flash",
+      "ROM",
+      "RAM"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ổ cứng SSD lưu trữ dữ liệu bằng?",
+    "options": [
+      "Đĩa từ",
+      "Chip nhớ Flash",
+      "ROM",
+      "GPU"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Kết nối phổ biến của HDD và SSD là?",
+    "options": [
+      "HDMI",
+      "SATA, USB",
+      "VGA",
+      "PCI"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Ổ cứng di động thường kết nối với máy tính qua?",
+    "options": [
+      "SATA",
+      "USB",
+      "PCI",
+      "HDMI"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Ổ USB thuộc loại thiết bị lưu trữ nào?",
+    "options": [
+      "Bên ngoài",
+      "Bên trong",
+      "Tạm thời",
+      "Chỉ đọc"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "HDD và SSD giống nhau ở điểm nào?",
+    "options": [
+      "Đều dùng chip nhớ Flash",
+      "Đều là thiết bị lưu trữ bên trong",
+      "Đều lưu trữ bằng đĩa từ",
+      "Đều gắn ngoài qua USB"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Thiết bị nào KHÔNG phải thiết bị lưu trữ?",
+    "options": [
+      "HDD",
+      "SSD",
+      "RAM",
+      "CPU"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Đặc điểm của ổ cứng HDD là?",
+    "options": [
+      "Truy xuất nhanh hơn SSD",
+      "Sử dụng đĩa từ quay",
+      "Không cần điện mới lưu trữ",
+      "Chỉ đọc"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Đặc điểm của ổ cứng SSD là?",
+    "options": [
+      "Chậm hơn HDD",
+      "Dùng đĩa từ quay",
+      "Dùng chip nhớ Flash",
+      "Không thể kết nối qua USB"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Thiết bị nào giúp CPU khởi động nhanh hơn?",
+    "options": [
+      "RAM",
+      "ROM",
+      "GPU",
+      "HDD"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Thiết bị nào lưu trữ tạm thời để hỗ trợ CPU?",
+    "options": [
+      "GPU",
+      "RAM",
+      "ROM",
+      "HDD"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Thiết bị nào được xem là 'não' của máy tính?",
+    "options": [
+      "GPU",
+      "ROM",
+      "CPU",
+      "RAM"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong các thiết bị sau, thiết bị nào lưu trữ dữ liệu lâu dài?",
+    "options": [
+      "RAM",
+      "ROM",
+      "HDD",
+      "Cache"
+    ],
+    "answer": 2
+  }
+]
